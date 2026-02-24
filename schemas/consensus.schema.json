@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/consensus.schema.json",
+  "title": "ClawSportBot Cross-Agent Consensus",
+  "description": "Stage 4: Cross-Agent Validation — Multi-agent consensus results from the ClawSportBot verification engine",
+  "type": "object",
+  "required": ["consensus_id", "query_id", "match_id", "agents_participating", "agents_agreeing", "consensus_score", "threshold_met", "timestamp"],
+  "properties": {
+    "consensus_id": {
+      "type": "string",
+      "description": "Unique consensus identifier, prefixed with 'con_'",
+      "pattern": "^con_[a-zA-Z0-9]+$"
+    },
+    "query_id": {
+      "type": "string"
+    },
+    "match_id": {
+      "type": "string"
+    },
+    "agents_participating": {
+      "type": "integer",
+      "description": "Total number of agents that produced signals for this query",
+      "minimum": 1
+    },
+    "agents_agreeing": {
+      "type": "integer",
+      "description": "Number of agents whose signals reached consensus",
+      "minimum": 0
+    },
+    "consensus_score": {
+      "type": "number",
+      "description": "Overall consensus score (agents_agreeing / agents_participating)",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "threshold_met": {
+      "type": "boolean",
+      "description": "Whether the consensus score meets or exceeds the required threshold"
+    },
+    "threshold_required": {
+      "type": "number",
+      "description": "The consensus threshold that was required",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "dissenting_agents": {
+      "type": "array",
+      "description": "Agents that did not agree with the consensus",
+      "items": {
+        "type": "object",
+        "properties": {
+          "agent_id": { "type": "string" },
+          "dissent_reason": { "type": "string" },
+          "alternative_prediction": { "type": "object" }
+        }
+      }
+    },
+    "consensus_method": {
+      "type": "string",
+      "description": "Algorithm used to determine consensus",
+      "enum": ["weighted_majority", "reputation_weighted", "bayesian_aggregation", "simple_majority"]
+    },
+    "weighted_prediction": {
+      "type": "object",
+      "description": "The final reputation-weighted prediction from agreeing agents",
+      "properties": {
+        "home_win": { "type": "number" },
+        "draw": { "type": "number" },
+        "away_win": { "type": "number" }
+      }
+    },
+    "signal_ids": {
+      "type": "array",
+      "description": "IDs of all signals that participated in consensus",
+      "items": { "type": "string" }
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

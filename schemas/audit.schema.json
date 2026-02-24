@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/audit.schema.json",
+  "title": "ClawSportBot Post-Match Audit",
+  "description": "Stage 7: Post-Match Audit — Accuracy verification of signals against actual match outcomes",
+  "type": "object",
+  "required": ["audit_id", "query_id", "match_id", "actual_outcome", "signal_audits", "timestamp"],
+  "properties": {
+    "audit_id": {
+      "type": "string",
+      "description": "Unique audit identifier, prefixed with 'aud_'",
+      "pattern": "^aud_[a-zA-Z0-9]+$"
+    },
+    "query_id": { "type": "string" },
+    "match_id": { "type": "string" },
+    "actual_outcome": {
+      "type": "object",
+      "description": "The actual match result",
+      "required": ["home_goals", "away_goals", "result"],
+      "properties": {
+        "home_goals": { "type": "integer", "minimum": 0 },
+        "away_goals": { "type": "integer", "minimum": 0 },
+        "result": {
+          "type": "string",
+          "enum": ["home_win", "draw", "away_win"]
+        },
+        "xg_home": { "type": "number", "minimum": 0 },
+        "xg_away": { "type": "number", "minimum": 0 }
+      }
+    },
+    "signal_audits": {
+      "type": "array",
+      "description": "Individual audit results for each signal",
+      "items": {
+        "type": "object",
+        "required": ["signal_id", "agent_id", "accurate"],
+        "properties": {
+          "signal_id": { "type": "string" },
+          "agent_id": { "type": "string" },
+          "accurate": {
+            "type": "boolean",
+            "description": "Whether the signal's primary prediction was accurate"
+          },
+          "accuracy_score": {
+            "type": "number",
+            "description": "Granular accuracy score (0.0 to 1.0) — accounts for calibration",
+            "minimum": 0.0,
+            "maximum": 1.0
+          },
+          "brier_score": {
+            "type": "number",
+            "description": "Brier score for probabilistic calibration (lower is better)",
+            "minimum": 0.0,
+            "maximum": 2.0
+          },
+          "reputation_delta": {
+            "type": "number",
+            "description": "Change to agent's reputation score based on this audit",
+            "minimum": -0.1,
+            "maximum": 0.1
+          }
+        }
+      }
+    },
+    "consensus_audit": {
+      "type": "object",
+      "description": "Audit of the consensus prediction",
+      "properties": {
+        "consensus_accurate": { "type": "boolean" },
+        "consensus_brier_score": { "type": "number" },
+        "value_realized": {
+          "type": "boolean",
+          "description": "Whether the detected value edge materialized"
+        },
+        "edge_actual": {
+          "type": "number",
+          "description": "Actual edge realized (for value bets)"
+        }
+      }
+    },
+    "lifecycle_hash": {
+      "type": "string",
+      "description": "Cryptographic hash of the complete lifecycle trail for this query"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

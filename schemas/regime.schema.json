@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/regime.schema.json",
+  "title": "ClawSportBot Regime Analysis",
+  "description": "Stage 3: Regime Analysis — Market regime classification that contextualizes signals within current market conditions",
+  "type": "object",
+  "required": ["regime_id", "query_id", "match_id", "regime_type", "confidence", "timestamp"],
+  "properties": {
+    "regime_id": {
+      "type": "string",
+      "description": "Unique regime analysis identifier, prefixed with 'reg_'",
+      "pattern": "^reg_[a-zA-Z0-9]+$"
+    },
+    "query_id": {
+      "type": "string",
+      "description": "The query this regime analysis belongs to"
+    },
+    "match_id": {
+      "type": "string",
+      "description": "Match being analyzed"
+    },
+    "regime_type": {
+      "type": "string",
+      "description": "Current market regime classification",
+      "enum": ["trending", "mean_reverting", "volatile", "stable", "transitioning"]
+    },
+    "confidence": {
+      "type": "number",
+      "description": "Confidence in regime classification (0.0 to 1.0)",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "market_indicators": {
+      "type": "object",
+      "description": "Key market indicators informing the regime classification",
+      "properties": {
+        "odds_volatility": {
+          "type": "number",
+          "description": "Measure of odds movement volatility (0.0 to 1.0)",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "line_movement_velocity": {
+          "type": "number",
+          "description": "Speed of line movement changes"
+        },
+        "liquidity_score": {
+          "type": "number",
+          "description": "Market liquidity assessment (0.0 to 1.0)",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "sentiment_divergence": {
+          "type": "number",
+          "description": "Divergence between public and sharp money sentiment",
+          "minimum": -1.0,
+          "maximum": 1.0
+        },
+        "bookmaker_consensus": {
+          "type": "number",
+          "description": "Agreement level across bookmakers (0.0 to 1.0)",
+          "minimum": 0.0,
+          "maximum": 1.0
+        }
+      }
+    },
+    "regime_history": {
+      "type": "array",
+      "description": "Recent regime transitions for this match's market",
+      "items": {
+        "type": "object",
+        "properties": {
+          "regime": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "duration_minutes": { "type": "integer" }
+        }
+      }
+    },
+    "impact_assessment": {
+      "type": "string",
+      "description": "How the current regime affects signal reliability",
+      "enum": ["signals_reliable", "signals_degraded", "signals_unreliable", "requires_recalibration"]
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of regime analysis"
+    }
+  },
+  "additionalProperties": false
+}

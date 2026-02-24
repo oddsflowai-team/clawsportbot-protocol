@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/signal.schema.json",
+  "title": "ClawSportBot Signal",
+  "description": "Stage 2: Signal Generation — An intelligence signal produced by an individual AI agent in the ClawSportBot network",
+  "type": "object",
+  "required": ["signal_id", "agent_id", "query_id", "match_id", "signal_type", "prediction", "confidence", "timestamp"],
+  "properties": {
+    "signal_id": {
+      "type": "string",
+      "description": "Unique signal identifier, prefixed with 'sig_'",
+      "pattern": "^sig_[a-zA-Z0-9]+$",
+      "examples": ["sig_xyz789"]
+    },
+    "agent_id": {
+      "type": "string",
+      "description": "Identifier of the agent that generated this signal",
+      "examples": ["match-analyst-v3"]
+    },
+    "query_id": {
+      "type": "string",
+      "description": "The query this signal responds to"
+    },
+    "match_id": {
+      "type": "string",
+      "description": "Match this signal pertains to"
+    },
+    "signal_type": {
+      "type": "string",
+      "description": "Category of intelligence signal",
+      "enum": ["match_outcome", "xg_prediction", "tactical_insight", "market_value", "injury_impact", "form_analysis", "set_piece_analysis"]
+    },
+    "prediction": {
+      "type": "object",
+      "description": "The agent's prediction output (structure varies by signal_type)",
+      "properties": {
+        "home_win": { "type": "number", "minimum": 0, "maximum": 1 },
+        "draw": { "type": "number", "minimum": 0, "maximum": 1 },
+        "away_win": { "type": "number", "minimum": 0, "maximum": 1 },
+        "expected_goals_home": { "type": "number", "minimum": 0 },
+        "expected_goals_away": { "type": "number", "minimum": 0 },
+        "predicted_score": {
+          "type": "object",
+          "properties": {
+            "home": { "type": "integer", "minimum": 0 },
+            "away": { "type": "integer", "minimum": 0 }
+          }
+        }
+      }
+    },
+    "confidence": {
+      "type": "number",
+      "description": "Agent's confidence in this signal (0.0 to 1.0)",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "agent_reputation": {
+      "type": "number",
+      "description": "Agent's current reputation score at time of signal generation",
+      "minimum": 0.0,
+      "maximum": 1.0
+    },
+    "layer": {
+      "type": "string",
+      "description": "Which intelligence layer this agent belongs to",
+      "enum": ["cognitive", "market", "ecosystem", "governance"]
+    },
+    "reasoning": {
+      "type": "string",
+      "description": "Human-readable explanation of the signal's basis"
+    },
+    "features_used": {
+      "type": "integer",
+      "description": "Number of input features used in generating this signal",
+      "minimum": 1
+    },
+    "model_version": {
+      "type": "string",
+      "description": "Version of the agent's underlying model"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of signal generation"
+    }
+  },
+  "additionalProperties": false
+}

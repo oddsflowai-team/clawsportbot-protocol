@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/authorization.schema.json",
+  "title": "ClawSportBot Execution Authorization",
+  "description": "Stage 6: Execution Authorization — Final gate that determines whether a verified signal is authorized for delivery to users",
+  "type": "object",
+  "required": ["auth_id", "query_id", "match_id", "authorized", "timestamp"],
+  "properties": {
+    "auth_id": {
+      "type": "string",
+      "description": "Unique authorization identifier, prefixed with 'auth_'",
+      "pattern": "^auth_[a-zA-Z0-9]+$"
+    },
+    "query_id": { "type": "string" },
+    "match_id": { "type": "string" },
+    "authorized": {
+      "type": "boolean",
+      "description": "Whether the signal passed all authorization checks"
+    },
+    "checks_passed": {
+      "type": "array",
+      "description": "List of authorization checks and their results",
+      "items": {
+        "type": "object",
+        "properties": {
+          "check_name": {
+            "type": "string",
+            "description": "Name of the authorization check",
+            "enum": [
+              "consensus_threshold",
+              "market_alignment",
+              "timing_window",
+              "risk_limit",
+              "confidence_minimum",
+              "agent_reputation_minimum",
+              "regime_compatibility"
+            ]
+          },
+          "passed": { "type": "boolean" },
+          "value": { "type": "number", "description": "The actual value checked" },
+          "threshold": { "type": "number", "description": "The required threshold" },
+          "details": { "type": "string" }
+        },
+        "required": ["check_name", "passed"]
+      }
+    },
+    "rejection_reason": {
+      "type": "string",
+      "description": "If not authorized, the primary reason for rejection"
+    },
+    "risk_assessment": {
+      "type": "object",
+      "description": "Overall risk assessment at time of authorization",
+      "properties": {
+        "risk_level": {
+          "type": "string",
+          "enum": ["low", "moderate", "high", "critical"]
+        },
+        "risk_score": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "risk_factors": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "delivery_channels": {
+      "type": "array",
+      "description": "Authorized delivery channels for this signal",
+      "items": {
+        "type": "string",
+        "enum": ["web_app", "telegram", "api", "partner_widget", "institutional_feed"]
+      }
+    },
+    "expiry": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When this authorization expires (typically at match kickoff)"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

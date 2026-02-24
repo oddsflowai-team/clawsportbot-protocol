@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/query.schema.json",
+  "title": "ClawSportBot Query",
+  "description": "Stage 1: Query Intake — Structured intelligence query submitted to the ClawSportBot Agent Network",
+  "type": "object",
+  "required": ["query_id", "match_id", "query_type", "timestamp"],
+  "properties": {
+    "query_id": {
+      "type": "string",
+      "description": "Unique identifier for this query, prefixed with 'q_'",
+      "pattern": "^q_[a-zA-Z0-9]+$",
+      "examples": ["q_abc123"]
+    },
+    "match_id": {
+      "type": "string",
+      "description": "Unique match identifier in format: league-season-home-away",
+      "examples": ["epl-2025-arsenal-chelsea"]
+    },
+    "query_type": {
+      "type": "string",
+      "description": "Type of intelligence analysis requested",
+      "enum": ["full_analysis", "match_outcome", "xg_prediction", "tactical_analysis", "market_analysis", "injury_impact"],
+      "examples": ["full_analysis"]
+    },
+    "armors": {
+      "type": "array",
+      "description": "List of armor module IDs to activate for this query",
+      "items": {
+        "type": "string"
+      },
+      "examples": [["neural-cortex", "odds-membrane", "context-mesh"]]
+    },
+    "consensus_threshold": {
+      "type": "number",
+      "description": "Minimum consensus score required (0.0 to 1.0). Default: 0.67",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "default": 0.67
+    },
+    "priority": {
+      "type": "string",
+      "description": "Query processing priority level",
+      "enum": ["standard", "high", "critical"],
+      "default": "standard"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of query submission"
+    },
+    "requester": {
+      "type": "object",
+      "description": "Information about the query requester",
+      "properties": {
+        "user_id": {
+          "type": "string",
+          "description": "Authenticated user or API key identifier"
+        },
+        "tier": {
+          "type": "string",
+          "enum": ["free", "pro", "institutional"],
+          "description": "User subscription tier"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

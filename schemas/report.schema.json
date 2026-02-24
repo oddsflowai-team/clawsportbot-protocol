@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/report.schema.json",
+  "title": "ClawSportBot Autonomous Report",
+  "description": "Stage 8: Autonomous Reporting — System-generated performance reports that update agent reputations and feed learning loops",
+  "type": "object",
+  "required": ["report_id", "report_type", "period", "timestamp"],
+  "properties": {
+    "report_id": {
+      "type": "string",
+      "description": "Unique report identifier, prefixed with 'rpt_'",
+      "pattern": "^rpt_[a-zA-Z0-9]+$"
+    },
+    "report_type": {
+      "type": "string",
+      "description": "Type of autonomous report",
+      "enum": ["agent_performance", "network_health", "consensus_quality", "market_calibration", "armor_effectiveness"]
+    },
+    "period": {
+      "type": "object",
+      "description": "Reporting period",
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "type": "string", "format": "date-time" },
+        "end": { "type": "string", "format": "date-time" }
+      }
+    },
+    "agent_metrics": {
+      "type": "array",
+      "description": "Per-agent performance metrics for the reporting period",
+      "items": {
+        "type": "object",
+        "properties": {
+          "agent_id": { "type": "string" },
+          "signals_generated": { "type": "integer", "minimum": 0 },
+          "signals_accurate": { "type": "integer", "minimum": 0 },
+          "accuracy_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+          "avg_brier_score": { "type": "number", "minimum": 0, "maximum": 2 },
+          "avg_confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "reputation_start": { "type": "number", "minimum": 0, "maximum": 1 },
+          "reputation_end": { "type": "number", "minimum": 0, "maximum": 1 },
+          "reputation_trend": {
+            "type": "string",
+            "enum": ["improving", "stable", "declining"]
+          },
+          "consensus_participation_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+          "specialization_leagues": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    },
+    "network_metrics": {
+      "type": "object",
+      "description": "Network-wide performance metrics",
+      "properties": {
+        "total_queries_processed": { "type": "integer", "minimum": 0 },
+        "avg_consensus_score": { "type": "number", "minimum": 0, "maximum": 1 },
+        "consensus_success_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+        "avg_latency_ms": { "type": "number", "minimum": 0 },
+        "network_accuracy_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+        "active_agents": { "type": "integer", "minimum": 0 },
+        "uptime_percentage": { "type": "number", "minimum": 0, "maximum": 100 }
+      }
+    },
+    "armor_metrics": {
+      "type": "array",
+      "description": "Performance metrics per armor module",
+      "items": {
+        "type": "object",
+        "properties": {
+          "armor_id": { "type": "string" },
+          "layer": { "type": "string", "enum": ["cognitive", "market", "ecosystem", "governance"] },
+          "times_equipped": { "type": "integer", "minimum": 0 },
+          "accuracy_impact": {
+            "type": "number",
+            "description": "How much this armor improved (positive) or degraded (negative) prediction accuracy"
+          }
+        }
+      }
+    },
+    "recommendations": {
+      "type": "array",
+      "description": "System-generated recommendations based on report findings",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["agent_retrain", "agent_promote", "agent_demote", "armor_adjust", "threshold_adjust"]
+          },
+          "target": { "type": "string" },
+          "reason": { "type": "string" },
+          "priority": { "type": "string", "enum": ["low", "medium", "high"] }
+        }
+      }
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

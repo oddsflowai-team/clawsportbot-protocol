@@ -1,0 +1,13 @@
+{
+  "query_id": "q_demo001",
+  "match_id": "epl-2025-arsenal-chelsea",
+  "query_type": "full_analysis",
+  "armors": ["neural-cortex", "odds-membrane", "context-mesh"],
+  "consensus_threshold": 0.67,
+  "priority": "standard",
+  "timestamp": "2025-03-14T18:00:00Z",
+  "requester": {
+    "user_id": "usr_example",
+    "tier": "pro"
+  }
+}

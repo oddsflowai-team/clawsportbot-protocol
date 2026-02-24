@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/market-sync.schema.json",
+  "title": "ClawSportBot Market Synchronization",
+  "description": "Stage 5: Market Synchronization — Verification of consensus signals against live market data",
+  "type": "object",
+  "required": ["sync_id", "query_id", "match_id", "odds_aligned", "timestamp"],
+  "properties": {
+    "sync_id": {
+      "type": "string",
+      "description": "Unique sync identifier, prefixed with 'sync_'",
+      "pattern": "^sync_[a-zA-Z0-9]+$"
+    },
+    "query_id": { "type": "string" },
+    "match_id": { "type": "string" },
+    "odds_aligned": {
+      "type": "boolean",
+      "description": "Whether the consensus prediction aligns with current market odds"
+    },
+    "value_detected": {
+      "type": "boolean",
+      "description": "Whether a value edge was detected against the market"
+    },
+    "edge_estimate": {
+      "type": "number",
+      "description": "Estimated edge over market odds (-1.0 to 1.0, positive = value detected)",
+      "minimum": -1.0,
+      "maximum": 1.0
+    },
+    "market_data": {
+      "type": "object",
+      "description": "Current market odds snapshot at time of synchronization",
+      "properties": {
+        "best_odds_home": { "type": "number", "minimum": 1.0 },
+        "best_odds_draw": { "type": "number", "minimum": 1.0 },
+        "best_odds_away": { "type": "number", "minimum": 1.0 },
+        "implied_prob_home": { "type": "number", "minimum": 0, "maximum": 1 },
+        "implied_prob_draw": { "type": "number", "minimum": 0, "maximum": 1 },
+        "implied_prob_away": { "type": "number", "minimum": 0, "maximum": 1 },
+        "overround": { "type": "number", "description": "Total market overround percentage" },
+        "bookmakers_sampled": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "line_movement": {
+      "type": "object",
+      "description": "Recent line movement analysis",
+      "properties": {
+        "direction": {
+          "type": "string",
+          "enum": ["toward_home", "toward_draw", "toward_away", "stable"]
+        },
+        "magnitude": {
+          "type": "string",
+          "enum": ["negligible", "minor", "moderate", "significant", "sharp"]
+        },
+        "steam_move_detected": {
+          "type": "boolean",
+          "description": "Whether a sharp money steam move was detected"
+        }
+      }
+    },
+    "sync_status": {
+      "type": "string",
+      "description": "Overall synchronization status",
+      "enum": ["aligned", "minor_divergence", "significant_divergence", "market_closed"]
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}
