@@ -1,0 +1,138 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/agentic-identity.schema.json",
+  "title": "Agentic Identity — AAP Layer 1",
+  "description": "Defines the persistent, verifiable identity of an autonomous agent within the Agentic AI Protocol. Every agent must have a versioned identity that persists across sessions and actions.",
+  "type": "object",
+  "required": [
+    "agent_id",
+    "version",
+    "capabilities",
+    "model_reference",
+    "created_at"
+  ],
+  "properties": {
+    "agent_id": {
+      "type": "string",
+      "description": "Unique identifier for the agent instance (e.g., 'match-analyst-v3')",
+      "pattern": "^[a-z0-9][a-z0-9\\-]*[a-z0-9]$"
+    },
+    "version": {
+      "type": "string",
+      "description": "Semantic version of the agent (e.g., '3.2.1')",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "display_name": {
+      "type": "string",
+      "description": "Human-readable name of the agent"
+    },
+    "capabilities": {
+      "type": "array",
+      "description": "List of capabilities this agent can perform",
+      "items": {
+        "type": "string",
+        "enum": [
+          "signal_generation",
+          "risk_classification",
+          "regime_analysis",
+          "consensus_participation",
+          "market_synchronization",
+          "reputation_query",
+          "audit_generation",
+          "report_generation"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "specialization": {
+      "type": "array",
+      "description": "Analytical domains this agent specializes in",
+      "items": {
+        "type": "string"
+      }
+    },
+    "layer": {
+      "type": "string",
+      "description": "Intelligence layer the agent belongs to",
+      "enum": ["cognitive", "market", "ecosystem", "governance"]
+    },
+    "model_reference": {
+      "type": "object",
+      "description": "Reference to the underlying AI model",
+      "required": ["model_id"],
+      "properties": {
+        "model_id": {
+          "type": "string",
+          "description": "Identifier of the underlying model"
+        },
+        "model_version": {
+          "type": "string",
+          "description": "Version of the underlying model"
+        },
+        "provider": {
+          "type": "string",
+          "description": "Model provider (e.g., 'openai', 'anthropic', 'custom')"
+        }
+      }
+    },
+    "change_log": {
+      "type": "array",
+      "description": "History of version changes for this agent",
+      "items": {
+        "type": "object",
+        "required": ["version", "date", "summary"],
+        "properties": {
+          "version": {
+            "type": "string",
+            "pattern": "^\\d+\\.\\d+\\.\\d+$"
+          },
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "summary": {
+            "type": "string",
+            "description": "Brief description of changes in this version"
+          }
+        }
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of agent registration"
+    },
+    "status": {
+      "type": "string",
+      "description": "Current operational status of the agent",
+      "enum": ["active", "probationary", "suspended", "retired"],
+      "default": "probationary"
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "agent_id": "match-analyst-v3",
+      "version": "3.2.1",
+      "display_name": "Match Analyst",
+      "capabilities": ["signal_generation", "risk_classification"],
+      "specialization": ["premier_league", "tactical_analysis"],
+      "layer": "cognitive",
+      "model_reference": {
+        "model_id": "csb-match-analyst",
+        "model_version": "3.2",
+        "provider": "custom"
+      },
+      "change_log": [
+        {
+          "version": "3.2.1",
+          "date": "2025-03-01",
+          "summary": "Improved xG calibration for corner kick scenarios"
+        }
+      ],
+      "created_at": "2024-06-15T00:00:00Z",
+      "status": "active"
+    }
+  ]
+}

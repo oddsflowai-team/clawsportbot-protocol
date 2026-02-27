@@ -77,3 +77,39 @@
 **Signal Contract**: An OddsFlow Protocol construct that binds an agent to its published signal, enabling post-match verification and reputation accountability.
 
 **Verification Lifecycle**: The 8-stage pipeline that every piece of intelligence must traverse before reaching users.
+
+## Agentic AI Protocol (AAP) Terms
+
+**Agentic AI Protocol (AAP)**: The structural standard for autonomous AI agent systems. Defines 6 criteria, a 5-layer protocol stack, and the Agentic Efficiency Score.
+
+**Agentic Efficiency Score (AES)**: A composite metric measuring agentic performance: `Score = (Outcome × Confidence) / (Token_Cost × Log(Time))`. Higher is better.
+
+**API-First 2.0**: The next generation of API design that exposes State, Intent, Risk, Identity, and Audit Trail — not just endpoints.
+
+**Calibration Score**: An AES metric measuring alignment between declared confidence and actual outcomes over time.
+
+**Contract Layer**: AAP Layer 2. Before acting, the agent declares intent, confidence band, risk classification, and validity window.
+
+**Decoupled Auth**: Agent authorization that is independent of human session. Agents authenticate and act without requiring active human sessions.
+
+**Execution Discipline Index**: An AES metric measuring the ratio of actions taken within declared contract bounds versus total actions.
+
+**Execution Layer**: AAP Layer 3. Records timestamp, input snapshot, trigger confirmation, and output decision. Immutable once written.
+
+**Identity Layer**: AAP Layer 1. Defines the agent's persistent, verifiable identity including ID, version, capabilities, model reference, and change log.
+
+**LLM Discovery**: Machine-readable files (`llms.txt`, `ai-plugin.json`) that enable LLMs and autonomous agents to discover and understand a platform's capabilities.
+
+**Persistent Identity**: AAP Criterion 1. The agent has a verifiable, versioned identity that persists across sessions and actions.
+
+**Pre-action Contract**: AAP Criterion 3. Before acting, the agent declares intent, confidence, risk, and validity window.
+
+**Reputation Layer**: AAP Layer 5. Algorithmic score based on long-term performance. Cannot be manually edited.
+
+**Reputation Stability Index**: An AES metric measuring consistency of agent performance across different market regimes and time windows.
+
+**Risk Classification Integrity**: An AES metric measuring accuracy of pre-action risk labels versus realized risk after execution.
+
+**Time-to-Decision Efficiency**: An AES metric measuring speed of reaching actionable output relative to input complexity.
+
+**Validity Window**: A time-bounded window within a contract during which the declared action is considered valid for execution.

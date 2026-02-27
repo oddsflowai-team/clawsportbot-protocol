@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/agentic-verification.schema.json",
+  "title": "Agentic Verification — AAP Layer 4",
+  "description": "Defines the post-action verification record. After execution, outcomes are measured against the declared contract. All verification records are publicly auditable.",
+  "type": "object",
+  "required": [
+    "verification_id",
+    "contract_id",
+    "agent_id",
+    "outcome_result",
+    "deviation",
+    "calibration_delta",
+    "risk_accuracy",
+    "verified_at"
+  ],
+  "properties": {
+    "verification_id": {
+      "type": "string",
+      "description": "Unique identifier for this verification record",
+      "pattern": "^ver_[a-zA-Z0-9]{12,}$"
+    },
+    "contract_id": {
+      "type": "string",
+      "description": "ID of the contract being verified"
+    },
+    "agent_id": {
+      "type": "string",
+      "description": "ID of the agent whose action is being verified"
+    },
+    "agent_version": {
+      "type": "string",
+      "description": "Version of the agent at time of action",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "outcome_result": {
+      "type": "object",
+      "description": "The actual outcome compared to the contract's declared intent",
+      "required": ["status", "actual_value"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "description": "Whether the outcome matched the declared intent",
+          "enum": ["correct", "partially_correct", "incorrect", "inconclusive"]
+        },
+        "actual_value": {
+          "description": "The actual outcome value (structure depends on action type)"
+        },
+        "predicted_value": {
+          "description": "The predicted outcome value from the contract"
+        },
+        "match_id": {
+          "type": "string",
+          "description": "Associated match identifier, if applicable"
+        }
+      }
+    },
+    "deviation": {
+      "type": "number",
+      "description": "Numerical deviation between predicted and actual outcome (0.0 = perfect match)",
+      "minimum": 0
+    },
+    "calibration_delta": {
+      "type": "number",
+      "description": "Change in calibration score resulting from this verification. Positive values indicate improved calibration.",
+      "minimum": -1,
+      "maximum": 1
+    },
+    "risk_accuracy": {
+      "type": "object",
+      "description": "Assessment of whether the pre-action risk classification was accurate",
+      "required": ["declared_risk", "realized_risk", "accurate"],
+      "properties": {
+        "declared_risk": {
+          "type": "string",
+          "description": "Risk level declared in the contract",
+          "enum": ["low", "medium", "high", "critical"]
+        },
+        "realized_risk": {
+          "type": "string",
+          "description": "Actual risk level observed after execution",
+          "enum": ["low", "medium", "high", "critical"]
+        },
+        "accurate": {
+          "type": "boolean",
+          "description": "Whether the declared risk matched the realized risk"
+        }
+      }
+    },
+    "within_contract_bounds": {
+      "type": "boolean",
+      "description": "Whether the action was executed within the declared contract bounds (confidence band, validity window, trigger conditions)"
+    },
+    "execution_time_ms": {
+      "type": "integer",
+      "description": "Time taken from contract declaration to outcome delivery, in milliseconds",
+      "minimum": 0
+    },
+    "verified_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of when verification was completed"
+    },
+    "auditor": {
+      "type": "string",
+      "description": "Identifier of the system or agent that performed the verification",
+      "default": "system"
+    },
+    "publicly_auditable": {
+      "type": "boolean",
+      "description": "Whether this verification record is accessible to third parties",
+      "default": true
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "verification_id": "ver_xyz789abc012",
+      "contract_id": "ctr_abc123def456",
+      "agent_id": "match-analyst-v3",
+      "agent_version": "3.2.1",
+      "outcome_result": {
+        "status": "correct",
+        "actual_value": { "home_win": true },
+        "predicted_value": { "home_win": 0.52, "draw": 0.24, "away_win": 0.24 },
+        "match_id": "epl-2025-arsenal-chelsea"
+      },
+      "deviation": 0.04,
+      "calibration_delta": 0.002,
+      "risk_accuracy": {
+        "declared_risk": "low",
+        "realized_risk": "low",
+        "accurate": true
+      },
+      "within_contract_bounds": true,
+      "execution_time_ms": 1250,
+      "verified_at": "2025-03-15T17:00:00Z",
+      "auditor": "system",
+      "publicly_auditable": true
+    }
+  ]
+}

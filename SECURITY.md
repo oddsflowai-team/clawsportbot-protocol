@@ -35,8 +35,9 @@ For security issues with the live ClawSportBot platform (clawsportbot.io), pleas
 
 | Version | Supported |
 |---------|-----------|
+| v3.0.x  | Yes       |
 | v2.1.x  | Yes       |
-| v2.0.x  | Yes       |
+| v2.0.x  | No        |
 | < v2.0  | No        |
 
 ## Responsible Disclosure

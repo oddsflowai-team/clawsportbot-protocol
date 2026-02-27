@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clawsportbot.io/schemas/agentic-contract.schema.json",
+  "title": "Agentic Contract — AAP Layer 2",
+  "description": "Defines the pre-action contract that an agent must declare before execution. Every action must have a declared intent, confidence band, risk classification, and validity window.",
+  "type": "object",
+  "required": [
+    "contract_id",
+    "agent_id",
+    "action_intent",
+    "confidence_band",
+    "risk_classification",
+    "validity_window",
+    "declared_at"
+  ],
+  "properties": {
+    "contract_id": {
+      "type": "string",
+      "description": "Unique identifier for this contract",
+      "pattern": "^ctr_[a-zA-Z0-9]{12,}$"
+    },
+    "agent_id": {
+      "type": "string",
+      "description": "ID of the agent declaring this contract"
+    },
+    "agent_version": {
+      "type": "string",
+      "description": "Version of the agent at time of contract declaration",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "action_intent": {
+      "type": "object",
+      "description": "The declared intent of the action the agent will perform",
+      "required": ["type", "description"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Category of the intended action",
+          "enum": [
+            "signal_generation",
+            "risk_assessment",
+            "regime_classification",
+            "consensus_vote",
+            "market_sync",
+            "authorization_decision"
+          ]
+        },
+        "description": {
+          "type": "string",
+          "description": "Human-readable description of the intended action"
+        },
+        "target": {
+          "type": "string",
+          "description": "Target entity (e.g., match_id, query_id)"
+        }
+      }
+    },
+    "confidence_band": {
+      "type": "object",
+      "description": "Declared confidence range for the expected outcome",
+      "required": ["lower", "upper", "point_estimate"],
+      "properties": {
+        "lower": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Lower bound of confidence interval"
+        },
+        "upper": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Upper bound of confidence interval"
+        },
+        "point_estimate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Point estimate of confidence"
+        }
+      }
+    },
+    "risk_classification": {
+      "type": "object",
+      "description": "Pre-action risk assessment",
+      "required": ["level", "category"],
+      "properties": {
+        "level": {
+          "type": "string",
+          "description": "Risk level of the action",
+          "enum": ["read", "write", "irreversible"]
+        },
+        "category": {
+          "type": "string",
+          "description": "Risk domain",
+          "enum": ["low", "medium", "high", "critical"]
+        },
+        "justification": {
+          "type": "string",
+          "description": "Explanation of the risk classification"
+        }
+      }
+    },
+    "trigger_conditions": {
+      "type": "array",
+      "description": "Conditions that must be met before execution proceeds",
+      "items": {
+        "type": "object",
+        "required": ["condition", "met"],
+        "properties": {
+          "condition": {
+            "type": "string",
+            "description": "Description of the precondition"
+          },
+          "met": {
+            "type": "boolean",
+            "description": "Whether this condition has been satisfied"
+          }
+        }
+      }
+    },
+    "validity_window": {
+      "type": "object",
+      "description": "Time window during which this contract is valid",
+      "required": ["starts_at", "expires_at"],
+      "properties": {
+        "starts_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp when the contract becomes valid"
+        },
+        "expires_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp when the contract expires"
+        }
+      }
+    },
+    "declared_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of contract declaration"
+    },
+    "parent_contract_id": {
+      "type": ["string", "null"],
+      "description": "ID of a parent contract, if this is a sub-action",
+      "default": null
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "contract_id": "ctr_abc123def456",
+      "agent_id": "match-analyst-v3",
+      "agent_version": "3.2.1",
+      "action_intent": {
+        "type": "signal_generation",
+        "description": "Generate match outcome prediction for Arsenal vs Chelsea",
+        "target": "epl-2025-arsenal-chelsea"
+      },
+      "confidence_band": {
+        "lower": 0.65,
+        "upper": 0.85,
+        "point_estimate": 0.78
+      },
+      "risk_classification": {
+        "level": "read",
+        "category": "low",
+        "justification": "Read-only signal generation with no side effects"
+      },
+      "trigger_conditions": [
+        { "condition": "Match data available", "met": true },
+        { "condition": "Agent reputation above threshold", "met": true }
+      ],
+      "validity_window": {
+        "starts_at": "2025-03-14T12:00:00Z",
+        "expires_at": "2025-03-15T15:00:00Z"
+      },
+      "declared_at": "2025-03-14T12:00:00Z",
+      "parent_contract_id": null
+    }
+  ]
+}

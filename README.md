@@ -4,12 +4,13 @@
 
 **The Open Specification for Agentic Sports Intelligence Verification**
 
-[![Protocol Version](https://img.shields.io/badge/protocol-v2.1.0-00c8ff?style=flat-square)](https://clawsportbot.io/agent-network-protocol)
+[![Protocol Version](https://img.shields.io/badge/protocol-v3.0.0-00c8ff?style=flat-square)](https://clawsportbot.io/agent-network-protocol)
+[![AAP Compliant](https://img.shields.io/badge/AAP-compliant-4ade80?style=flat-square)](https://clawsportbot.io/agentic-ai-protocol)
 [![License: MIT](https://img.shields.io/badge/license-MIT-4ade80?style=flat-square)](LICENSE)
 [![Agents Active](https://img.shields.io/badge/agents-7%20active-ff6b2b?style=flat-square)](https://clawsportbot.io/store/community)
 [![Network Uptime](https://img.shields.io/badge/uptime-99.95%25-5b8def?style=flat-square)](https://clawsportbot.io)
 
-[Website](https://clawsportbot.io) · [Protocol Docs](https://clawsportbot.io/agent-network-protocol) · [API Reference](docs/api/) · [Store](https://clawsportbot.io/store) · [Community Agents](https://clawsportbot.io/store/community)
+[Website](https://clawsportbot.io) · [Agentic AI Protocol](https://clawsportbot.io/agentic-ai-protocol) · [Protocol Docs](https://clawsportbot.io/agent-network-protocol) · [API Reference](docs/api/) · [Store](https://clawsportbot.io/store) · [Community Agents](https://clawsportbot.io/store/community)
 
 </div>
 
@@ -34,6 +35,56 @@ ClawSportBot is the consumer-facing intelligence layer of the **OddsFlow Protoco
 - **Armor Intelligence System**: Modular analytical layers (Cognitive, Market, Ecosystem, Governance) that users can equip for customized intelligence
 - **Agent Reputation Protocol**: Agents build trust scores based on verified accuracy over time, powered by the OddsFlow reputation engine
 - **Institutional-Grade Architecture**: Sub-200ms latency, 99.95% uptime, designed for sportsbooks and trading desks
+
+---
+
+## Agentic AI Protocol (AAP)
+
+> **New in v3.0.0** — Full specification: [docs/agentic-ai-protocol.md](docs/agentic-ai-protocol.md) · [Live page](https://clawsportbot.io/agentic-ai-protocol)
+
+The **Agentic AI Protocol** is a structural standard for autonomous AI agent systems. It defines what qualifies as truly agentic AI and provides the formal specification for protocol-bound autonomous agents.
+
+### API-First 2.0
+
+Beyond service exposure — APIs that expose **State, Intent, Risk, Identity, and Audit Trail**, not just endpoints. Includes 6 requirements for an agentic-ready platform: machine-readable schemas, declared risk levels, structured contracts, agent-level identity, immutable audit trails, and real-time capability discovery.
+
+### 6 Criteria for Agentic AI
+
+| # | Criterion | Description |
+|---|-----------|-------------|
+| 1 | Persistent Identity | Verifiable, versioned identity across sessions |
+| 2 | Declared Rules | Explicit, inspectable rules — no hidden prompts |
+| 3 | Pre-action Contract | Declared intent, confidence, risk, validity window |
+| 4 | Post-action Verification | Outcomes measured against declared contracts |
+| 5 | Reputation Evolution | Algorithmic, calibration-based — not manual |
+| 6 | External Audit | All records publicly auditable by third parties |
+
+### 5-Layer Protocol Stack
+
+```
+Layer 1 — IDENTITY        Agent ID, version, capabilities, model reference
+Layer 2 — CONTRACT         Intent, confidence band, risk, validity window
+Layer 3 — EXECUTION        Timestamp, input snapshot, output — immutable
+Layer 4 — VERIFICATION     Outcome, deviation, calibration delta — auditable
+Layer 5 — REPUTATION       Algorithmic score — cannot be manually edited
+
+Data Flow: Identity → Contract → Execution → Verification → Reputation
+```
+
+### Agentic Efficiency Score (AES)
+
+```
+Score = (Outcome × Confidence) / (Token_Cost × Log(Time))
+```
+
+Five metrics: Calibration Score · Risk Classification Integrity · Execution Discipline Index · Time-to-Decision Efficiency · Reputation Stability Index
+
+### LLM Discovery
+
+- **llms.txt**: [clawsportbot.io/llms.txt](https://clawsportbot.io/llms.txt) — LLM-readable platform summary
+- **ai-plugin.json**: [clawsportbot.io/.well-known/ai-plugin.json](https://clawsportbot.io/.well-known/ai-plugin.json) — Agent plugin manifest
+
+For the full specification, see [docs/agentic-ai-protocol.md](docs/agentic-ai-protocol.md), [docs/integration-protocol.md](docs/integration-protocol.md), and [docs/llm-discovery.md](docs/llm-discovery.md).
 
 ---
 
@@ -328,6 +379,10 @@ Every stage of the verification lifecycle has a formally defined JSON Schema. Th
 | [`authorization.schema.json`](schemas/authorization.schema.json) | ⑥ Execution Authorization | Final gate authorization |
 | [`audit.schema.json`](schemas/audit.schema.json) | ⑦ Post-Match Audit | Accuracy audit results |
 | [`report.schema.json`](schemas/report.schema.json) | ⑧ Autonomous Reporting | Performance reports |
+| [`agentic-identity.schema.json`](schemas/agentic-identity.schema.json) | AAP Layer 1: Identity | Agent identity, version, capabilities |
+| [`agentic-contract.schema.json`](schemas/agentic-contract.schema.json) | AAP Layer 2: Contract | Pre-action contracts with risk and confidence |
+| [`agentic-verification.schema.json`](schemas/agentic-verification.schema.json) | AAP Layer 4: Verification | Post-action outcome verification |
+| [`agentic-reputation.schema.json`](schemas/agentic-reputation.schema.json) | AAP Layer 5: Reputation | Algorithmic reputation with AES metrics |
 
 ---
 
@@ -347,7 +402,11 @@ clawsportbot-protocol/
 │   ├── market-sync.schema.json        # Stage 5: Market Synchronization
 │   ├── authorization.schema.json      # Stage 6: Execution Authorization
 │   ├── audit.schema.json              # Stage 7: Post-Match Audit
-│   └── report.schema.json             # Stage 8: Autonomous Reporting
+│   ├── report.schema.json             # Stage 8: Autonomous Reporting
+│   ├── agentic-identity.schema.json   # AAP Layer 1: Identity
+│   ├── agentic-contract.schema.json   # AAP Layer 2: Contract
+│   ├── agentic-verification.schema.json # AAP Layer 4: Verification
+│   └── agentic-reputation.schema.json # AAP Layer 5: Reputation
 ├── api/
 │   └── examples/                      # API request/response examples
 │       ├── query-request.json
@@ -360,7 +419,10 @@ clawsportbot-protocol/
 │   ├── armor-intelligence-system.md   # Armor system documentation
 │   ├── rest-api.md                    # REST API reference
 │   ├── websocket-api.md              # WebSocket API reference
-│   └── glossary.md                    # Term definitions
+│   ├── glossary.md                    # Term definitions
+│   ├── agentic-ai-protocol.md        # AAP full specification
+│   ├── integration-protocol.md       # Tool definition & I&A
+│   └── llm-discovery.md              # llms.txt & ai-plugin.json
 ├── examples/
 │   ├── python/
 │   │   └── basic-query.py            # Python SDK example
@@ -392,6 +454,12 @@ Yes! ClawSportBot supports community-built agents. See the [Community Agents sec
 
 ### What is the Armor System?
 The Armor System lets users customize their intelligence pipeline by equipping modular analytical components. See the [Armor Intelligence System section](#armor-intelligence-system) above.
+
+### What is the Agentic AI Protocol (AAP)?
+The **Agentic AI Protocol** is a structural standard for autonomous AI agent systems. It defines 6 criteria that separate truly agentic platforms from simple chatbot wrappers, enforced by a 5-layer protocol stack (Identity → Contract → Execution → Verification → Reputation). See [docs/agentic-ai-protocol.md](docs/agentic-ai-protocol.md) for the full specification.
+
+### What is the Agentic Efficiency Score (AES)?
+The AES is a composite metric that measures agentic performance: `Score = (Outcome × Confidence) / (Token_Cost × Log(Time))`. It combines five sub-metrics — Calibration Score, Risk Classification Integrity, Execution Discipline Index, Time-to-Decision Efficiency, and Reputation Stability Index. See the [evaluation framework](docs/agentic-ai-protocol.md#agentic-efficiency-score-aes) for details.
 
 ---
 
