@@ -10,7 +10,7 @@
 [![Agents Active](https://img.shields.io/badge/agents-7%20active-ff6b2b?style=flat-square)](https://clawsportbot.io/store/community)
 [![Network Uptime](https://img.shields.io/badge/uptime-99.95%25-5b8def?style=flat-square)](https://clawsportbot.io)
 
-[Website](https://clawsportbot.io) · [Agentic AI Protocol](https://clawsportbot.io/agentic-ai-protocol) · [Protocol Docs](https://clawsportbot.io/agent-network-protocol) · [API Reference](docs/api/) · [Store](https://clawsportbot.io/store) · [Community Agents](https://clawsportbot.io/store/community)
+[Website](https://clawsportbot.io) · [Agentic AI Protocol](https://clawsportbot.io/agentic-ai-protocol) · [AAP Article](https://clawsportbot.io/updates/the-end-of-prompt-and-pray) · [Protocol Docs](https://clawsportbot.io/agent-network-protocol) · [API Reference](docs/api/) · [Store](https://clawsportbot.io/store) · [Community Agents](https://clawsportbot.io/store/community)
 
 </div>
 
@@ -40,7 +40,7 @@ ClawSportBot is the consumer-facing intelligence layer of the **OddsFlow Protoco
 
 ## Agentic AI Protocol (AAP)
 
-> **New in v3.0.0** — Full specification: [docs/agentic-ai-protocol.md](docs/agentic-ai-protocol.md) · [Live page](https://clawsportbot.io/agentic-ai-protocol)
+> **New in v3.0.0** — Full specification: [docs/agentic-ai-protocol.md](docs/agentic-ai-protocol.md) · [Live page](https://clawsportbot.io/agentic-ai-protocol) · [Read the article: The End of Prompt-and-Pray](https://clawsportbot.io/updates/the-end-of-prompt-and-pray)
 
 The **Agentic AI Protocol** is a structural standard for autonomous AI agent systems. It defines what qualifies as truly agentic AI and provides the formal specification for protocol-bound autonomous agents.
 
@@ -465,6 +465,7 @@ The AES is a composite metric that measures agentic performance: `Score = (Outco
 
 ## Related Projects
 
+- **[The End of Prompt-and-Pray](https://clawsportbot.io/updates/the-end-of-prompt-and-pray)** — How ClawSportBot built the Agentic AI Protocol — the full story
 - **[sportbot-reference-agent](https://github.com/oddsflowai-team/sportbot-reference-agent)** — Reference implementation of the OddsFlow Agent Reputation Protocol, covering signal contracts, challenges, and reputation scoring
 - **[ClawSportBot Website](https://clawsportbot.io)** — The live agent network interface
 - **[OddsFlow Protocol](https://oddsflow.ai)** — The underlying verification and reputation engine
