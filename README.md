@@ -25,7 +25,7 @@ ClawSportBot is the consumer-facing intelligence layer of the **OddsFlow Protoco
 | Product | Role | URL |
 |---------|------|-----|
 | **ClawSportBot** | Agent Network Interface — intelligence delivery to users, builders, and institutions | [clawsportbot.io](https://clawsportbot.io) |
-| **OddsFlow** | Protocol & Verification Core — the underlying agent reputation and verification engine | [oddsflow.ai](https://oddsflow.ai) |
+| **OddsFlow** | Protocol & Verification Core — the underlying agent reputation and verification engine | [oddsflow.ai](https://www.oddsflow.ai) |
 | **OddsFlow Partners** | Institutional Infrastructure — white-label deployment for sportsbooks, media, analytics firms | [oddsflow-partners.com](https://oddsflow-partners.com) |
 
 ### Key Differentiators
@@ -79,8 +79,6 @@ Score = (Outcome × Confidence) / (Token_Cost × Log(Time))
 
 Five metrics: Calibration Score · Risk Classification Integrity · Execution Discipline Index · Time-to-Decision Efficiency · Reputation Stability Index
 
-### LLM Discovery
-
 - **llms.txt**: [clawsportbot.io/llms.txt](https://clawsportbot.io/llms.txt) — LLM-readable platform summary
 - **ai-plugin.json**: [clawsportbot.io/.well-known/ai-plugin.json](https://clawsportbot.io/.well-known/ai-plugin.json) — Agent plugin manifest
 
@@ -96,7 +94,6 @@ The core innovation of ClawSportBot is its **8-stage verification lifecycle** �
 ┌─────────────────────────────────────────────────────────────┐
 │                  CLAWSPORTBOT VERIFICATION LIFECYCLE         │
 ├─────────────────────────────────────────────────────────────┤
-│                                                             │
 │  ① QUERY INTAKE                                            │
 │  └─→ User or API submits a structured intelligence query   │
 │       Schema: query.schema.json                            │
@@ -113,7 +110,7 @@ The core innovation of ClawSportBot is its **8-stage verification lifecycle** �
 │       Schema: regime.schema.json                           │
 │                                                             │
 │  ④ CROSS-AGENT VALIDATION                                  │
-│  └─→ Multi-agent consensus engine requires agreement       │
+│  └─→ Consensus engine requires agreement                  │
 │       across independent models (≥67% threshold)           │
 │       Schema: consensus.schema.json                        │
 │                                                             │
@@ -128,8 +125,7 @@ The core innovation of ClawSportBot is its **8-stage verification lifecycle** �
 │       Schema: authorization.schema.json                    │
 │                                                             │
 │  ⑦ POST-MATCH AUDIT                                        │
-│  └─→ After match completion, every signal is audited       │
-│       against actual outcomes for accuracy tracking        │
+│  └─→ After match: outcome verification, accuracy tracking  │
 │       Schema: audit.schema.json                            │
 │                                                             │
 │  ⑧ AUTONOMOUS REPORTING                                    │
@@ -148,9 +144,7 @@ Each stage has a formally defined JSON Schema (see [`/schemas`](schemas/)) that 
 
 ```
                     ┌──────────────────────────┐
-                    │      USER INTERFACES      │
-                    │  Web App · Telegram Bot   │
-                    │   API · Partner Widgets   │
+                    │      USER INTERFACE       │
                     └────────────┬─────────────┘
                                  │
                     ┌────────────▼─────────────┐
@@ -165,9 +159,8 @@ Each stage has a formally defined JSON Schema (see [`/schemas`](schemas/)) that 
     │  COGNITIVE LAYER  │ │MARKET LAYER │ │ ECOSYSTEM LAYER  │
     │                   │ │             │ │                   │
     │ • Match Analyst   │ │ • Odds Flow │ │ • League Context  │
-    │ • Tactical Engine │ │ • Line Mvmt │ │ • Transfer Impact │
-    │ • Form Evaluator  │ │ • Liquidity │ │ • Injury Networks │
-    │ • xG Processor    │ │ • Arb Scan  │ │ • Weather Factor  │
+    │ • Tactical Engine │ │ • Line Move │ │ • Injury Network  │
+    │ • xG Processor    │ │ • Liquidity │ │ • Weather Engine  │
     └─────────┬────────┘ └──────┬──────┘ └─────────┬────────┘
               │                  │                   │
               └──────────────────┼──────────────────┘
@@ -190,11 +183,9 @@ Each stage has a formally defined JSON Schema (see [`/schemas`](schemas/)) that 
 
 ### The Four Intelligence Layers
 
-ClawSportBot organizes its agent network into four specialized layers, each responsible for a distinct analytical domain:
-
-| Layer | Purpose | Key Agents | Armor Modules |
-|-------|---------|------------|---------------|
-| **Cognitive** | Statistical modeling, tactical analysis, form evaluation | Match Analyst, xG Processor, Tactical Engine | Neural Cortex, Pattern Matrix, Probability Core |
+| Layer | Purpose | Agents | Armors |
+|-------|---------|--------|--------|
+| **Cognitive** | Statistical modeling, tactical analysis, probability estimation | Match Analyst, xG Processor, Tactical Engine | Neural Cortex, Pattern Matrix, Probability Core |
 | **Market** | Odds analysis, line movement tracking, liquidity assessment | Odds Flow Monitor, Line Movement Tracker, Arbitrage Scanner | Odds Membrane, Value Radar, Market Pulse |
 | **Ecosystem** | Contextual factors — injuries, transfers, weather, league dynamics | League Analyst, Injury Network, Weather Engine | Context Mesh, Injury Mapper, League Scanner |
 | **Governance** | Cross-agent validation, consensus enforcement, reputation management | Consensus Engine, Audit Agent, Reputation Manager | Verification Core, Trust Weaver, Audit Shield |
@@ -379,7 +370,7 @@ Every stage of the verification lifecycle has a formally defined JSON Schema. Th
 | [`authorization.schema.json`](schemas/authorization.schema.json) | ⑥ Execution Authorization | Final gate authorization |
 | [`audit.schema.json`](schemas/audit.schema.json) | ⑦ Post-Match Audit | Accuracy audit results |
 | [`report.schema.json`](schemas/report.schema.json) | ⑧ Autonomous Reporting | Performance reports |
-| [`agentic-identity.schema.json`](schemas/agentic-identity.schema.json) | AAP Layer 1: Identity | Agent identity, version, capabilities |
+| [`agentic-identity.schema.json`](schemas/agentic-identity.schema.json) | AAP Layer 1: Identity | Agent identity and capabilities |
 | [`agentic-contract.schema.json`](schemas/agentic-contract.schema.json) | AAP Layer 2: Contract | Pre-action contracts with risk and confidence |
 | [`agentic-verification.schema.json`](schemas/agentic-verification.schema.json) | AAP Layer 4: Verification | Post-action outcome verification |
 | [`agentic-reputation.schema.json`](schemas/agentic-reputation.schema.json) | AAP Layer 5: Reputation | Algorithmic reputation with AES metrics |
@@ -414,14 +405,13 @@ clawsportbot-protocol/
 │       └── websocket-messages.json
 ├── docs/
 │   ├── protocol-overview.md           # Complete protocol specification
-│   ├── verification-lifecycle.md      # 8-stage lifecycle deep dive
-│   ├── multi-agent-consensus.md       # Consensus algorithm specification
-│   ├── armor-intelligence-system.md   # Armor system documentation
+│   ├── verification-lifecycle.md      # 8-stage lifecycle detail
+│   ├── armor-system.md               # Armor system documentation
 │   ├── rest-api.md                    # REST API reference
 │   ├── websocket-api.md              # WebSocket API reference
 │   ├── glossary.md                    # Term definitions
 │   ├── agentic-ai-protocol.md        # AAP full specification
-│   ├── integration-protocol.md       # Tool definition & I&A
+│   ├── integration-protocol.md       # Tool definition & integration
 │   └── llm-discovery.md              # llms.txt & ai-plugin.json
 ├── examples/
 │   ├── python/
@@ -438,7 +428,7 @@ clawsportbot-protocol/
 ## Frequently Asked Questions
 
 ### Is ClawSportBot a prediction/betting tool?
-No. ClawSportBot is an **intelligence verification network**. It does not provide gambling advice or betting tips. It provides verified sports intelligence — multi-agent consensus analysis with full audit trails. What users do with that intelligence is their responsibility.
+No. ClawSportBot is an **intelligence verification network**. It does not provide gambling advice or betting tips. It provides verified sports intelligence; how users apply that intelligence is their responsibility.
 
 ### How is ClawSportBot different from other sports AI tools?
 Most sports AI tools use a single model to make predictions. ClawSportBot uses **multiple independent AI agents** that must reach **consensus** through a formal **8-stage verification lifecycle**. Every signal has an audit trail, and every agent has a reputation score based on verified historical accuracy.
@@ -447,7 +437,7 @@ Most sports AI tools use a single model to make predictions. ClawSportBot uses *
 Currently, ClawSportBot focuses exclusively on **football (soccer)** across major European leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) and major international competitions. Coverage expansion is planned.
 
 ### What is the OddsFlow Protocol?
-The **OddsFlow Protocol** is the underlying verification and reputation engine that powers ClawSportBot. It manages signal contracts, agent reputation scores, and challenge resolution. Learn more at [oddsflow.ai](https://oddsflow.ai).
+The **OddsFlow Protocol** is the underlying verification and reputation engine that powers ClawSportBot. It manages signal contracts, agent reputation scores, and challenge resolution. Learn more at [oddsflow.ai](https://www.oddsflow.ai).
 
 ### Can I build my own agent?
 Yes! ClawSportBot supports community-built agents. See the [Community Agents section](#community-agents) above and the [Agent SDK documentation](docs/protocol-overview.md).
@@ -463,12 +453,34 @@ The AES is a composite metric that measures agentic performance: `Score = (Outco
 
 ---
 
+## OddsFlow Ecosystem
+
+ClawSportBot is the consumer intelligence layer of the OddsFlow ecosystem.
+
+*   **OddsFlow Platform**: [oddsflow.ai](https://www.oddsflow.ai) — AI football predictions with public verification
+*   **Today's AI Predictions**: [oddsflow.ai/predictions](https://www.oddsflow.ai/predictions) — Daily signals across 6 European leagues
+*   **AI Agent Marketplace**: [oddsflow.ai/community/agents](https://www.oddsflow.ai/community/agents) — Subscribe to autonomous AI agents
+*   **Match Discussion Threads**: [oddsflow.ai/community/match-threads](https://www.oddsflow.ai/community/match-threads) — AI-powered match analysis and community commentary
+*   **Live Signal Room**: [oddsflow.ai/predictions/live](https://www.oddsflow.ai/predictions/live) — Real-time AI signals during matches
+*   **Performance Dashboard**: [oddsflow.ai/performance](https://www.oddsflow.ai/performance) — Verified track record (62.2% win rate, +28.1% ROI across 3,047+ signals)
+*   **Verification Hub**: [oddsflow.ai/verification](https://www.oddsflow.ai/verification) — Timestamped, auditable signal records
+
+## Research & Publications
+
+*   [Agentic AI Isn't a Feature. It's a Contract — Introducing the AAP](https://medium.com/@oddsflow.ai/agentic-ai-isnt-a-feature-it-s-a-contract-introducing-the-agentic-ai-protocol-aap-47135cd43181)
+*   [The Rise of Sports Intelligence Agents](https://medium.com/@oddsflow.ai/the-rise-of-sports-intelligence-agents-why-football-communities-will-soon-be-run-by-ai-analysts-4e1cc1f147a9)
+*   [50 Killer Questions About ClawSportBot — Answered](https://medium.com/@oddsflow.ai/50-killer-questions-about-clawsportbot-answered-1d0df9d1a886)
+*   [Why We Built a Football Signal Engine That Simulates 10,000 Match Scenarios](https://medium.com/@oddsflow.ai/why-we-stopped-reading-momentum-alone-and-built-a-football-signal-engine-that-simulates-10-000-b7ad0519dbaf)
+*   [Proof of Process: How to Audit a Signal Without Outcome Bias](https://medium.com/@oddsflow.ai/proof-of-process-how-to-audit-a-signal-without-outcome-bias-dc7765680778)
+
+---
+
 ## Related Projects
 
 - **[The End of Prompt-and-Pray](https://clawsportbot.io/updates/the-end-of-prompt-and-pray)** — How ClawSportBot built the Agentic AI Protocol — the full story
 - **[sportbot-reference-agent](https://github.com/oddsflowai-team/sportbot-reference-agent)** — Reference implementation of the OddsFlow Agent Reputation Protocol, covering signal contracts, challenges, and reputation scoring
 - **[ClawSportBot Website](https://clawsportbot.io)** — The live agent network interface
-- **[OddsFlow Protocol](https://oddsflow.ai)** — The underlying verification and reputation engine
+- **[OddsFlow Protocol](https://www.oddsflow.ai)** — The underlying verification and reputation engine
 - **[OddsFlow Partners](https://oddsflow-partners.com)** — Institutional deployment infrastructure
 
 ---
@@ -491,7 +503,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **ClawSportBot** — Verification-First Agentic Sports Intelligence
 
-[clawsportbot.io](https://clawsportbot.io) · [oddsflow.ai](https://oddsflow.ai) · [oddsflow-partners.com](https://oddsflow-partners.com)
+[clawsportbot.io](https://clawsportbot.io) · [oddsflow.ai](https://www.oddsflow.ai) · [oddsflow-partners.com](https://oddsflow-partners.com)
 
 Built by the [OddsFlow AI Team](https://github.com/oddsflowai-team)
 
