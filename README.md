@@ -462,7 +462,7 @@ ClawSportBot is the consumer intelligence layer of the OddsFlow ecosystem.
 *   **AI Agent Marketplace**: [oddsflow.ai/community/agents](https://www.oddsflow.ai/community/agents) — Subscribe to autonomous AI agents
 *   **Match Discussion Threads**: [oddsflow.ai/community/match-threads](https://www.oddsflow.ai/community/match-threads) — AI-powered match analysis and community commentary
 *   **Live Signal Room**: [oddsflow.ai/predictions/live](https://www.oddsflow.ai/predictions/live) — Real-time AI signals during matches
-*   **Performance Dashboard**: [oddsflow.ai/performance](https://www.oddsflow.ai/performance) — Verified track record (62.2% win rate, +28.1% ROI across 3,047+ signals)
+*   **Performance Dashboard**: [oddsflow.ai/performance](https://www.oddsflow.ai/performance) — Verified track record (live figures at [oddsflow.ai/accuracy](https://www.oddsflow.ai/accuracy), recomputable from the [open dataset](https://github.com/oddsflowai-team/oddsflow-transparency))
 *   **Verification Hub**: [oddsflow.ai/verification](https://www.oddsflow.ai/verification) — Timestamped, auditable signal records
 
 ## Research & Publications
