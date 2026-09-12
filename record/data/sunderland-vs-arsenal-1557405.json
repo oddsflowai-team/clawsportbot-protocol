@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-arsenal-1557405",
+  "fixtureId": 1557405,
+  "kickoff": "2026-09-12T19:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "observedAt": "2026-09-03T21:42:35.672Z",
+  "probs": {
+    "home": 0.1359,
+    "draw": 0.229,
+    "away": 0.6351
+  },
+  "goalsAvg": {
+    "home": 0.726,
+    "away": 1.845
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

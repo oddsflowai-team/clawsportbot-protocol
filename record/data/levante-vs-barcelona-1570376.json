@@ -1,0 +1,31 @@
+{
+  "slug": "levante-vs-barcelona-1570376",
+  "fixtureId": 1570376,
+  "kickoff": "2026-09-13T14:15:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 539,
+    "en": "Levante"
+  },
+  "away": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "observedAt": "2026-09-03T22:50:02.150Z",
+  "probs": {
+    "home": 0.09199080091990801,
+    "draw": 0.14678532146785322,
+    "away": 0.7612238776122388
+  },
+  "goalsAvg": {
+    "home": 0.909,
+    "away": 2.79
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

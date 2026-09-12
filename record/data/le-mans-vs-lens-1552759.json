@@ -1,0 +1,31 @@
+{
+  "slug": "le-mans-vs-lens-1552759",
+  "fixtureId": 1552759,
+  "kickoff": "2026-09-13T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 1298,
+    "en": "Le Mans"
+  },
+  "away": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "observedAt": "2026-09-03T23:06:04.908Z",
+  "probs": {
+    "home": 0.18491849184918493,
+    "draw": 0.21052105210521052,
+    "away": 0.6045604560456046
+  },
+  "goalsAvg": {
+    "home": 1.123,
+    "away": 2.156
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

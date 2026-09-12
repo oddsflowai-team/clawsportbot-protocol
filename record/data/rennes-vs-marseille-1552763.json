@@ -1,0 +1,31 @@
+{
+  "slug": "rennes-vs-marseille-1552763",
+  "fixtureId": 1552763,
+  "kickoff": "2026-09-11T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 94,
+    "en": "Rennes"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-09-03T21:25:14.323Z",
+  "probs": {
+    "home": 0.4193580641935806,
+    "draw": 0.22257774222577742,
+    "away": 0.3580641935806419
+  },
+  "goalsAvg": {
+    "home": 1.946,
+    "away": 1.792
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-10T10:10:07.136Z",
+  "updatedAt": "2026-09-10T10:10:07.136Z"
+}

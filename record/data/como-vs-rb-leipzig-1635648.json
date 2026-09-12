@@ -1,0 +1,36 @@
+{
+  "slug": "como-vs-rb-leipzig-1635648",
+  "fixtureId": 1635648,
+  "kickoff": "2026-09-10T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 895,
+    "en": "Como"
+  },
+  "away": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "observedAt": "2026-09-03T21:17:37.212Z",
+  "probs": {
+    "home": 0.4659,
+    "draw": 0.2398,
+    "away": 0.2943
+  },
+  "goalsAvg": {
+    "home": 1.8,
+    "away": 1.396
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T19:40:40.378Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z",
+  "result": {
+    "home": 4,
+    "away": 1,
+    "verdict": "hit"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "psv-eindhoven-vs-shakhtar-donetsk-1635708",
+  "fixtureId": 1635708,
+  "kickoff": "2026-09-10T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 197,
+    "en": "PSV Eindhoven"
+  },
+  "away": {
+    "id": 550,
+    "en": "Shakhtar Donetsk"
+  },
+  "observedAt": "2026-09-03T05:29:09.638Z",
+  "probs": {
+    "home": 0.6551,
+    "draw": 0.1888,
+    "away": 0.1561
+  },
+  "goalsAvg": {
+    "home": 2.406,
+    "away": 1.114
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "verdict": "miss"
+  }
+}

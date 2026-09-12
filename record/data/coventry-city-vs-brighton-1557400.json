@@ -1,0 +1,31 @@
+{
+  "slug": "coventry-city-vs-brighton-1557400",
+  "fixtureId": 1557400,
+  "kickoff": "2026-09-13T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 1346,
+    "en": "Coventry City"
+  },
+  "away": {
+    "id": 51,
+    "en": "Brighton"
+  },
+  "observedAt": "2026-09-03T22:37:26.173Z",
+  "probs": {
+    "home": 0.2362,
+    "draw": 0.2356,
+    "away": 0.5282
+  },
+  "goalsAvg": {
+    "home": 1.195,
+    "away": 1.878
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-rayo-vallecano-1570379",
+  "fixtureId": 1570379,
+  "kickoff": "2026-09-12T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 728,
+    "en": "Rayo Vallecano"
+  },
+  "observedAt": "2026-09-03T21:51:18.451Z",
+  "probs": {
+    "home": 0.8488848884888489,
+    "draw": 0.10101010101010102,
+    "away": 0.0501050105010501
+  },
+  "goalsAvg": {
+    "home": 3.312,
+    "away": 0.773
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

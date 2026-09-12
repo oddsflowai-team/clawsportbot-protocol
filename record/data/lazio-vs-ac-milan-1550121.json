@@ -1,0 +1,31 @@
+{
+  "slug": "lazio-vs-ac-milan-1550121",
+  "fixtureId": 1550121,
+  "kickoff": "2026-09-12T16:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 487,
+    "en": "Lazio"
+  },
+  "away": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "observedAt": "2026-09-03T21:32:59.010Z",
+  "probs": {
+    "home": 0.31136886311368867,
+    "draw": 0.27597240275972407,
+    "away": 0.4126587341265874
+  },
+  "goalsAvg": {
+    "home": 1.181,
+    "away": 1.396
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "liverpool-vs-atletico-madrid-1635686",
+  "fixtureId": 1635686,
+  "kickoff": "2026-09-09T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "away": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "observedAt": "2026-09-03T03:19:24.793Z",
+  "probs": {
+    "home": 0.5506,
+    "draw": 0.2253,
+    "away": 0.2241
+  },
+  "goalsAvg": {
+    "home": 2.003,
+    "away": 1.219
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-09T22:15:36.691Z",
+  "result": {
+    "home": 2,
+    "away": 1,
+    "verdict": "hit"
+  }
+}

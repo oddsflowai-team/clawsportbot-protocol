@@ -1,0 +1,31 @@
+{
+  "slug": "celta-vigo-vs-malaga-1570374",
+  "fixtureId": 1570374,
+  "kickoff": "2026-09-13T12:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "away": {
+    "id": 535,
+    "en": "Malaga"
+  },
+  "observedAt": "2026-09-03T22:01:00.855Z",
+  "probs": {
+    "home": 0.541,
+    "draw": 0.2459,
+    "away": 0.2131
+  },
+  "goalsAvg": {
+    "home": 1.758,
+    "away": 1.021
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

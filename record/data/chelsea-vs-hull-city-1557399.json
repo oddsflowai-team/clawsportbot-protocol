@@ -1,0 +1,31 @@
+{
+  "slug": "chelsea-vs-hull-city-1557399",
+  "fixtureId": 1557399,
+  "kickoff": "2026-09-12T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "away": {
+    "id": 64,
+    "en": "Hull City"
+  },
+  "observedAt": "2026-09-03T08:04:24.561Z",
+  "probs": {
+    "home": 0.7734,
+    "draw": 0.1401,
+    "away": 0.0865
+  },
+  "goalsAvg": {
+    "home": 2.876,
+    "away": 0.908
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-10T22:10:06.083Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z"
+}

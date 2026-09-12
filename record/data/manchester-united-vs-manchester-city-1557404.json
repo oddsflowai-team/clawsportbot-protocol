@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-united-vs-manchester-city-1557404",
+  "fixtureId": 1557404,
+  "kickoff": "2026-09-13T15:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "away": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "observedAt": "2026-09-03T23:19:37.898Z",
+  "probs": {
+    "home": 0.3198,
+    "draw": 0.2179,
+    "away": 0.4623
+  },
+  "goalsAvg": {
+    "home": 1.717,
+    "away": 2.079
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

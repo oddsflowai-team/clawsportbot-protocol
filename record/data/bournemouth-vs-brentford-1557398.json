@@ -1,0 +1,31 @@
+{
+  "slug": "bournemouth-vs-brentford-1557398",
+  "fixtureId": 1557398,
+  "kickoff": "2026-09-12T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "away": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "observedAt": "2026-09-03T07:58:15.728Z",
+  "probs": {
+    "home": 0.3784,
+    "draw": 0.2412,
+    "away": 0.3804
+  },
+  "goalsAvg": {
+    "home": 1.637,
+    "away": 1.642
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-10T22:10:06.083Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z"
+}

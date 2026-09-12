@@ -1,0 +1,36 @@
+{
+  "slug": "vfb-stuttgart-vs-viking-1635741",
+  "fixtureId": 1635741,
+  "kickoff": "2026-09-09T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "away": {
+    "id": 759,
+    "en": "Viking"
+  },
+  "observedAt": "2026-08-31T06:48:22.551Z",
+  "probs": {
+    "home": 0.771,
+    "draw": 0.1346,
+    "away": 0.0944
+  },
+  "goalsAvg": {
+    "home": 3.083,
+    "away": 1.065
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-09T22:15:36.691Z",
+  "result": {
+    "home": 3,
+    "away": 1,
+    "verdict": "hit"
+  }
+}

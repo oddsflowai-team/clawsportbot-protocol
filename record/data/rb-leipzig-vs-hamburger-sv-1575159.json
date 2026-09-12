@@ -1,0 +1,31 @@
+{
+  "slug": "rb-leipzig-vs-hamburger-sv-1575159",
+  "fixtureId": 1575159,
+  "kickoff": "2026-09-13T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "away": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "observedAt": "2026-09-03T22:42:41.869Z",
+  "probs": {
+    "home": 0.693,
+    "draw": 0.1724,
+    "away": 0.1346
+  },
+  "goalsAvg": {
+    "home": 2.594,
+    "away": 1.091
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

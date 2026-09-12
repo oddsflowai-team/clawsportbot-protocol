@@ -1,0 +1,36 @@
+{
+  "slug": "slavia-praha-vs-lens-1635729",
+  "fixtureId": 1635729,
+  "kickoff": "2026-09-10T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 560,
+    "en": "Slavia Praha"
+  },
+  "away": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "observedAt": "2026-09-03T05:43:56.626Z",
+  "probs": {
+    "home": 0.3585358535853585,
+    "draw": 0.251025102510251,
+    "away": 0.39043904390439044
+  },
+  "goalsAvg": {
+    "home": 1.494,
+    "away": 1.567
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T19:40:40.378Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z",
+  "result": {
+    "home": 2,
+    "away": 3,
+    "verdict": "hit"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "le-havre-vs-angers-1552758",
+  "fixtureId": 1552758,
+  "kickoff": "2026-09-12T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 111,
+    "en": "Le Havre"
+  },
+  "away": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "observedAt": "2026-09-03T10:13:17.916Z",
+  "probs": {
+    "home": 0.441,
+    "draw": 0.2687,
+    "away": 0.2903
+  },
+  "goalsAvg": {
+    "home": 1.492,
+    "away": 1.166
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

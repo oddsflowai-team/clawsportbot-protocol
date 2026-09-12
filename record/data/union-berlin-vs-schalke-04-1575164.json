@@ -1,0 +1,36 @@
+{
+  "slug": "union-berlin-vs-schalke-04-1575164",
+  "fixtureId": 1575164,
+  "kickoff": "2026-09-11T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 182,
+    "en": "Union Berlin"
+  },
+  "away": {
+    "id": 174,
+    "en": "Schalke 04"
+  },
+  "observedAt": "2026-09-03T06:26:31.418Z",
+  "probs": {
+    "home": 0.4683,
+    "draw": 0.2215,
+    "away": 0.3102
+  },
+  "goalsAvg": {
+    "home": 2.034,
+    "away": 1.638
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-10T10:10:07.136Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z",
+  "result": {
+    "home": 1,
+    "away": 3,
+    "verdict": "miss"
+  }
+}

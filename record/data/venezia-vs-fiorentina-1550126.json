@@ -1,0 +1,36 @@
+{
+  "slug": "venezia-vs-fiorentina-1550126",
+  "fixtureId": 1550126,
+  "kickoff": "2026-09-11T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 517,
+    "en": "Venezia"
+  },
+  "away": {
+    "id": 502,
+    "en": "Fiorentina"
+  },
+  "observedAt": "2026-09-03T06:34:11.792Z",
+  "probs": {
+    "home": 0.3634,
+    "draw": 0.2713,
+    "away": 0.3653
+  },
+  "goalsAvg": {
+    "home": 1.34,
+    "away": 1.345
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-10T10:10:07.136Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z",
+  "result": {
+    "home": 2,
+    "away": 4,
+    "verdict": "hit"
+  }
+}

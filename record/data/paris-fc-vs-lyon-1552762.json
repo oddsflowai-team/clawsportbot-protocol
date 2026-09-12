@@ -1,0 +1,31 @@
+{
+  "slug": "paris-fc-vs-lyon-1552762",
+  "fixtureId": 1552762,
+  "kickoff": "2026-09-12T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-09-03T09:59:07.625Z",
+  "probs": {
+    "home": 0.369,
+    "draw": 0.2436,
+    "away": 0.3874
+  },
+  "goalsAvg": {
+    "home": 1.59,
+    "away": 1.633
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "sporting-cp-vs-galatasaray-1635736",
+  "fixtureId": 1635736,
+  "kickoff": "2026-09-09T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 228,
+    "en": "Sporting CP"
+  },
+  "away": {
+    "id": 645,
+    "en": "Galatasaray"
+  },
+  "observedAt": "2026-08-31T07:32:25.383Z",
+  "probs": {
+    "home": 0.492,
+    "draw": 0.2365,
+    "away": 0.2715
+  },
+  "goalsAvg": {
+    "home": 1.859,
+    "away": 1.338
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-09T22:15:36.691Z",
+  "result": {
+    "home": 3,
+    "away": 1,
+    "verdict": "hit"
+  }
+}

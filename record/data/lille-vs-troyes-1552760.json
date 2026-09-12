@@ -1,0 +1,31 @@
+{
+  "slug": "lille-vs-troyes-1552760",
+  "fixtureId": 1552760,
+  "kickoff": "2026-09-13T13:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "away": {
+    "id": 110,
+    "en": "Troyes"
+  },
+  "observedAt": "2026-09-03T22:29:42.157Z",
+  "probs": {
+    "home": 0.6703,
+    "draw": 0.2076,
+    "away": 0.1221
+  },
+  "goalsAvg": {
+    "home": 2.038,
+    "away": 0.748
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

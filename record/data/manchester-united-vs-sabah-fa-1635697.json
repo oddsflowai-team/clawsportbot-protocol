@@ -1,0 +1,36 @@
+{
+  "slug": "manchester-united-vs-sabah-fa-1635697",
+  "fixtureId": 1635697,
+  "kickoff": "2026-09-10T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "away": {
+    "id": 13976,
+    "en": "Sabah FA"
+  },
+  "observedAt": "2026-09-05T10:37:18.935Z",
+  "probs": {
+    "home": 0.8392,
+    "draw": 0.1034,
+    "away": 0.0574
+  },
+  "goalsAvg": {
+    "home": 3.392,
+    "away": 0.88
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T19:40:40.378Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z",
+  "result": {
+    "home": 4,
+    "away": 0,
+    "verdict": "hit"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "augsburg-vs-bayer-leverkusen-1575162",
+  "fixtureId": 1575162,
+  "kickoff": "2026-09-12T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 170,
+    "en": "Augsburg"
+  },
+  "away": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "observedAt": "2026-09-03T07:42:48.959Z",
+  "probs": {
+    "home": 0.2314,
+    "draw": 0.205,
+    "away": 0.5636
+  },
+  "goalsAvg": {
+    "home": 1.447,
+    "away": 2.303
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-10T22:10:06.083Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z"
+}

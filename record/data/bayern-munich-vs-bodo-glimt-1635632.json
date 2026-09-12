@@ -1,0 +1,36 @@
+{
+  "slug": "bayern-munich-vs-bodo-glimt-1635632",
+  "fixtureId": 1635632,
+  "kickoff": "2026-09-10T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "away": {
+    "id": 327,
+    "en": "Bodo/Glimt"
+  },
+  "observedAt": "2026-09-03T05:36:47.018Z",
+  "probs": {
+    "home": 0.8411,
+    "draw": 0.0968,
+    "away": 0.0621
+  },
+  "goalsAvg": {
+    "home": 3.712,
+    "away": 1.065
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T19:40:40.378Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z",
+  "result": {
+    "home": 5,
+    "away": 0,
+    "verdict": "hit"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "napoli-vs-bologna-1550123",
+  "fixtureId": 1550123,
+  "kickoff": "2026-09-13T16:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "away": {
+    "id": 500,
+    "en": "Bologna"
+  },
+  "observedAt": "2026-09-03T23:24:42.229Z",
+  "probs": {
+    "home": 0.5908,
+    "draw": 0.233,
+    "away": 0.1762
+  },
+  "goalsAvg": {
+    "home": 1.869,
+    "away": 0.922
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

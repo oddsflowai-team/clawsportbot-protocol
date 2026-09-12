@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-dortmund-vs-paderborn-07-1575158",
+  "fixtureId": 1575158,
+  "kickoff": "2026-09-12T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "away": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "observedAt": "2026-09-03T07:49:54.698Z",
+  "probs": {
+    "home": 0.7737,
+    "draw": 0.1419,
+    "away": 0.0844
+  },
+  "goalsAvg": {
+    "home": 2.818,
+    "away": 0.867
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-10T22:10:06.083Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z"
+}

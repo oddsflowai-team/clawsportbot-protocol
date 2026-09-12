@@ -1,0 +1,31 @@
+{
+  "slug": "1-fc-koln-vs-werder-bremen-1575165",
+  "fixtureId": 1575165,
+  "kickoff": "2026-09-12T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "away": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "observedAt": "2026-09-03T09:12:19.444Z",
+  "probs": {
+    "home": 0.4734,
+    "draw": 0.2254,
+    "away": 0.3012
+  },
+  "goalsAvg": {
+    "home": 1.985,
+    "away": 1.56
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

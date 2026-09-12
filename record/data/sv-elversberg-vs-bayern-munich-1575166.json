@@ -1,0 +1,31 @@
+{
+  "slug": "sv-elversberg-vs-bayern-munich-1575166",
+  "fixtureId": 1575166,
+  "kickoff": "2026-09-13T15:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 1660,
+    "en": "SV Elversberg"
+  },
+  "away": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "observedAt": "2026-09-03T23:14:09.700Z",
+  "probs": {
+    "home": 0.0873,
+    "draw": 0.1181,
+    "away": 0.7946
+  },
+  "goalsAvg": {
+    "home": 1.183,
+    "away": 3.447
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T22:11:00.003Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z"
+}

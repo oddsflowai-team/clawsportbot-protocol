@@ -1,0 +1,36 @@
+{
+  "slug": "fenerbahce-vs-as-roma-1635659",
+  "fixtureId": 1635659,
+  "kickoff": "2026-09-10T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 611,
+    "en": "Fenerbahce"
+  },
+  "away": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "observedAt": "2026-09-03T05:21:46.696Z",
+  "probs": {
+    "home": 0.3804,
+    "draw": 0.2589,
+    "away": 0.3607
+  },
+  "goalsAvg": {
+    "home": 1.475,
+    "away": 1.431
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-10T22:10:06.083Z",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "verdict": "miss"
+  }
+}

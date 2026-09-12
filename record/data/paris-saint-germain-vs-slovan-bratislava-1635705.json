@@ -1,0 +1,36 @@
+{
+  "slug": "paris-saint-germain-vs-slovan-bratislava-1635705",
+  "fixtureId": 1635705,
+  "kickoff": "2026-09-09T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "away": {
+    "id": 656,
+    "en": "Slovan Bratislava"
+  },
+  "observedAt": "2026-08-31T07:45:23.389Z",
+  "probs": {
+    "home": 0.9201,
+    "draw": 0.0592,
+    "away": 0.0207
+  },
+  "goalsAvg": {
+    "home": 3.864,
+    "away": 0.57
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-09T22:15:36.691Z",
+  "result": {
+    "home": 6,
+    "away": 1,
+    "verdict": "hit"
+  }
+}

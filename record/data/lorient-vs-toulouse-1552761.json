@@ -1,0 +1,31 @@
+{
+  "slug": "lorient-vs-toulouse-1552761",
+  "fixtureId": 1552761,
+  "kickoff": "2026-09-12T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 97,
+    "en": "Lorient"
+  },
+  "away": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "observedAt": "2026-09-03T10:05:45.548Z",
+  "probs": {
+    "home": 0.39156084391560847,
+    "draw": 0.26447355264473554,
+    "away": 0.343965603439656
+  },
+  "goalsAvg": {
+    "home": 1.451,
+    "away": 1.346
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

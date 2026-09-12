@@ -1,0 +1,36 @@
+{
+  "slug": "barcelona-vs-feyenoord-1635628",
+  "fixtureId": 1635628,
+  "kickoff": "2026-09-09T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "away": {
+    "id": 209,
+    "en": "Feyenoord"
+  },
+  "observedAt": "2026-08-31T06:54:19.675Z",
+  "probs": {
+    "home": 0.841915808419158,
+    "draw": 0.09859014098590141,
+    "away": 0.059494050594940506
+  },
+  "goalsAvg": {
+    "home": 3.59,
+    "away": 0.984
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-08T17:23:09.900Z",
+  "updatedAt": "2026-09-10T10:10:07.136Z",
+  "result": {
+    "home": 5,
+    "away": 1,
+    "verdict": "hit"
+  }
+}

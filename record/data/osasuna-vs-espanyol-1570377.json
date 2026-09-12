@@ -1,0 +1,31 @@
+{
+  "slug": "osasuna-vs-espanyol-1570377",
+  "fixtureId": 1570377,
+  "kickoff": "2026-09-12T14:15:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 727,
+    "en": "Osasuna"
+  },
+  "away": {
+    "id": 540,
+    "en": "Espanyol"
+  },
+  "observedAt": "2026-09-03T08:32:58.606Z",
+  "probs": {
+    "home": 0.492,
+    "draw": 0.2602,
+    "away": 0.2478
+  },
+  "goalsAvg": {
+    "home": 1.61,
+    "away": 1.075
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

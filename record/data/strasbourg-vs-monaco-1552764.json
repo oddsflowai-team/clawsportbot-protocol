@@ -1,0 +1,31 @@
+{
+  "slug": "strasbourg-vs-monaco-1552764",
+  "fixtureId": 1552764,
+  "kickoff": "2026-09-12T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 95,
+    "en": "Strasbourg"
+  },
+  "away": {
+    "id": 91,
+    "en": "Monaco"
+  },
+  "observedAt": "2026-09-03T08:46:38.426Z",
+  "probs": {
+    "home": 0.3213,
+    "draw": 0.2271,
+    "away": 0.4516
+  },
+  "goalsAvg": {
+    "home": 1.618,
+    "away": 1.939
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "auxerre-vs-nice-1552756",
+  "fixtureId": 1552756,
+  "kickoff": "2026-09-12T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "away": {
+    "id": 84,
+    "en": "Nice"
+  },
+  "observedAt": "2026-09-03T09:45:13.739Z",
+  "probs": {
+    "home": 0.4013,
+    "draw": 0.2659,
+    "away": 0.3328
+  },
+  "goalsAvg": {
+    "home": 1.457,
+    "away": 1.307
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-11T10:10:04.169Z",
+  "updatedAt": "2026-09-11T10:10:04.169Z"
+}

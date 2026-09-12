@@ -1,0 +1,36 @@
+{
+  "slug": "sevilla-vs-valencia-1570381",
+  "fixtureId": 1570381,
+  "kickoff": "2026-09-11T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 536,
+    "en": "Sevilla"
+  },
+  "away": {
+    "id": 532,
+    "en": "Valencia"
+  },
+  "observedAt": "2026-09-03T06:40:30.804Z",
+  "probs": {
+    "home": 0.4141,
+    "draw": 0.2601,
+    "away": 0.3258
+  },
+  "goalsAvg": {
+    "home": 1.528,
+    "away": 1.331
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-10T10:10:07.136Z",
+  "updatedAt": "2026-09-11T22:11:00.003Z",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "verdict": "hit"
+  }
+}
