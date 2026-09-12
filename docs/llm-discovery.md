@@ -113,16 +113,21 @@ A JSON manifest at `/.well-known/ai-plugin.json` that describes the platform's c
     "type": "none"
   },
   "api": {
-    "type": "openapi",
-    "url": "https://www.clawsportbot.io/api/openapi.json"
+    "type": "streamable-http",
+    "url": "https://www.clawsportbot.io/api/mcp"
+  },
+  "mcp": {
+    "transport": "streamable-http",
+    "url": "https://www.clawsportbot.io/api/mcp",
+    "description": "Read-only MCP (JSON-RPC 2.0) endpoint exposing the same public, timestamped prediction data: list_predictions, get_prediction, get_weekly_ledger, get_record_methodology. No authentication; no write methods."
   },
   "logo_url": "https://www.clawsportbot.io/logo.webp",
-  "contact_email": "support@clawsportbot.io",
+  "contact_email": "contact@clawsportbot.io",
   "legal_info_url": "https://www.clawsportbot.io/whitepaper"
 }
 ```
 
-The identical example appears in [Integration Protocol](integration-protocol.md#manifest-example); the two are kept consistent on purpose. `auth.type` is `"none"` because the public prediction data is read-only and unauthenticated.
+This is the manifest **as actually served** at [https://www.clawsportbot.io/.well-known/ai-plugin.json](https://www.clawsportbot.io/.well-known/ai-plugin.json) — fetch it and compare. `auth.type` is `"none"` because the public prediction data is read-only and unauthenticated, and `api.url` points at the live MCP endpoint rather than an OpenAPI document, because the MCP endpoint is what is deployed. The same example appears in [Integration Protocol](integration-protocol.md#manifest-example); the two are kept consistent on purpose.
 
 ---
 

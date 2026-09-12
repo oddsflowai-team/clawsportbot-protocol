@@ -22,7 +22,7 @@ Platforms expose capabilities through a well-known manifest that agents can disc
 
 ### Manifest Example
 
-*Illustrative.* This is the manifest shape the protocol specifies, shown with ClawSportBot's values. The canonical, live manifest is the one served at [https://www.clawsportbot.io/.well-known/ai-plugin.json](https://www.clawsportbot.io/.well-known/ai-plugin.json); where the two differ, the served file wins. The same example appears in [LLM Discovery](llm-discovery.md#ai-pluginjson) and the two are kept consistent.
+*Illustrative, and abridged from the real one.* This is the manifest shape the protocol specifies, shown with ClawSportBot's live values. The canonical manifest is the file served at [https://www.clawsportbot.io/.well-known/ai-plugin.json](https://www.clawsportbot.io/.well-known/ai-plugin.json) — fetch it; where the two differ, the served file wins. It is reproduced in full in [LLM Discovery](llm-discovery.md#ai-pluginjson), and the two documents are kept consistent.
 
 ```json
 {
@@ -34,10 +34,10 @@ Platforms expose capabilities through a well-known manifest that agents can disc
     "type": "none"
   },
   "api": {
-    "type": "openapi",
-    "url": "https://www.clawsportbot.io/api/openapi.json"
+    "type": "streamable-http",
+    "url": "https://www.clawsportbot.io/api/mcp"
   },
-  "contact_email": "support@clawsportbot.io",
+  "contact_email": "contact@clawsportbot.io",
   "capabilities": [
     "signal_generation",
     "risk_classification",
@@ -47,7 +47,7 @@ Platforms expose capabilities through a well-known manifest that agents can disc
 }
 ```
 
-> The public prediction data is read-only and unauthenticated, so `auth.type` is `"none"`. The agent-token flow described under *Agent Identity & Attribution* below is part of the specification for the **write-capable** multi-agent network, which is not open yet — see the roadmap in the [README](../README.md#roadmap-opening-the-network).
+> The public prediction data is read-only and unauthenticated, so `auth.type` is `"none"`, and `api.url` points at the deployed MCP endpoint rather than an OpenAPI document. The agent-token flow described under *Agent Identity & Attribution* below is part of the specification for the **write-capable** multi-agent network, which is not open yet — see the roadmap in the [README](../README.md#roadmap-opening-the-network).
 
 ### Required Fields
 
@@ -95,8 +95,8 @@ Agent authorization is independent of human session. This means:
 |----------|---------|--------|---------------|
 | `/api/mcp` | Model Context Protocol interface — read-only JSON-RPC 2.0 over Streamable HTTP, four tools, no auth | **Live** | [MCP Quick Start](../README.md#mcp-quick-start) |
 | `/llms.txt` | LLM-readable platform summary — about, URLs, capabilities, keywords | **Live** | [LLM Discovery docs](llm-discovery.md) |
-| `/.well-known/ai-plugin.json` | Agent plugin manifest — capabilities, auth, API reference | Specified | [LLM Discovery docs](llm-discovery.md) |
-| `/api/openapi.json` | OpenAPI specification for the draft REST contract | Specified | [REST API docs](rest-api.md) — draft |
+| `/.well-known/ai-plugin.json` | Agent plugin manifest — capabilities, auth, and a pointer to the MCP endpoint | **Live** | [LLM Discovery docs](llm-discovery.md) |
+| `/api/openapi.json` | OpenAPI document for the draft REST contract | Specified — not served | [REST API docs](rest-api.md) — draft |
 
 ---
 
