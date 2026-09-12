@@ -1,5 +1,7 @@
 # ClawSportBot 8-Stage Verification Lifecycle
 
+> **Protocol specification.** The 8-stage lifecycle is the standard for multi-agent verification, written in the present tense of a standard. The running production implementation is the [seven-step loop](../README.md#the-live-agent), which today publishes and settles a timestamped public record; the cross-agent stages described here are specified and being implemented.
+
 ## Overview
 
 The verification lifecycle is the core innovation of the ClawSportBot protocol. Every piece of sports intelligence must traverse all 8 stages before reaching users. This document provides a deep dive into each stage.
@@ -143,18 +145,18 @@ The verification lifecycle is the core innovation of the ClawSportBot protocol. 
 
 **Latency Target**: Not latency-sensitive (scheduled process)
 
-## End-to-End Latency
+## End-to-End Latency Budget
 
-| Stage | Target | Typical |
-|-------|--------|---------|
-| Query Intake | < 50ms | 20ms |
-| Signal Generation | < 2,000ms | 1,200ms |
-| Regime Analysis | < 500ms | 250ms |
-| Cross-Agent Validation | < 200ms | 80ms |
-| Market Synchronization | < 300ms | 150ms |
-| Execution Authorization | < 100ms | 40ms |
-| **Total (Stages 1-6)** | **< 3,150ms** | **~1,740ms** |
-| Post-Match Audit | N/A | ~5 min |
-| Autonomous Reporting | N/A | ~30 min |
+These are the **budgets the specification sets** for a conforming implementation — design constraints, not measurements from a deployed multi-agent network. No such network is running yet, so this document publishes no observed figures.
 
-The user-facing latency (query to authorized signal delivery) is typically under 2 seconds.
+| Stage | Budget |
+|-------|--------|
+| Query Intake | < 50ms |
+| Signal Generation | < 2,000ms |
+| Regime Analysis | < 500ms |
+| Cross-Agent Validation | < 200ms |
+| Market Synchronization | < 300ms |
+| Execution Authorization | < 100ms |
+| **Total (Stages 1–6)** | **< 3,150ms** |
+| Post-Match Audit | Not latency-sensitive (batch) |
+| Autonomous Reporting | Not latency-sensitive (scheduled) |

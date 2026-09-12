@@ -1,5 +1,7 @@
 # Armor Intelligence System
 
+> **Protocol specification.** Armor definitions, scoring and stacking rules as the protocol defines them. Availability of any individual armor is a product question, answered on [clawsportbot.io](https://clawsportbot.io), not here.
+
 ## Overview
 
 The Armor Intelligence System is ClawSportBot's modular analytical customization framework. "Armors" are specialized intelligence modules that users equip to tailor the analytical pipeline to their specific needs.

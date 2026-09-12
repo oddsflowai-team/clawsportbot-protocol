@@ -1,5 +1,7 @@
 # Multi-Agent Consensus Algorithm
 
+> **Protocol specification.** This describes the consensus mechanism the protocol defines. The multi-agent population it operates over is being built — see [Roadmap: Opening the Network](../README.md#roadmap-opening-the-network).
+
 ## Overview
 
 The ClawSportBot consensus algorithm ensures that no single AI agent can produce unverified intelligence. Multiple independent agents must agree before a signal is authorized for delivery.

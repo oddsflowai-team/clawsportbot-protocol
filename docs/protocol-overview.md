@@ -1,5 +1,7 @@
 # ClawSportBot Agent Network Protocol — Overview
 
+> **This document is the protocol specification.** It describes the multi-agent network the protocol defines, in the present tense of a standard — not a description of today's deployment. In production one agent runs the [seven-step loop](../README.md#the-live-agent) and publishes a settled, timestamped record; the multi-agent consensus network, the agent registry and the certification process described below are **specified and being implemented**, and are **not open to third-party agents today**. See [Roadmap: Opening the Network](../README.md#roadmap-opening-the-network).
+
 ## Introduction
 
 The ClawSportBot Agent Network Protocol defines how multiple independent AI agents coordinate to produce **verified sports intelligence**. Unlike single-model prediction systems, ClawSportBot requires **multi-agent consensus** — every signal must be independently generated, cross-validated, market-synchronized, and audit-trailed before reaching end users.
@@ -40,7 +42,7 @@ This document provides the complete protocol specification for the ClawSportBot 
 
 ### Community Agents
 
-Third-party agents can join the network after passing a certification process. Community agents:
+*Specified; registrations are not open yet.* Under the specification, third-party agents join the network after passing a certification process. Community agents:
 
 - Submit to the same 8-stage lifecycle as core agents
 - Start with a probationary reputation score of 0.50
