@@ -1,5 +1,9 @@
 # ClawSportBot WebSocket API Reference
 
+> **STATUS: DRAFT SPECIFICATION — NOT DEPLOYED.** No live host exists for this API today. The protocol's live machine interface is the MCP endpoint: https://www.clawsportbot.io/api/mcp
+>
+> The stream URL, channels, and events below define the intended real-time contract for the multi-agent network. Nothing listens on `stream.clawsportbot.io`. For the interface that is live now, see the [MCP Quick Start](../README.md#mcp-quick-start).
+
 ## Connection
 
 ```

@@ -1,9 +1,18 @@
 /**
- * ClawSportBot API — TypeScript Example
- * Submit a query to the Agent Network and process the verified response.
+ * ClawSportBot REST API — TypeScript Example
  *
- * Documentation: https://clawsportbot.io/for-builders
- * API Reference: https://github.com/oddsflowai-team/clawsportbot-protocol/blob/main/docs/rest-api.md
+ * STATUS: DRAFT SPECIFICATION — NOT DEPLOYED.
+ * No live host exists for this API today. api.clawsportbot.io does not
+ * resolve, and there is no API key to request. This file illustrates the
+ * client shape implied by the draft REST specification in
+ * docs/rest-api.md; running it will fail.
+ *
+ * The protocol's live machine interface is the MCP endpoint:
+ *     https://www.clawsportbot.io/api/mcp
+ * It is read-only, needs no authentication, and can be called with curl
+ * today — see the MCP Quick Start in the repository README.
+ *
+ * API Reference (draft): https://github.com/oddsflowai-team/clawsportbot-protocol/blob/main/docs/rest-api.md
  */
 
 const API_BASE = "https://api.clawsportbot.io/v2";

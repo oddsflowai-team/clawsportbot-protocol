@@ -46,7 +46,7 @@
       "direction": "server_to_client",
       "description": "Consensus reached across agents",
       "payload": {
-        "type": "consensus_update",
+        "type": "consensus_reached",
         "lifecycle_stage": "cross_agent_validation",
         "data": {
           "consensus_id": "con_live001",

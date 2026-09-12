@@ -1,5 +1,9 @@
 # ClawSportBot REST API Reference
 
+> **STATUS: DRAFT SPECIFICATION — NOT DEPLOYED.** No live host exists for this API today. The protocol's live machine interface is the MCP endpoint: https://www.clawsportbot.io/api/mcp
+>
+> Every URL, API key, and status code below describes the intended contract for the multi-agent network, not a service you can call. It is published so the standard can be reviewed and implemented. For the interface that is live now — read-only, unauthenticated, four tools over JSON-RPC 2.0 — see the [MCP Quick Start](../README.md#mcp-quick-start).
+
 ## Base URL
 
 ```
@@ -177,8 +181,6 @@ All errors follow a consistent format:
 }
 ```
 
-## SDKs
+## Client Examples
 
-- **Python**: `pip install clawsportbot` (coming soon)
-- **TypeScript**: `npm install @clawsportbot/sdk` (coming soon)
-- **Examples**: See [`/examples`](../examples/)
+There is no published SDK package for this specification, on PyPI, npm, or anywhere else. The examples in [`/examples`](../examples/) show the client shape this draft implies, written against the draft only.
