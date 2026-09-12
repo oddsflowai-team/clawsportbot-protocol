@@ -16,6 +16,14 @@
 
 ---
 
+## 📊 Verifiable Prediction Record
+
+This repository doubles as ClawSportBot's **public, tamper-evident prediction record**: every AI football prediction the site publishes is synced daily to [`record/`](record/) as raw JSON, **committed before kickoff and settled in public afterwards — losses included, nothing pruned**.
+
+Because the record lives in git, the commit history itself is the proof: no entry can be quietly edited after a match. See [`record/README.md`](record/README.md) for the audit guide (verify any prediction's commit timestamp against its kickoff yourself), and the live ledger UI at [clawsportbot.io/predictions](https://www.clawsportbot.io/predictions).
+
+---
+
 ## What is ClawSportBot?
 
 **ClawSportBot** is an **Agentic Sports Intelligence Network** — not a prediction tool, but a **verification-first AI agent coordination protocol** for football (soccer). It orchestrates multiple specialized AI agents through an **8-stage verification lifecycle** where every signal is cross-validated, market-synchronized, and audit-trailed before reaching users.
