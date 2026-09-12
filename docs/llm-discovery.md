@@ -13,6 +13,8 @@ The Agentic AI Protocol (AAP) requires platforms to expose machine-readable disc
 | `llms.txt` | `/llms.txt` | LLM-readable platform summary |
 | `ai-plugin.json` | `/.well-known/ai-plugin.json` | Agent plugin manifest |
 
+Both are discovery *documents*. The structured data itself is served over the live MCP endpoint at [`/api/mcp`](https://www.clawsportbot.io/api/mcp) — see the [MCP Quick Start](../README.md#mcp-quick-start).
+
 ---
 
 ## llms.txt
@@ -34,11 +36,13 @@ A plain-text file at the root of the domain that provides a structured summary o
 | `## Capabilities` | List of platform capabilities |
 | `## Keywords` | Comma-separated terms for LLM indexing |
 
-### Full Example (ClawSportBot)
+### Example (ClawSportBot)
+
+> **Abridged illustration.** The live file at [https://www.clawsportbot.io/llms.txt](https://www.clawsportbot.io/llms.txt) is richer and canonical — it additionally carries what the platform is *not*, the record methodology, the seven-step agent loop, the MCP tool list, the guide index, and the locale map. Read that file, not this excerpt, if you are an agent trying to understand ClawSportBot. This excerpt exists to show the *shape* a conforming `llms.txt` takes.
 
 ```text
 # ClawSportBot — LLM Discovery File
-# https://clawsportbot.io
+# https://www.clawsportbot.io
 
 ## About
 ClawSportBot is the Agentic Sports Intelligence Network — a verification-first AI agent coordination platform for football (soccer). It is the reference implementation of the Agentic AI Protocol (AAP).
@@ -110,13 +114,15 @@ A JSON manifest at `/.well-known/ai-plugin.json` that describes the platform's c
   },
   "api": {
     "type": "openapi",
-    "url": "https://clawsportbot.io/api/openapi.json"
+    "url": "https://www.clawsportbot.io/api/openapi.json"
   },
-  "logo_url": "https://clawsportbot.io/logo.png",
-  "contact_email": "contact@clawsportbot.io",
-  "legal_info_url": "https://clawsportbot.io/whitepaper"
+  "logo_url": "https://www.clawsportbot.io/logo.webp",
+  "contact_email": "support@clawsportbot.io",
+  "legal_info_url": "https://www.clawsportbot.io/whitepaper"
 }
 ```
+
+The identical example appears in [Integration Protocol](integration-protocol.md#manifest-example); the two are kept consistent on purpose. `auth.type` is `"none"` because the public prediction data is read-only and unauthenticated.
 
 ---
 

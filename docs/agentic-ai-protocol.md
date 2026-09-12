@@ -16,7 +16,7 @@ AAP introduces:
 - **5-Layer Protocol Stack** — the structural enforcement of those criteria
 - **Agentic Efficiency Score** — a composite metric for measuring agentic performance
 
-**ClawSportBot** is the reference implementation of AAP — the first sports intelligence platform to achieve full compliance.
+**ClawSportBot** is the reference implementation of AAP. Implementation is partial and deliberately legible: the **execution and verification layers are live** — every prediction is published with a timestamp, settled against the real final score, mirrored to a public git ledger, and served to agents over a read-only [MCP endpoint](https://www.clawsportbot.io/api/mcp). The **contract and reputation layers are specified here and being implemented**. This document marks which is which throughout.
 
 ---
 
@@ -142,16 +142,18 @@ AES = (Outcome × Confidence) / (Token_Cost × Log(Time))
 
 ## Readiness Checklist
 
-Six criteria separate protocol-compliant agentic platforms from prompt-and-pray chatbots.
+Six criteria separate protocol-compliant agentic platforms from prompt-and-pray chatbots. Here is where the reference implementation actually stands against them — a checklist is only useful if the boxes are honest.
 
-- [x] Machine-readable agent identity with version control
-- [x] Pre-action contracts with declared confidence and risk
-- [x] Immutable execution logs with input snapshots
-- [x] Post-action verification against declared contracts
-- [x] Algorithmic reputation that cannot be manually overridden
-- [x] Public audit trail accessible to third parties
+| Criterion | Status in the reference implementation |
+|-----------|----------------------------------------|
+| Machine-readable agent identity with version control | **Specified.** Schema complete ([`agentic-identity.schema.json`](../schemas/agentic-identity.schema.json)); the production agent is a single identity, not yet a registry of them |
+| Pre-action contracts with declared confidence and risk | **Partial, live.** Every published signal carries declared confidence and a validity window before the event it references; the full contract object is specified and being implemented |
+| Immutable execution logs with input snapshots | **Live.** Predictions are mirrored to a third-party-hosted git ledger ([`record/`](../record/)); commit history is append-only and outside our control |
+| Post-action verification against declared contracts | **Live.** Every signal is settled against the real final score — losses and voids shown, not pruned |
+| Algorithmic reputation that cannot be manually overridden | **Specified, being implemented.** The scoring model is defined ([`agentic-reputation.schema.json`](../schemas/agentic-reputation.schema.json)); there is not yet a multi-agent population to score |
+| Public audit trail accessible to third parties | **Live.** [`record/`](../record/), the [public ledger](https://www.clawsportbot.io/predictions), and the read-only [MCP endpoint](https://www.clawsportbot.io/api/mcp) |
 
-**ClawSportBot meets all 6 criteria.** The first sports intelligence platform to achieve full Agentic AI Protocol compliance.
+Three of six are running in production and independently checkable today. The rest are the work, stated as work.
 
 ---
 
@@ -161,7 +163,12 @@ Six criteria separate protocol-compliant agentic platforms from prompt-and-pray 
 2. Trust is not assumed — it is built through contracts, logs, calibration, and reputation.
 3. The protocol is the product. The standard is the moat.
 
-**ClawSportBot is the reference implementation.** Everything described in this document is not theoretical. It is live, measurable, and verifiable on the ClawSportBot platform.
+**ClawSportBot is the reference implementation** — and a reference implementation that overstates itself is worth nothing, so precisely:
+
+- **Live, measurable, and verifiable today**: the prediction record, the pre-publication timestamp, the settlement loop, and the read-only [MCP interface](https://www.clawsportbot.io/api/mcp). You can check all four yourself, from outside, without asking us.
+- **Specified and being implemented**: the contract layer's full object model, the reputation layer, and the multi-agent consensus network the rest of this document describes.
+
+The specification came first on purpose. Publishing the standard before the whole of it ships is what makes the gap auditable.
 
 ---
 
@@ -169,8 +176,9 @@ Six criteria separate protocol-compliant agentic platforms from prompt-and-pray 
 
 For machine-readable discovery of the ClawSportBot platform and AAP specification:
 
-- **llms.txt**: [https://clawsportbot.io/llms.txt](https://clawsportbot.io/llms.txt) — see [LLM Discovery docs](llm-discovery.md)
-- **ai-plugin.json**: [https://clawsportbot.io/.well-known/ai-plugin.json](https://clawsportbot.io/.well-known/ai-plugin.json) — see [LLM Discovery docs](llm-discovery.md)
+- **llms.txt**: [https://www.clawsportbot.io/llms.txt](https://www.clawsportbot.io/llms.txt) — live and canonical; see [LLM Discovery docs](llm-discovery.md)
+- **ai-plugin.json**: [https://www.clawsportbot.io/.well-known/ai-plugin.json](https://www.clawsportbot.io/.well-known/ai-plugin.json) — the `.well-known` manifest specified alongside llms.txt; see [LLM Discovery docs](llm-discovery.md)
+- **MCP endpoint**: [https://www.clawsportbot.io/api/mcp](https://www.clawsportbot.io/api/mcp) — live, read-only, JSON-RPC 2.0
 
 ---
 

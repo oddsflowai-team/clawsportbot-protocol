@@ -99,4 +99,4 @@ The protocol follows Semantic Versioning:
 - **Minor**: New features, new schema fields (backward compatible)
 - **Patch**: Bug fixes, documentation updates
 
-Current version: **v2.1.0**
+Current version: **v3.0.0**
