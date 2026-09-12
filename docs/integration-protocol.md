@@ -37,7 +37,7 @@ Platforms expose capabilities through a well-known manifest that agents can disc
     "type": "streamable-http",
     "url": "https://www.clawsportbot.io/api/mcp"
   },
-  "contact_email": "contact@clawsportbot.io",
+  "contact_email": "support@clawsportbot.io",
   "capabilities": [
     "signal_generation",
     "risk_classification",

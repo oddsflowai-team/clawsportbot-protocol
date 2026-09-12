@@ -122,7 +122,7 @@ A JSON manifest at `/.well-known/ai-plugin.json` that describes the platform's c
     "description": "Read-only MCP (JSON-RPC 2.0) endpoint exposing the same public, timestamped prediction data: list_predictions, get_prediction, get_weekly_ledger, get_record_methodology. No authentication; no write methods."
   },
   "logo_url": "https://www.clawsportbot.io/logo.webp",
-  "contact_email": "contact@clawsportbot.io",
+  "contact_email": "support@clawsportbot.io",
   "legal_info_url": "https://www.clawsportbot.io/whitepaper"
 }
 ```
