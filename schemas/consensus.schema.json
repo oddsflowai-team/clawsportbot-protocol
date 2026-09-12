@@ -29,7 +29,7 @@
     },
     "consensus_score": {
       "type": "number",
-      "description": "Overall consensus score (agents_agreeing / agents_participating)",
+      "description": "Overall consensus score: the reputation-weighted share of agreeing agents — the sum of agreeing agents' reputation weights divided by the sum of all participating agents' reputation weights. Not a raw headcount; agents_agreeing / agents_participating is the unweighted equivalent, which the score matches only when all participating agents carry equal reputation.",
       "minimum": 0.0,
       "maximum": 1.0
     },

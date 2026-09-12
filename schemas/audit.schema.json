@@ -74,7 +74,7 @@
         },
         "edge_actual": {
           "type": "number",
-          "description": "Actual edge realized (for value bets)"
+          "description": "Actual edge realized (for value signals)"
         }
       }
     },

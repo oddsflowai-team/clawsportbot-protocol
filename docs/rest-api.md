@@ -33,10 +33,12 @@ curl -X POST https://api.clawsportbot.io/v2/query \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
+    "query_id": "q_abc123",
     "match_id": "epl-2025-arsenal-chelsea",
     "query_type": "full_analysis",
     "armors": ["neural-cortex", "odds-membrane"],
-    "consensus_threshold": 0.67
+    "consensus_threshold": 0.67,
+    "timestamp": "2025-03-14T18:00:00Z"
   }'
 ```
 

@@ -13,7 +13,8 @@
     {
       "signal_id": "sig_ma001",
       "agent_id": "match-analyst-v3",
-      "agent_reputation": 0.89,
+      "query_id": "q_demo001",
+      "match_id": "epl-2025-arsenal-chelsea",
       "signal_type": "match_outcome",
       "prediction": {
         "home_win": 0.52,
@@ -21,15 +22,18 @@
         "away_win": 0.24
       },
       "confidence": 0.78,
+      "agent_reputation": 0.89,
       "layer": "cognitive",
       "reasoning": "Arsenal's home form (W8 D1 L1 last 10) combined with Chelsea's away defensive vulnerabilities suggest home advantage. xG differential of +0.8 per match at Emirates this season.",
       "features_used": 47,
-      "model_version": "3.2.1"
+      "model_version": "3.2.1",
+      "timestamp": "2025-03-14T18:05:00Z"
     },
     {
       "signal_id": "sig_te001",
       "agent_id": "tactical-engine-v2",
-      "agent_reputation": 0.85,
+      "query_id": "q_demo001",
+      "match_id": "epl-2025-arsenal-chelsea",
       "signal_type": "tactical_insight",
       "prediction": {
         "home_win": 0.48,
@@ -37,70 +41,117 @@
         "away_win": 0.25
       },
       "confidence": 0.72,
+      "agent_reputation": 0.85,
       "layer": "cognitive",
       "reasoning": "Arsenal's high press (PPDA: 8.2) will exploit Chelsea's build-up vulnerabilities. Expected pressing success rate: 34%.",
       "features_used": 31,
-      "model_version": "2.1.0"
+      "model_version": "2.1.0",
+      "timestamp": "2025-03-14T18:06:00Z"
     },
     {
       "signal_id": "sig_om001",
       "agent_id": "odds-flow-monitor-v4",
-      "agent_reputation": 0.91,
+      "query_id": "q_demo001",
+      "match_id": "epl-2025-arsenal-chelsea",
       "signal_type": "market_value",
       "prediction": {
-        "home_win": 0.50,
+        "home_win": 0.5,
         "draw": 0.26,
         "away_win": 0.24
       },
       "confidence": 0.81,
+      "agent_reputation": 0.91,
       "layer": "market",
       "reasoning": "Market odds imply 47% home win probability vs our consensus of 50%. Minor value edge detected on home outcome.",
       "features_used": 23,
-      "model_version": "4.0.2"
+      "model_version": "4.0.2",
+      "timestamp": "2025-03-14T18:07:00Z"
     }
   ],
   "consensus": {
     "consensus_id": "con_demo001",
+    "query_id": "q_demo001",
+    "match_id": "epl-2025-arsenal-chelsea",
     "agents_participating": 5,
     "agents_agreeing": 4,
-    "consensus_score": 0.80,
+    "consensus_score": 0.8,
     "threshold_met": true,
     "threshold_required": 0.67,
     "consensus_method": "reputation_weighted",
     "weighted_prediction": {
-      "home_win": 0.50,
+      "home_win": 0.5,
       "draw": 0.26,
       "away_win": 0.24
-    }
+    },
+    "signal_ids": [
+      "sig_ma001",
+      "sig_te001",
+      "sig_om001"
+    ],
+    "timestamp": "2025-03-14T18:12:00Z"
   },
   "market_sync": {
     "sync_id": "sync_demo001",
+    "query_id": "q_demo001",
+    "match_id": "epl-2025-arsenal-chelsea",
     "odds_aligned": true,
     "value_detected": true,
     "edge_estimate": 0.034,
-    "sync_status": "aligned",
     "market_data": {
-      "best_odds_home": 2.10,
-      "best_odds_draw": 3.40,
-      "best_odds_away": 3.60,
+      "best_odds_home": 2.1,
+      "best_odds_draw": 3.4,
+      "best_odds_away": 3.6,
       "implied_prob_home": 0.476,
       "implied_prob_draw": 0.294,
       "implied_prob_away": 0.278,
       "overround": 1.048,
       "bookmakers_sampled": 12
-    }
+    },
+    "sync_status": "aligned",
+    "timestamp": "2025-03-14T18:20:00Z"
   },
   "authorization": {
     "auth_id": "auth_demo001",
+    "query_id": "q_demo001",
+    "match_id": "epl-2025-arsenal-chelsea",
     "authorized": true,
     "checks_passed": [
-      { "check_name": "consensus_threshold", "passed": true, "value": 0.80, "threshold": 0.67 },
-      { "check_name": "market_alignment", "passed": true, "value": 0.95, "threshold": 0.70 },
-      { "check_name": "confidence_minimum", "passed": true, "value": 0.78, "threshold": 0.60 },
-      { "check_name": "timing_window", "passed": true, "details": "20.5 hours until kickoff" },
-      { "check_name": "risk_limit", "passed": true, "value": 0.25, "threshold": 0.80 }
+      {
+        "check_name": "consensus_threshold",
+        "passed": true,
+        "value": 0.8,
+        "threshold": 0.67
+      },
+      {
+        "check_name": "market_alignment",
+        "passed": true,
+        "value": 0.95,
+        "threshold": 0.7
+      },
+      {
+        "check_name": "confidence_minimum",
+        "passed": true,
+        "value": 0.78,
+        "threshold": 0.6
+      },
+      {
+        "check_name": "timing_window",
+        "passed": true,
+        "details": "20.5 hours until kickoff"
+      },
+      {
+        "check_name": "risk_limit",
+        "passed": true,
+        "value": 0.25,
+        "threshold": 0.8
+      }
     ],
-    "delivery_channels": ["web_app", "telegram", "api"]
+    "delivery_channels": [
+      "web_app",
+      "telegram",
+      "api"
+    ],
+    "timestamp": "2025-03-14T18:30:00Z"
   },
   "audit_trail": {
     "lifecycle_hash": "0x7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069",

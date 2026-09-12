@@ -73,12 +73,12 @@
       "properties": {
         "declared_risk": {
           "type": "string",
-          "description": "Risk level declared in the contract",
+          "description": "Risk domain declared in the pre-action contract — the value of risk_class.category in agentic-contract.schema.json",
           "enum": ["low", "medium", "high", "critical"]
         },
         "realized_risk": {
           "type": "string",
-          "description": "Actual risk level observed after execution",
+          "description": "Risk domain observed after execution, on the same scale as the contract's risk_class.category",
           "enum": ["low", "medium", "high", "critical"]
         },
         "accurate": {
