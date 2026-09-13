@@ -1,0 +1,31 @@
+{
+  "slug": "como-vs-parma-1550118",
+  "fixtureId": 1550118,
+  "kickoff": "2026-09-14T16:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 895,
+    "en": "Como"
+  },
+  "away": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "observedAt": "2026-09-04T00:05:37.696Z",
+  "probs": {
+    "home": 0.7161,
+    "draw": 0.1931,
+    "away": 0.0908
+  },
+  "goalsAvg": {
+    "home": 2.083,
+    "away": 0.602
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-12T22:11:28.568Z"
+}

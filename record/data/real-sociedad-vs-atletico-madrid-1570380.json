@@ -1,0 +1,36 @@
+{
+  "slug": "real-sociedad-vs-atletico-madrid-1570380",
+  "fixtureId": 1570380,
+  "kickoff": "2026-09-13T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "away": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "observedAt": "2026-09-03T23:50:08.527Z",
+  "probs": {
+    "home": 0.3251,
+    "draw": 0.2411,
+    "away": 0.4338
+  },
+  "goalsAvg": {
+    "home": 1.489,
+    "away": 1.746
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-13T22:10:07.137Z",
+  "result": {
+    "home": 0,
+    "away": 3,
+    "verdict": "hit"
+  }
+}

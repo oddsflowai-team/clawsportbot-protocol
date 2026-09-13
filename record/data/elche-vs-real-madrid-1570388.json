@@ -1,0 +1,31 @@
+{
+  "slug": "elche-vs-real-madrid-1570388",
+  "fixtureId": 1570388,
+  "kickoff": "2026-09-15T19:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 797,
+    "en": "Elche"
+  },
+  "away": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "observedAt": "2026-09-09T22:48:27.022Z",
+  "probs": {
+    "home": 0.101,
+    "draw": 0.1549,
+    "away": 0.7441
+  },
+  "goalsAvg": {
+    "home": 0.933,
+    "away": 2.707
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-13T22:10:07.137Z",
+  "updatedAt": "2026-09-13T22:10:07.137Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "leeds-united-vs-newcastle-united-1557402",
+  "fixtureId": 1557402,
+  "kickoff": "2026-09-14T19:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 63,
+    "en": "Leeds United"
+  },
+  "away": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "observedAt": "2026-09-04T00:21:22.982Z",
+  "probs": {
+    "home": 0.394,
+    "draw": 0.2484,
+    "away": 0.3576
+  },
+  "goalsAvg": {
+    "home": 1.6,
+    "away": 1.516
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-12T22:11:28.568Z"
+}

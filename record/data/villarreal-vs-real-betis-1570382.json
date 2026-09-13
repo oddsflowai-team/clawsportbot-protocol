@@ -1,0 +1,31 @@
+{
+  "slug": "villarreal-vs-real-betis-1570382",
+  "fixtureId": 1570382,
+  "kickoff": "2026-09-14T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "away": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "observedAt": "2026-09-04T00:28:20.900Z",
+  "probs": {
+    "home": 0.5027,
+    "draw": 0.2238,
+    "away": 0.2735
+  },
+  "goalsAvg": {
+    "home": 2.027,
+    "away": 1.463
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-12T22:11:28.568Z"
+}

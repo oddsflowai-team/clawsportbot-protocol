@@ -1,0 +1,31 @@
+{
+  "slug": "rayo-vallecano-vs-espanyol-1570391",
+  "fixtureId": 1570391,
+  "kickoff": "2026-09-15T17:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 728,
+    "en": "Rayo Vallecano"
+  },
+  "away": {
+    "id": 540,
+    "en": "Espanyol"
+  },
+  "observedAt": "2026-09-09T22:25:55.396Z",
+  "probs": {
+    "home": 0.4797,
+    "draw": 0.266,
+    "away": 0.2543
+  },
+  "goalsAvg": {
+    "home": 1.55,
+    "away": 1.063
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-13T22:10:07.137Z",
+  "updatedAt": "2026-09-13T22:10:07.137Z"
+}

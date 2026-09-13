@@ -1,0 +1,36 @@
+{
+  "slug": "getafe-vs-deportivo-la-coruna-1570375",
+  "fixtureId": 1570375,
+  "kickoff": "2026-09-13T16:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 546,
+    "en": "Getafe"
+  },
+  "away": {
+    "id": 544,
+    "en": "Deportivo La Coruna"
+  },
+  "observedAt": "2026-09-03T23:32:20.766Z",
+  "probs": {
+    "home": 0.4453,
+    "draw": 0.301,
+    "away": 0.2537
+  },
+  "goalsAvg": {
+    "home": 1.267,
+    "away": 0.887
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-13T22:10:07.137Z",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "verdict": "miss"
+  }
+}

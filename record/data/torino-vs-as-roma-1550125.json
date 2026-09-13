@@ -1,0 +1,31 @@
+{
+  "slug": "torino-vs-as-roma-1550125",
+  "fixtureId": 1550125,
+  "kickoff": "2026-09-14T16:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 503,
+    "en": "Torino"
+  },
+  "away": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "observedAt": "2026-09-03T23:58:42.857Z",
+  "probs": {
+    "home": 0.1927807219278072,
+    "draw": 0.24547545245475452,
+    "away": 0.5617438256174382
+  },
+  "goalsAvg": {
+    "home": 0.932,
+    "away": 1.753
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-12T22:11:28.568Z"
+}

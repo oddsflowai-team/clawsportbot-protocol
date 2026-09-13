@@ -1,0 +1,36 @@
+{
+  "slug": "brest-vs-paris-saint-germain-1552757",
+  "fixtureId": 1552757,
+  "kickoff": "2026-09-13T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-09-03T23:45:10.636Z",
+  "probs": {
+    "home": 0.1267,
+    "draw": 0.1703,
+    "away": 0.703
+  },
+  "goalsAvg": {
+    "home": 1.042,
+    "away": 2.591
+  },
+  "status": "settled",
+  "type": "match",
+  "generatedAt": "2026-09-12T22:11:28.568Z",
+  "updatedAt": "2026-09-13T22:10:07.137Z",
+  "result": {
+    "home": 0,
+    "away": 1,
+    "verdict": "hit"
+  }
+}
