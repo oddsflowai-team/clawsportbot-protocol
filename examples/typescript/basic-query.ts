@@ -1,160 +1,41 @@
 /**
- * ClawSportBot REST API — TypeScript Example
+ * ClawSportBot MCP client — minimal working example.
  *
- * STATUS: DRAFT SPECIFICATION — NOT DEPLOYED.
- * No live host exists for this API today. api.clawsportbot.io does not
- * resolve, and there is no API key to request. This file illustrates the
- * client shape implied by the draft REST specification in
- * docs/rest-api.md; running it will fail.
+ * The live machine interface is the read-only MCP endpoint (JSON-RPC 2.0
+ * over HTTP). No API key required. Node 18+ (built-in fetch), no deps.
  *
- * The protocol's live machine interface is the MCP endpoint:
- *     https://www.clawsportbot.io/api/mcp
- * It is read-only, needs no authentication, and can be called with curl
- * today — see the MCP Quick Start in the repository README.
- *
- * API Reference (draft): https://github.com/oddsflowai-team/clawsportbot-protocol/blob/main/docs/rest-api.md
+ * Run:  npx tsx basic-query.ts   (or compile with tsc)
  */
 
-const API_BASE = "https://api.clawsportbot.io/v2";
-const API_KEY = process.env.CLAWSPORTBOT_API_KEY || "your-api-key-here";
+const ENDPOINT = "https://www.clawsportbot.io/api/mcp";
 
-interface QueryPayload {
-  match_id: string;
-  query_type: string;
-  armors: string[];
-  consensus_threshold: number;
-}
-
-interface Signal {
-  signal_id: string;
-  agent_id: string;
-  agent_reputation: number;
-  signal_type: string;
-  prediction: Record<string, number>;
-  confidence: number;
-  layer: string;
-  reasoning: string;
-}
-
-interface QueryResponse {
-  query_id: string;
-  status: string;
-  lifecycle_stage: string;
-  match: {
-    id: string;
-    home: string;
-    away: string;
-    league: string;
-    kickoff: string;
-  };
-  signals: Signal[];
-  consensus: {
-    agents_participating: number;
-    agents_agreeing: number;
-    consensus_score: number;
-    threshold_met: boolean;
-    weighted_prediction: {
-      home_win: number;
-      draw: number;
-      away_win: number;
-    };
-  };
-  market_sync: {
-    odds_aligned: boolean;
-    value_detected: boolean;
-    edge_estimate: number;
-    sync_status: string;
-  };
-  authorization: {
-    authorized: boolean;
-    delivery_channels: string[];
-  };
-  audit_trail: {
-    lifecycle_hash: string;
-    stages_completed: string[];
-  };
-}
-
-async function submitQuery(
-  matchId: string,
-  armors: string[] = ["neural-cortex", "odds-membrane", "context-mesh"]
-): Promise<QueryResponse> {
-  const payload: QueryPayload = {
-    match_id: matchId,
-    query_type: "full_analysis",
-    armors,
-    consensus_threshold: 0.67,
-  };
-
-  const response = await fetch(`${API_BASE}/query`, {
+async function rpc(method: string, params?: object, id = 1): Promise<any> {
+  const res = await fetch(ENDPOINT, {
     method: "POST",
-    headers: {
-      Authorization: `Bearer ${API_KEY}`,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify(payload),
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ jsonrpc: "2.0", id, method, ...(params ? { params } : {}) }),
   });
-
-  if (!response.ok) {
-    throw new Error(`API error: ${response.status} ${response.statusText}`);
-  }
-
-  return response.json();
-}
-
-async function listAgents(): Promise<{ agents: Array<{ agent_id: string; layer: string; reputation: number }>; total_active: number }> {
-  const response = await fetch(`${API_BASE}/agents`, {
-    headers: { Authorization: `Bearer ${API_KEY}` },
-  });
-
-  if (!response.ok) {
-    throw new Error(`API error: ${response.status}`);
-  }
-
-  return response.json();
+  return res.json();
 }
 
 async function main() {
-  // 1. List active agents
-  const agents = await listAgents();
-  console.log(`Active agents: ${agents.total_active}`);
-  for (const agent of agents.agents) {
-    console.log(`  - ${agent.agent_id} (${agent.layer}) — reputation: ${agent.reputation.toFixed(2)}`);
+  // 1. List the available tools.
+  const tools = (await rpc("tools/list")).result.tools;
+  console.log("tools:", tools.map((t: { name: string }) => t.name));
+
+  // 2. Fetch the three most recent settled predictions.
+  const call = await rpc(
+    "tools/call",
+    { name: "list_predictions", arguments: { status: "settled", limit: 3 } },
+    2
+  );
+  const payload = JSON.parse(call.result.content[0].text);
+  for (const p of payload.predictions) {
+    console.log(`${p.slug}: ${p.finalScore ?? "?"} (${p.verdict ?? "?"})`);
   }
 
-  console.log();
-
-  // 2. Submit a query
-  console.log("Submitting query for Arsenal vs Chelsea...");
-  const result = await submitQuery("epl-2025-arsenal-chelsea");
-
-  // 3. Check consensus
-  const { consensus } = result;
-  if (consensus.threshold_met) {
-    console.log(`Consensus reached! Score: ${(consensus.consensus_score * 100).toFixed(0)}%`);
-    console.log(`  Agents: ${consensus.agents_agreeing}/${consensus.agents_participating} agreed`);
-
-    const pred = consensus.weighted_prediction;
-    console.log(`  Home win: ${(pred.home_win * 100).toFixed(0)}%`);
-    console.log(`  Draw:     ${(pred.draw * 100).toFixed(0)}%`);
-    console.log(`  Away win: ${(pred.away_win * 100).toFixed(0)}%`);
-
-    // 4. Market sync
-    if (result.market_sync.value_detected) {
-      console.log(`\n  Value edge detected: ${(result.market_sync.edge_estimate * 100).toFixed(1)}%`);
-    }
-
-    // 5. Authorization
-    if (result.authorization.authorized) {
-      console.log(`\n  Signal authorized for: ${result.authorization.delivery_channels.join(", ")}`);
-    }
-  } else {
-    console.log("Consensus not reached — signal inconclusive");
-  }
-
-  // 6. Audit trail
-  console.log(`\nAudit trail hash: ${result.audit_trail.lifecycle_hash}`);
-  console.log(`Stages completed: ${result.audit_trail.stages_completed.join(", ")}`);
+  // Cite the ledger page, not cached numbers:
+  console.log("cite:", payload.cite);
 }
 
 main().catch(console.error);

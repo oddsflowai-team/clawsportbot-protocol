@@ -1,108 +1,43 @@
-"""
-ClawSportBot REST API — Python Example
+"""ClawSportBot MCP client — minimal working example.
 
-STATUS: DRAFT SPECIFICATION — NOT DEPLOYED.
-No live host exists for this API today. api.clawsportbot.io does not
-resolve, and there is no API key to request. This file illustrates the
-client shape implied by the draft REST specification in
-docs/rest-api.md; running it will fail.
+The live machine interface is the read-only MCP endpoint (JSON-RPC 2.0 over
+HTTP). No API key required. Python 3.9+, stdlib only.
 
-The protocol's live machine interface is the MCP endpoint:
-    https://www.clawsportbot.io/api/mcp
-It is read-only, needs no authentication, and can be called with curl
-today — see the MCP Quick Start in the repository README.
-
-Requirements:
-    python -m pip install requests
-
-API Reference (draft): https://github.com/oddsflowai-team/clawsportbot-protocol/blob/main/docs/rest-api.md
+Run:  python3 basic-query.py
 """
 
-import os
 import json
-import requests
+import urllib.request
 
-# Configuration
-API_BASE = "https://api.clawsportbot.io/v2"
-API_KEY = os.environ.get("CLAWSPORTBOT_API_KEY", "your-api-key-here")
-
-HEADERS = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json",
-}
+ENDPOINT = "https://www.clawsportbot.io/api/mcp"
 
 
-def submit_query(match_id: str, armors: list[str] | None = None) -> dict:
-    """Submit an intelligence query to the ClawSportBot Agent Network."""
-    payload = {
-        "match_id": match_id,
-        "query_type": "full_analysis",
-        "armors": armors or ["neural-cortex", "odds-membrane", "context-mesh"],
-        "consensus_threshold": 0.67,
-    }
-
-    response = requests.post(f"{API_BASE}/query", headers=HEADERS, json=payload)
-    response.raise_for_status()
-    return response.json()
-
-
-def get_query_result(query_id: str) -> dict:
-    """Retrieve the result of a previously submitted query."""
-    response = requests.get(f"{API_BASE}/query/{query_id}", headers=HEADERS)
-    response.raise_for_status()
-    return response.json()
+def rpc(method: str, params: dict | None = None, req_id: int = 1) -> dict:
+    body = {"jsonrpc": "2.0", "id": req_id, "method": method}
+    if params is not None:
+        body["params"] = params
+    req = urllib.request.Request(
+        ENDPOINT,
+        data=json.dumps(body).encode(),
+        headers={"Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=15) as resp:
+        return json.load(resp)
 
 
-def list_active_agents() -> dict:
-    """List all currently active agents on the network."""
-    response = requests.get(f"{API_BASE}/agents", headers=HEADERS)
-    response.raise_for_status()
-    return response.json()
+# 1. List the available tools.
+tools = rpc("tools/list")["result"]["tools"]
+print("tools:", [t["name"] for t in tools])
 
+# 2. Fetch the three most recent settled predictions.
+result = rpc(
+    "tools/call",
+    {"name": "list_predictions", "arguments": {"status": "settled", "limit": 3}},
+    req_id=2,
+)
+payload = json.loads(result["result"]["content"][0]["text"])
+for p in payload["predictions"]:
+    print(f'{p["slug"]}: {p.get("finalScore", "?")} ({p.get("verdict", "?")})')
 
-def main():
-    # 1. List active agents
-    agents = list_active_agents()
-    print(f"Active agents: {agents['total_active']}")
-    for agent in agents["agents"]:
-        print(f"  - {agent['agent_id']} ({agent['layer']}) — reputation: {agent['reputation']:.2f}")
-
-    print()
-
-    # 2. Submit a query
-    print("Submitting query for Arsenal vs Chelsea...")
-    result = submit_query("epl-2025-arsenal-chelsea")
-
-    # 3. Check if consensus was reached
-    consensus = result.get("consensus", {})
-    if consensus.get("threshold_met"):
-        print(f"Consensus reached! Score: {consensus['consensus_score']:.0%}")
-        print(f"  Agents: {consensus['agents_agreeing']}/{consensus['agents_participating']} agreed")
-
-        # 4. Show weighted prediction
-        pred = consensus.get("weighted_prediction", {})
-        print(f"  Home win: {pred.get('home_win', 0):.0%}")
-        print(f"  Draw:     {pred.get('draw', 0):.0%}")
-        print(f"  Away win: {pred.get('away_win', 0):.0%}")
-
-        # 5. Check market sync
-        market = result.get("market_sync", {})
-        if market.get("value_detected"):
-            print(f"\n  Value edge detected: {market['edge_estimate']:.1%}")
-
-        # 6. Check authorization
-        auth = result.get("authorization", {})
-        if auth.get("authorized"):
-            print(f"\n  Signal authorized for: {', '.join(auth.get('delivery_channels', []))}")
-    else:
-        print("Consensus not reached — signal inconclusive")
-
-    # 7. Print full audit trail
-    audit = result.get("audit_trail", {})
-    if audit:
-        print(f"\nAudit trail hash: {audit.get('lifecycle_hash', 'N/A')}")
-        print(f"Stages completed: {', '.join(audit.get('stages_completed', []))}")
-
-
-if __name__ == "__main__":
-    main()
+# Cite the ledger page, not cached numbers:
+print("cite:", payload["cite"])
