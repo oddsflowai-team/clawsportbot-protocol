@@ -1,0 +1,31 @@
+{
+  "slug": "olympiacos-piraeus-vs-jagiellonia-bialystok-1636309",
+  "fixtureId": 1636309,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 553,
+    "en": "Olympiacos Piraeus"
+  },
+  "away": {
+    "id": 336,
+    "en": "Jagiellonia Bialystok"
+  },
+  "observedAt": "2026-09-10T10:09:58.255Z",
+  "probs": {
+    "home": 0.6894,
+    "draw": 0.1773,
+    "away": 0.1333
+  },
+  "goalsAvg": {
+    "home": 2.503,
+    "away": 1.036
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

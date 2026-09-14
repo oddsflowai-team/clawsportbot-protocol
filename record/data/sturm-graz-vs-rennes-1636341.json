@@ -1,0 +1,31 @@
+{
+  "slug": "sturm-graz-vs-rennes-1636341",
+  "fixtureId": 1636341,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 637,
+    "en": "Sturm Graz"
+  },
+  "away": {
+    "id": 94,
+    "en": "Rennes"
+  },
+  "observedAt": "2026-09-10T10:09:59.997Z",
+  "probs": {
+    "home": 0.28472847284728475,
+    "draw": 0.2355235523552355,
+    "away": 0.47974797479747977
+  },
+  "goalsAvg": {
+    "home": 1.398,
+    "away": 1.862
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

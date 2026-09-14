@@ -1,0 +1,31 @@
+{
+  "slug": "bayer-leverkusen-vs-celje-1636225",
+  "fixtureId": 1636225,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "away": {
+    "id": 4360,
+    "en": "Celje"
+  },
+  "observedAt": "2026-09-04T01:18:46.982Z",
+  "probs": {
+    "home": 0.7999,
+    "draw": 0.1216,
+    "away": 0.0785
+  },
+  "goalsAvg": {
+    "home": 3.221,
+    "away": 1
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

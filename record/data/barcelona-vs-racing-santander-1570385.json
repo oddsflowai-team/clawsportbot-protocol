@@ -1,0 +1,31 @@
+{
+  "slug": "barcelona-vs-racing-santander-1570385",
+  "fixtureId": 1570385,
+  "kickoff": "2026-09-16T19:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "away": {
+    "id": 4665,
+    "en": "Racing Santander"
+  },
+  "observedAt": "2026-09-09T23:27:10.462Z",
+  "probs": {
+    "home": 0.8651,
+    "draw": 0.087,
+    "away": 0.0479
+  },
+  "goalsAvg": {
+    "home": 3.727,
+    "away": 0.912
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "anderlecht-vs-lyon-1636212",
+  "fixtureId": 1636212,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 554,
+    "en": "Anderlecht"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-09-04T00:57:02.909Z",
+  "probs": {
+    "home": 0.27762776277627765,
+    "draw": 0.23322332233223322,
+    "away": 0.48914891489148915
+  },
+  "goalsAvg": {
+    "home": 1.391,
+    "away": 1.897
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

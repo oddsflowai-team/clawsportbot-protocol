@@ -1,0 +1,31 @@
+{
+  "slug": "atletico-madrid-vs-osasuna-1570384",
+  "fixtureId": 1570384,
+  "kickoff": "2026-09-16T17:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "away": {
+    "id": 727,
+    "en": "Osasuna"
+  },
+  "observedAt": "2026-09-09T23:00:29.857Z",
+  "probs": {
+    "home": 0.6521,
+    "draw": 0.2001,
+    "away": 0.1478
+  },
+  "goalsAvg": {
+    "home": 2.212,
+    "away": 0.966
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

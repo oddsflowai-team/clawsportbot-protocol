@@ -1,0 +1,31 @@
+{
+  "slug": "ac-milan-vs-benfica-1636207",
+  "fixtureId": 1636207,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "away": {
+    "id": 211,
+    "en": "Benfica"
+  },
+  "observedAt": "2026-09-04T01:13:00.144Z",
+  "probs": {
+    "home": 0.4646,
+    "draw": 0.2399,
+    "away": 0.2955
+  },
+  "goalsAvg": {
+    "home": 1.798,
+    "away": 1.4
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "omonia-nicosia-vs-celta-vigo-1636312",
+  "fixtureId": 1636312,
+  "kickoff": "2026-09-16T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 3402,
+    "en": "Omonia Nicosia"
+  },
+  "away": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "observedAt": "2026-09-04T00:48:03.535Z",
+  "probs": {
+    "home": 0.2369,
+    "draw": 0.2522,
+    "away": 0.5109
+  },
+  "goalsAvg": {
+    "home": 1.082,
+    "away": 1.693
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

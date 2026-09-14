@@ -1,0 +1,31 @@
+{
+  "slug": "hapoel-beer-sheva-vs-dinamo-zagreb-1636265",
+  "fixtureId": 1636265,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 563,
+    "en": "Hapoel Beer Sheva"
+  },
+  "away": {
+    "id": 620,
+    "en": "Dinamo Zagreb"
+  },
+  "observedAt": "2026-09-04T01:26:40.625Z",
+  "probs": {
+    "home": 0.2895,
+    "draw": 0.235,
+    "away": 0.4755
+  },
+  "goalsAvg": {
+    "home": 1.422,
+    "away": 1.866
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

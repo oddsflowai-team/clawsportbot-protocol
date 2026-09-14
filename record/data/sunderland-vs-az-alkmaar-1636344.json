@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-az-alkmaar-1636344",
+  "fixtureId": 1636344,
+  "kickoff": "2026-09-16T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 201,
+    "en": "AZ Alkmaar"
+  },
+  "observedAt": "2026-09-04T01:04:12.874Z",
+  "probs": {
+    "home": 0.5703,
+    "draw": 0.2209,
+    "away": 0.2088
+  },
+  "goalsAvg": {
+    "home": 2.048,
+    "away": 1.175
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}

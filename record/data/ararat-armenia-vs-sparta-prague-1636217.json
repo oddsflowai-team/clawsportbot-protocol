@@ -1,0 +1,31 @@
+{
+  "slug": "ararat-armenia-vs-sparta-prague-1636217",
+  "fixtureId": 1636217,
+  "kickoff": "2026-09-16T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 3683,
+    "en": "Ararat-Armenia"
+  },
+  "away": {
+    "id": 628,
+    "en": "Sparta Prague"
+  },
+  "observedAt": "2026-09-04T00:40:31.635Z",
+  "probs": {
+    "home": 0.2088,
+    "draw": 0.2209,
+    "away": 0.5703
+  },
+  "goalsAvg": {
+    "home": 1.175,
+    "away": 2.048
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-14T22:10:06.924Z",
+  "updatedAt": "2026-09-14T22:10:06.924Z"
+}
