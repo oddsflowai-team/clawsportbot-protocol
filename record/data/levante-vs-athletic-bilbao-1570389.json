@@ -1,0 +1,31 @@
+{
+  "slug": "levante-vs-athletic-bilbao-1570389",
+  "fixtureId": 1570389,
+  "kickoff": "2026-09-16T19:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 539,
+    "en": "Levante"
+  },
+  "away": {
+    "id": 531,
+    "en": "Athletic Bilbao"
+  },
+  "observedAt": "2026-09-09T23:28:25.015Z",
+  "probs": {
+    "home": 0.30663066306630665,
+    "draw": 0.26872687268726875,
+    "away": 0.42464246424642466
+  },
+  "goalsAvg": {
+    "home": 1.214,
+    "away": 1.471
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T10:10:07.024Z",
+  "updatedAt": "2026-09-15T10:10:07.024Z"
+}
