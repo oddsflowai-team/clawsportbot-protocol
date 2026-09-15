@@ -1,0 +1,31 @@
+{
+  "slug": "plzen-vs-royale-union-saint-gilloise-1636316",
+  "fixtureId": 1636316,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 567,
+    "en": "Plzen"
+  },
+  "away": {
+    "id": 1393,
+    "en": "Royale Union Saint-Gilloise"
+  },
+  "observedAt": "2026-09-04T01:53:52.797Z",
+  "probs": {
+    "home": 0.3881,
+    "draw": 0.2677,
+    "away": 0.3442
+  },
+  "goalsAvg": {
+    "home": 1.419,
+    "away": 1.323
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

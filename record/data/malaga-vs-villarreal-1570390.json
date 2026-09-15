@@ -1,0 +1,31 @@
+{
+  "slug": "malaga-vs-villarreal-1570390",
+  "fixtureId": 1570390,
+  "kickoff": "2026-09-17T19:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 535,
+    "en": "Malaga"
+  },
+  "away": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "observedAt": "2026-09-10T10:33:59.347Z",
+  "probs": {
+    "home": 0.2918,
+    "draw": 0.2348,
+    "away": 0.4734
+  },
+  "goalsAvg": {
+    "home": 1.432,
+    "away": 1.866
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

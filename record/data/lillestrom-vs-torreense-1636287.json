@@ -1,0 +1,31 @@
+{
+  "slug": "lillestrom-vs-torreense-1636287",
+  "fixtureId": 1636287,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 321,
+    "en": "Lillestrom"
+  },
+  "away": {
+    "id": 4799,
+    "en": "Torreense"
+  },
+  "observedAt": "2026-09-04T02:18:38.234Z",
+  "probs": {
+    "home": 0.6373,
+    "draw": 0.2007,
+    "away": 0.162
+  },
+  "goalsAvg": {
+    "home": 2.244,
+    "away": 1.057
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

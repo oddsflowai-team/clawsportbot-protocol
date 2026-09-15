@@ -1,0 +1,31 @@
+{
+  "slug": "besiktas-vs-marseille-1636232",
+  "fixtureId": 1636232,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 549,
+    "en": "Besiktas"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-09-04T02:24:09.836Z",
+  "probs": {
+    "home": 0.4404,
+    "draw": 0.2384,
+    "away": 0.3212
+  },
+  "goalsAvg": {
+    "home": 1.785,
+    "away": 1.502
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

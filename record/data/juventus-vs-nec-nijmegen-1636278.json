@@ -1,0 +1,31 @@
+{
+  "slug": "juventus-vs-nec-nijmegen-1636278",
+  "fixtureId": 1636278,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "away": {
+    "id": 413,
+    "en": "NEC Nijmegen"
+  },
+  "observedAt": "2026-09-04T02:11:19.243Z",
+  "probs": {
+    "home": 0.7352,
+    "draw": 0.1562,
+    "away": 0.1086
+  },
+  "goalsAvg": {
+    "home": 2.739,
+    "away": 0.999
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

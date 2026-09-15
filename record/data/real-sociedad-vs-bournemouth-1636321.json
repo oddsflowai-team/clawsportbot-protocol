@@ -1,0 +1,31 @@
+{
+  "slug": "real-sociedad-vs-bournemouth-1636321",
+  "fixtureId": 1636321,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "away": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "observedAt": "2026-09-04T02:30:42.961Z",
+  "probs": {
+    "home": 0.3452,
+    "draw": 0.2657,
+    "away": 0.3891
+  },
+  "goalsAvg": {
+    "home": 1.34,
+    "away": 1.436
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

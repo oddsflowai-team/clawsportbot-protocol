@@ -1,0 +1,31 @@
+{
+  "slug": "levski-sofia-vs-red-bull-salzburg-1636285",
+  "fixtureId": 1636285,
+  "kickoff": "2026-09-17T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 646,
+    "en": "Levski Sofia"
+  },
+  "away": {
+    "id": 571,
+    "en": "Red Bull Salzburg"
+  },
+  "observedAt": "2026-09-04T01:41:23.402Z",
+  "probs": {
+    "home": 0.3485,
+    "draw": 0.2245,
+    "away": 0.427
+  },
+  "goalsAvg": {
+    "home": 1.738,
+    "away": 1.934
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

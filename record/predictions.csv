@@ -59,8 +59,8 @@ torino-vs-as-roma-1550125,Serie A,2026-09-14T16:30:00.000Z,Torino,AS Roma,0.1927
 inter-milan-vs-udinese-1550120,Serie A,2026-09-14T18:45:00.000Z,Inter Milan,Udinese,0.7213,0.1722,0.1065,2026-09-12T22:11:28.568Z,settled,5,3,hit,2026-09-14T22:10:06.924Z
 leeds-united-vs-newcastle-united-1557402,Premier League,2026-09-14T19:00:00.000Z,Leeds United,Newcastle United,0.394,0.2484,0.3576,2026-09-12T22:11:28.568Z,settled,4,1,hit,2026-09-14T22:10:06.924Z
 villarreal-vs-real-betis-1570382,La Liga,2026-09-14T19:00:00.000Z,Villarreal,Real Betis,0.5027,0.2238,0.2735,2026-09-12T22:11:28.568Z,settled,1,2,miss,2026-09-14T22:10:06.924Z
-rayo-vallecano-vs-espanyol-1570391,La Liga,2026-09-15T17:00:00.000Z,Rayo Vallecano,Espanyol,0.4797,0.266,0.2543,2026-09-13T22:10:07.137Z,upcoming,,,,
-alaves-vs-valencia-1570383,La Liga,2026-09-15T18:00:00.000Z,Alaves,Valencia,0.4322,0.2759,0.2919,2026-09-13T22:10:07.137Z,upcoming,,,,
+rayo-vallecano-vs-espanyol-1570391,La Liga,2026-09-15T17:00:00.000Z,Rayo Vallecano,Espanyol,0.4797,0.266,0.2543,2026-09-13T22:10:07.137Z,settled,2,1,hit,2026-09-15T22:10:07.230Z
+alaves-vs-valencia-1570383,La Liga,2026-09-15T18:00:00.000Z,Alaves,Valencia,0.4322,0.2759,0.2919,2026-09-13T22:10:07.137Z,settled,0,1,miss,2026-09-15T22:10:07.230Z
 elche-vs-real-madrid-1570388,La Liga,2026-09-15T19:30:00.000Z,Elche,Real Madrid,0.101,0.1549,0.7441,2026-09-13T22:10:07.137Z,upcoming,,,,
 ararat-armenia-vs-sparta-prague-1636217,UEFA Europa League,2026-09-16T16:45:00.000Z,Ararat-Armenia,Sparta Prague,0.2088,0.2209,0.5703,2026-09-14T22:10:06.924Z,upcoming,,,,
 omonia-nicosia-vs-celta-vigo-1636312,UEFA Europa League,2026-09-16T16:45:00.000Z,Omonia Nicosia,Celta Vigo,0.2369,0.2522,0.5109,2026-09-14T22:10:06.924Z,upcoming,,,,
@@ -75,3 +75,14 @@ sturm-graz-vs-rennes-1636341,UEFA Europa League,2026-09-16T19:00:00.000Z,Sturm G
 sunderland-vs-az-alkmaar-1636344,UEFA Europa League,2026-09-16T19:00:00.000Z,Sunderland,AZ Alkmaar,0.5703,0.2209,0.2088,2026-09-14T22:10:06.924Z,upcoming,,,,
 barcelona-vs-racing-santander-1570385,La Liga,2026-09-16T19:30:00.000Z,Barcelona,Racing Santander,0.8651,0.087,0.0479,2026-09-14T22:10:06.924Z,upcoming,,,,
 levante-vs-athletic-bilbao-1570389,La Liga,2026-09-16T19:30:00.000Z,Levante,Athletic Bilbao,0.30663066306630665,0.26872687268726875,0.42464246424642466,2026-09-15T10:10:07.024Z,upcoming,,,,
+levski-sofia-vs-red-bull-salzburg-1636285,UEFA Europa League,2026-09-17T16:45:00.000Z,Levski Sofia,Red Bull Salzburg,0.3485,0.2245,0.427,2026-09-15T22:10:07.230Z,upcoming,,,,
+ofi-crete-vs-hoffenheim-1636304,UEFA Europa League,2026-09-17T16:45:00.000Z,OFI Crete,Hoffenheim,0.1416141614161416,0.1908190819081908,0.6675667566756676,2026-09-15T22:10:07.230Z,upcoming,,,,
+real-betis-vs-getafe-1570386,La Liga,2026-09-17T17:00:00.000Z,Real Betis,Getafe,0.5203,0.2623,0.2174,2026-09-15T22:10:07.230Z,upcoming,,,,
+besiktas-vs-marseille-1636232,UEFA Europa League,2026-09-17T19:00:00.000Z,Besiktas,Marseille,0.4404,0.2384,0.3212,2026-09-15T22:10:07.230Z,upcoming,,,,
+celtic-vs-ferencvaros-1636247,UEFA Europa League,2026-09-17T19:00:00.000Z,Celtic,Ferencvaros,0.5777,0.208,0.2143,2026-09-15T22:10:07.230Z,upcoming,,,,
+crystal-palace-vs-lech-poznan-1636251,UEFA Europa League,2026-09-17T19:00:00.000Z,Crystal Palace,Lech Poznan,0.6806,0.1884,0.131,2026-09-15T22:10:07.230Z,upcoming,,,,
+juventus-vs-nec-nijmegen-1636278,UEFA Europa League,2026-09-17T19:00:00.000Z,Juventus,NEC Nijmegen,0.7352,0.1562,0.1086,2026-09-15T22:10:07.230Z,upcoming,,,,
+lillestrom-vs-torreense-1636287,UEFA Europa League,2026-09-17T19:00:00.000Z,Lillestrom,Torreense,0.6373,0.2007,0.162,2026-09-15T22:10:07.230Z,upcoming,,,,
+plzen-vs-royale-union-saint-gilloise-1636316,UEFA Europa League,2026-09-17T19:00:00.000Z,Plzen,Royale Union Saint-Gilloise,0.3881,0.2677,0.3442,2026-09-15T22:10:07.230Z,upcoming,,,,
+real-sociedad-vs-bournemouth-1636321,UEFA Europa League,2026-09-17T19:00:00.000Z,Real Sociedad,Bournemouth,0.3452,0.2657,0.3891,2026-09-15T22:10:07.230Z,upcoming,,,,
+malaga-vs-villarreal-1570390,La Liga,2026-09-17T19:30:00.000Z,Malaga,Villarreal,0.2918,0.2348,0.4734,2026-09-15T22:10:07.230Z,upcoming,,,,

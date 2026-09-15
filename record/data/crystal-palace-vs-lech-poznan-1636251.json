@@ -1,0 +1,31 @@
+{
+  "slug": "crystal-palace-vs-lech-poznan-1636251",
+  "fixtureId": 1636251,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "away": {
+    "id": 347,
+    "en": "Lech Poznan"
+  },
+  "observedAt": "2026-09-04T02:06:22.261Z",
+  "probs": {
+    "home": 0.6806,
+    "draw": 0.1884,
+    "away": 0.131
+  },
+  "goalsAvg": {
+    "home": 2.319,
+    "away": 0.929
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

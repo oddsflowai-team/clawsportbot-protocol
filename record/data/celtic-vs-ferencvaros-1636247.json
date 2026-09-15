@@ -1,0 +1,31 @@
+{
+  "slug": "celtic-vs-ferencvaros-1636247",
+  "fixtureId": 1636247,
+  "kickoff": "2026-09-17T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 247,
+    "en": "Celtic"
+  },
+  "away": {
+    "id": 651,
+    "en": "Ferencvaros"
+  },
+  "observedAt": "2026-09-04T01:59:53.025Z",
+  "probs": {
+    "home": 0.5777,
+    "draw": 0.208,
+    "away": 0.2143
+  },
+  "goalsAvg": {
+    "home": 2.237,
+    "away": 1.318
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "ofi-crete-vs-hoffenheim-1636304",
+  "fixtureId": 1636304,
+  "kickoff": "2026-09-17T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 1124,
+    "en": "OFI Crete"
+  },
+  "away": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "observedAt": "2026-09-04T01:49:03.198Z",
+  "probs": {
+    "home": 0.1416141614161416,
+    "draw": 0.1908190819081908,
+    "away": 0.6675667566756676
+  },
+  "goalsAvg": {
+    "home": 0.99,
+    "away": 2.324
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-15T22:10:07.230Z",
+  "updatedAt": "2026-09-15T22:10:07.230Z"
+}
