@@ -1,0 +1,31 @@
+{
+  "slug": "monza-vs-sassuolo-1550133",
+  "fixtureId": 1550133,
+  "kickoff": "2026-09-18T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 1579,
+    "en": "Monza"
+  },
+  "away": {
+    "id": 488,
+    "en": "Sassuolo"
+  },
+  "observedAt": "2026-09-11T00:37:56.974Z",
+  "probs": {
+    "home": 0.34796520347965204,
+    "draw": 0.27277272272772723,
+    "away": 0.3792620737926208
+  },
+  "goalsAvg": {
+    "home": 1.295,
+    "away": 1.362
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-16T22:10:05.617Z",
+  "updatedAt": "2026-09-16T22:10:05.617Z"
+}

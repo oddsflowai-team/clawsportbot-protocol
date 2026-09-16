@@ -1,0 +1,31 @@
+{
+  "slug": "brentford-vs-chelsea-1557408",
+  "fixtureId": 1557408,
+  "kickoff": "2026-09-18T19:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "away": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "observedAt": "2026-09-11T00:38:13.708Z",
+  "probs": {
+    "home": 0.3511,
+    "draw": 0.2256,
+    "away": 0.4233
+  },
+  "goalsAvg": {
+    "home": 1.733,
+    "away": 1.913
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-16T22:10:05.617Z",
+  "updatedAt": "2026-09-16T22:10:05.617Z"
+}

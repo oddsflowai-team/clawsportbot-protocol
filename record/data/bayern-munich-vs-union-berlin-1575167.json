@@ -1,0 +1,31 @@
+{
+  "slug": "bayern-munich-vs-union-berlin-1575167",
+  "fixtureId": 1575167,
+  "kickoff": "2026-09-18T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "away": {
+    "id": 182,
+    "en": "Union Berlin"
+  },
+  "observedAt": "2026-09-11T00:31:49.339Z",
+  "probs": {
+    "home": 0.8601139886011399,
+    "draw": 0.08889111088891112,
+    "away": 0.050994900509949
+  },
+  "goalsAvg": {
+    "home": 3.738,
+    "away": 0.952
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-16T22:10:05.617Z",
+  "updatedAt": "2026-09-16T22:10:05.617Z"
+}

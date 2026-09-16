@@ -1,0 +1,31 @@
+{
+  "slug": "espanyol-vs-elche-1570397",
+  "fixtureId": 1570397,
+  "kickoff": "2026-09-18T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 540,
+    "en": "Espanyol"
+  },
+  "away": {
+    "id": 797,
+    "en": "Elche"
+  },
+  "observedAt": "2026-09-11T02:27:50.949Z",
+  "probs": {
+    "home": 0.4762,
+    "draw": 0.2597,
+    "away": 0.2641
+  },
+  "goalsAvg": {
+    "home": 1.605,
+    "away": 1.137
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-16T22:10:05.617Z",
+  "updatedAt": "2026-09-16T22:10:05.617Z"
+}

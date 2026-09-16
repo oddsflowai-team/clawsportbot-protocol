@@ -1,0 +1,31 @@
+{
+  "slug": "monaco-vs-lens-1552769",
+  "fixtureId": 1552769,
+  "kickoff": "2026-09-18T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 91,
+    "en": "Monaco"
+  },
+  "away": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "observedAt": "2026-09-11T00:32:56.468Z",
+  "probs": {
+    "home": 0.4209,
+    "draw": 0.2316,
+    "away": 0.3475
+  },
+  "goalsAvg": {
+    "home": 1.834,
+    "away": 1.655
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-16T22:10:05.617Z",
+  "updatedAt": "2026-09-16T22:10:05.617Z"
+}
