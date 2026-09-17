@@ -24,8 +24,11 @@
     "home": 1.214,
     "away": 1.471
   },
-  "status": "upcoming",
+  "status": "void",
   "type": "match",
   "generatedAt": "2026-09-15T10:10:07.024Z",
-  "updatedAt": "2026-09-15T10:10:07.024Z"
+  "updatedAt": "2026-09-17T10:10:06.979Z",
+  "result": {
+    "verdict": "push"
+  }
 }
