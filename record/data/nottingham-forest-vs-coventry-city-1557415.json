@@ -1,0 +1,31 @@
+{
+  "slug": "nottingham-forest-vs-coventry-city-1557415",
+  "fixtureId": 1557415,
+  "kickoff": "2026-09-19T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "away": {
+    "id": 1346,
+    "en": "Coventry City"
+  },
+  "observedAt": "2026-09-12T02:09:34.412Z",
+  "probs": {
+    "home": 0.5278,
+    "draw": 0.2377,
+    "away": 0.2345
+  },
+  "goalsAvg": {
+    "home": 1.853,
+    "away": 1.172
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

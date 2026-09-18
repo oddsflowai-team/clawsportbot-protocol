@@ -1,0 +1,31 @@
+{
+  "slug": "udinese-vs-cagliari-1550135",
+  "fixtureId": 1550135,
+  "kickoff": "2026-09-19T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 494,
+    "en": "Udinese"
+  },
+  "away": {
+    "id": 490,
+    "en": "Cagliari"
+  },
+  "observedAt": "2026-09-12T01:18:12.403Z",
+  "probs": {
+    "home": 0.4604,
+    "draw": 0.2741,
+    "away": 0.2655
+  },
+  "goalsAvg": {
+    "home": 1.469,
+    "away": 1.055
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

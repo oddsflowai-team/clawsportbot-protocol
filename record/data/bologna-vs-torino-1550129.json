@@ -1,0 +1,31 @@
+{
+  "slug": "bologna-vs-torino-1550129",
+  "fixtureId": 1550129,
+  "kickoff": "2026-09-19T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 500,
+    "en": "Bologna"
+  },
+  "away": {
+    "id": 503,
+    "en": "Torino"
+  },
+  "observedAt": "2026-09-12T01:16:31.207Z",
+  "probs": {
+    "home": 0.5094,
+    "draw": 0.2631,
+    "away": 0.2275
+  },
+  "goalsAvg": {
+    "home": 1.59,
+    "away": 0.981
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

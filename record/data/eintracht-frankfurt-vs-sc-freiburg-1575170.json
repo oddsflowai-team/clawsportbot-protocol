@@ -1,0 +1,31 @@
+{
+  "slug": "eintracht-frankfurt-vs-sc-freiburg-1575170",
+  "fixtureId": 1575170,
+  "kickoff": "2026-09-19T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "away": {
+    "id": 160,
+    "en": "SC Freiburg"
+  },
+  "observedAt": "2026-09-12T01:26:56.422Z",
+  "probs": {
+    "home": 0.4236,
+    "draw": 0.2193,
+    "away": 0.3571
+  },
+  "goalsAvg": {
+    "home": 1.999,
+    "away": 1.83
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

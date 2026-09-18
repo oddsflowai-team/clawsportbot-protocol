@@ -1,0 +1,31 @@
+{
+  "slug": "paris-fc-vs-strasbourg-1552771",
+  "fixtureId": 1552771,
+  "kickoff": "2026-09-19T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "away": {
+    "id": 95,
+    "en": "Strasbourg"
+  },
+  "observedAt": "2026-09-12T02:00:26.464Z",
+  "probs": {
+    "home": 0.4734,
+    "draw": 0.2345,
+    "away": 0.2921
+  },
+  "goalsAvg": {
+    "home": 1.869,
+    "away": 1.436
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "newcastle-united-vs-hull-city-1557414",
+  "fixtureId": 1557414,
+  "kickoff": "2026-09-19T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "away": {
+    "id": 64,
+    "en": "Hull City"
+  },
+  "observedAt": "2026-09-12T01:33:46.570Z",
+  "probs": {
+    "home": 0.6301,
+    "draw": 0.1957,
+    "away": 0.1742
+  },
+  "goalsAvg": {
+    "home": 2.351,
+    "away": 1.181
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

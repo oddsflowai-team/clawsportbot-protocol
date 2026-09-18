@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-monchengladbach-vs-mainz-05-1575174",
+  "fixtureId": 1575174,
+  "kickoff": "2026-09-19T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 163,
+    "en": "Borussia Mönchengladbach"
+  },
+  "away": {
+    "id": 164,
+    "en": "Mainz 05"
+  },
+  "observedAt": "2026-09-12T01:30:10.295Z",
+  "probs": {
+    "home": 0.3642,
+    "draw": 0.224,
+    "away": 0.4118
+  },
+  "goalsAvg": {
+    "home": 1.793,
+    "away": 1.912
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

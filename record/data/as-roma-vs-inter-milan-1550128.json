@@ -1,0 +1,31 @@
+{
+  "slug": "as-roma-vs-inter-milan-1550128",
+  "fixtureId": 1550128,
+  "kickoff": "2026-09-19T16:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "away": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "observedAt": "2026-09-12T02:04:44.519Z",
+  "probs": {
+    "home": 0.39046095390460955,
+    "draw": 0.24557544245575444,
+    "away": 0.36396360363963604
+  },
+  "goalsAvg": {
+    "home": 1.62,
+    "away": 1.558
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

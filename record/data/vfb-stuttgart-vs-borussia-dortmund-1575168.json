@@ -1,0 +1,31 @@
+{
+  "slug": "vfb-stuttgart-vs-borussia-dortmund-1575168",
+  "fixtureId": 1575168,
+  "kickoff": "2026-09-19T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "away": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "observedAt": "2026-09-12T02:12:06.831Z",
+  "probs": {
+    "home": 0.42485751424857515,
+    "draw": 0.22417758224177584,
+    "away": 0.35096490350964904
+  },
+  "goalsAvg": {
+    "home": 1.935,
+    "away": 1.75
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

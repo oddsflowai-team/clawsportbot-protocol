@@ -1,0 +1,31 @@
+{
+  "slug": "celta-vigo-vs-racing-santander-1570395",
+  "fixtureId": 1570395,
+  "kickoff": "2026-09-19T16:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "away": {
+    "id": 4665,
+    "en": "Racing Santander"
+  },
+  "observedAt": "2026-09-13T17:47:11.573Z",
+  "probs": {
+    "home": 0.522952295229523,
+    "draw": 0.23252325232523252,
+    "away": 0.2445244524452445
+  },
+  "goalsAvg": {
+    "home": 1.916,
+    "away": 1.256
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

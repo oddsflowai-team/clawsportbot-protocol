@@ -1,0 +1,31 @@
+{
+  "slug": "werder-bremen-vs-augsburg-1575172",
+  "fixtureId": 1575172,
+  "kickoff": "2026-09-19T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "away": {
+    "id": 170,
+    "en": "Augsburg"
+  },
+  "observedAt": "2026-09-12T01:23:01.826Z",
+  "probs": {
+    "home": 0.4185,
+    "draw": 0.2308,
+    "away": 0.3507
+  },
+  "goalsAvg": {
+    "home": 1.839,
+    "away": 1.674
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

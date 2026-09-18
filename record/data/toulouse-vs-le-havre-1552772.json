@@ -1,0 +1,31 @@
+{
+  "slug": "toulouse-vs-le-havre-1552772",
+  "fixtureId": 1552772,
+  "kickoff": "2026-09-19T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "away": {
+    "id": 111,
+    "en": "Le Havre"
+  },
+  "observedAt": "2026-09-12T03:00:07.200Z",
+  "probs": {
+    "home": 0.5281,
+    "draw": 0.2558,
+    "away": 0.2161
+  },
+  "goalsAvg": {
+    "home": 1.659,
+    "away": 0.976
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

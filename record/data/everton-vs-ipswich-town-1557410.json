@@ -1,0 +1,31 @@
+{
+  "slug": "everton-vs-ipswich-town-1557410",
+  "fixtureId": 1557410,
+  "kickoff": "2026-09-19T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 45,
+    "en": "Everton"
+  },
+  "away": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "observedAt": "2026-09-12T01:36:53.279Z",
+  "probs": {
+    "home": 0.5304469553044695,
+    "draw": 0.2505749425057494,
+    "away": 0.21897810218978103
+  },
+  "goalsAvg": {
+    "home": 1.711,
+    "away": 1.018
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

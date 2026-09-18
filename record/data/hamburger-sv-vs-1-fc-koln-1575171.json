@@ -1,0 +1,31 @@
+{
+  "slug": "hamburger-sv-vs-1-fc-koln-1575171",
+  "fixtureId": 1575171,
+  "kickoff": "2026-09-19T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "away": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "observedAt": "2026-09-12T01:21:44.360Z",
+  "probs": {
+    "home": 0.39546045395460455,
+    "draw": 0.22977702229777022,
+    "away": 0.37476252374762525
+  },
+  "goalsAvg": {
+    "home": 1.804,
+    "away": 1.753
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

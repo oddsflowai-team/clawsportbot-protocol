@@ -1,0 +1,31 @@
+{
+  "slug": "tottenham-hotspur-vs-aston-villa-1557416",
+  "fixtureId": 1557416,
+  "kickoff": "2026-09-19T11:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 47,
+    "en": "Tottenham Hotspur"
+  },
+  "away": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "observedAt": "2026-09-12T01:10:44.960Z",
+  "probs": {
+    "home": 0.48135186481351866,
+    "draw": 0.2511748825117488,
+    "away": 0.26747325267473254
+  },
+  "goalsAvg": {
+    "home": 1.691,
+    "away": 1.208
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

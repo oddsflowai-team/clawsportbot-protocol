@@ -1,0 +1,31 @@
+{
+  "slug": "osasuna-vs-rayo-vallecano-1570399",
+  "fixtureId": 1570399,
+  "kickoff": "2026-09-19T12:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 727,
+    "en": "Osasuna"
+  },
+  "away": {
+    "id": 728,
+    "en": "Rayo Vallecano"
+  },
+  "observedAt": "2026-09-13T17:38:24.924Z",
+  "probs": {
+    "home": 0.4437,
+    "draw": 0.2621,
+    "away": 0.2942
+  },
+  "goalsAvg": {
+    "home": 1.552,
+    "away": 1.222
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-17T22:20:35.396Z",
+  "updatedAt": "2026-09-17T22:20:35.396Z"
+}

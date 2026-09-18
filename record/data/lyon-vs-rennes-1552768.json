@@ -1,0 +1,31 @@
+{
+  "slug": "lyon-vs-rennes-1552768",
+  "fixtureId": 1552768,
+  "kickoff": "2026-09-19T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "away": {
+    "id": 94,
+    "en": "Rennes"
+  },
+  "observedAt": "2026-09-12T02:53:38.975Z",
+  "probs": {
+    "home": 0.46384638463846384,
+    "draw": 0.21692169216921692,
+    "away": 0.3192319231923192
+  },
+  "goalsAvg": {
+    "home": 2.096,
+    "away": 1.727
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "angers-vs-troyes-1552765",
+  "fixtureId": 1552765,
+  "kickoff": "2026-09-19T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "away": {
+    "id": 110,
+    "en": "Troyes"
+  },
+  "observedAt": "2026-09-12T03:00:07.666Z",
+  "probs": {
+    "home": 0.4348,
+    "draw": 0.2654,
+    "away": 0.2998
+  },
+  "goalsAvg": {
+    "home": 1.512,
+    "away": 1.217
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T10:10:02.320Z",
+  "updatedAt": "2026-09-18T10:10:02.320Z"
+}
