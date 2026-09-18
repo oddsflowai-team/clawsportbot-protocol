@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-city-vs-sunderland-1557413",
+  "fixtureId": 1557413,
+  "kickoff": "2026-09-20T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "away": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "observedAt": "2026-09-13T01:48:47.750Z",
+  "probs": {
+    "home": 0.7346734673467347,
+    "draw": 0.15811581158115812,
+    "away": 0.10721072107210722
+  },
+  "goalsAvg": {
+    "home": 2.692,
+    "away": 0.968
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

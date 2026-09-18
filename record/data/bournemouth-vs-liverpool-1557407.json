@@ -1,0 +1,31 @@
+{
+  "slug": "bournemouth-vs-liverpool-1557407",
+  "fixtureId": 1557407,
+  "kickoff": "2026-09-20T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "away": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "observedAt": "2026-09-13T01:53:06.035Z",
+  "probs": {
+    "home": 0.3099,
+    "draw": 0.2215,
+    "away": 0.4686
+  },
+  "goalsAvg": {
+    "home": 1.637,
+    "away": 2.035
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

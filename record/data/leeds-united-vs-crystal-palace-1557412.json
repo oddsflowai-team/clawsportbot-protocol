@@ -1,0 +1,31 @@
+{
+  "slug": "leeds-united-vs-crystal-palace-1557412",
+  "fixtureId": 1557412,
+  "kickoff": "2026-09-20T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 63,
+    "en": "Leeds United"
+  },
+  "away": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "observedAt": "2026-09-13T01:50:35.557Z",
+  "probs": {
+    "home": 0.4600460046004601,
+    "draw": 0.2628262826282628,
+    "away": 0.2771277127712771
+  },
+  "goalsAvg": {
+    "home": 1.563,
+    "away": 1.162
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

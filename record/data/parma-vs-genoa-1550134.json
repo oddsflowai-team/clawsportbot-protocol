@@ -1,0 +1,31 @@
+{
+  "slug": "parma-vs-genoa-1550134",
+  "fixtureId": 1550134,
+  "kickoff": "2026-09-20T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "away": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "observedAt": "2026-09-13T01:56:52.436Z",
+  "probs": {
+    "home": 0.3258325832583258,
+    "draw": 0.27252725272527256,
+    "away": 0.4016401640164016
+  },
+  "goalsAvg": {
+    "home": 1.242,
+    "away": 1.405
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

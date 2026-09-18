@@ -1,0 +1,31 @@
+{
+  "slug": "auxerre-vs-brest-1552766",
+  "fixtureId": 1552766,
+  "kickoff": "2026-09-20T13:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "away": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "observedAt": "2026-09-13T01:46:20.110Z",
+  "probs": {
+    "home": 0.3484,
+    "draw": 0.2718,
+    "away": 0.3798
+  },
+  "goalsAvg": {
+    "home": 1.303,
+    "away": 1.371
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

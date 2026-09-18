@@ -1,0 +1,31 @@
+{
+  "slug": "bayer-leverkusen-vs-rb-leipzig-1575169",
+  "fixtureId": 1575169,
+  "kickoff": "2026-09-20T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "away": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "observedAt": "2026-09-13T01:59:32.845Z",
+  "probs": {
+    "home": 0.5067,
+    "draw": 0.2185,
+    "away": 0.2748
+  },
+  "goalsAvg": {
+    "home": 2.104,
+    "away": 1.523
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

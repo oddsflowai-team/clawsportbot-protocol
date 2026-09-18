@@ -1,0 +1,31 @@
+{
+  "slug": "frosinone-vs-como-1550131",
+  "fixtureId": 1550131,
+  "kickoff": "2026-09-20T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "away": {
+    "id": 895,
+    "en": "Como"
+  },
+  "observedAt": "2026-09-13T01:43:57.817Z",
+  "probs": {
+    "home": 0.1921,
+    "draw": 0.1998,
+    "away": 0.6081
+  },
+  "goalsAvg": {
+    "home": 1.261,
+    "away": 2.327
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}

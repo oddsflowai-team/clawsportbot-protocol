@@ -1,0 +1,31 @@
+{
+  "slug": "nice-vs-lille-1552770",
+  "fixtureId": 1552770,
+  "kickoff": "2026-09-20T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 84,
+    "en": "Nice"
+  },
+  "away": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "observedAt": "2026-09-13T02:09:58.015Z",
+  "probs": {
+    "home": 0.2615,
+    "draw": 0.2627,
+    "away": 0.4758
+  },
+  "goalsAvg": {
+    "home": 1.108,
+    "away": 1.577
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-18T22:10:01.552Z",
+  "updatedAt": "2026-09-18T22:10:01.552Z"
+}
