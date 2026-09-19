@@ -1,0 +1,31 @@
+{
+  "slug": "fulham-vs-manchester-united-1557411",
+  "fixtureId": 1557411,
+  "kickoff": "2026-09-20T15:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "away": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "observedAt": "2026-09-13T02:15:17.166Z",
+  "probs": {
+    "home": 0.3063,
+    "draw": 0.2206,
+    "away": 0.4731
+  },
+  "goalsAvg": {
+    "home": 1.633,
+    "away": 2.052
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}

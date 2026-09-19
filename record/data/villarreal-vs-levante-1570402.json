@@ -1,0 +1,31 @@
+{
+  "slug": "villarreal-vs-levante-1570402",
+  "fixtureId": 1570402,
+  "kickoff": "2026-09-20T16:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "away": {
+    "id": 539,
+    "en": "Levante"
+  },
+  "observedAt": "2026-09-13T18:04:46.425Z",
+  "probs": {
+    "home": 0.5836416358364164,
+    "draw": 0.20617938206179381,
+    "away": 0.2101789821017898
+  },
+  "goalsAvg": {
+    "home": 2.259,
+    "away": 1.311
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}

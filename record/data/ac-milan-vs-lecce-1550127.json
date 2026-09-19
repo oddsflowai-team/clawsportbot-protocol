@@ -1,0 +1,31 @@
+{
+  "slug": "ac-milan-vs-lecce-1550127",
+  "fixtureId": 1550127,
+  "kickoff": "2026-09-20T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "away": {
+    "id": 867,
+    "en": "Lecce"
+  },
+  "observedAt": "2026-09-13T02:26:49.500Z",
+  "probs": {
+    "home": 0.7033,
+    "draw": 0.1862,
+    "away": 0.1105
+  },
+  "goalsAvg": {
+    "home": 2.261,
+    "away": 0.787
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}

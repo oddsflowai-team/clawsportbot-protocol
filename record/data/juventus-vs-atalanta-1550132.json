@@ -1,0 +1,31 @@
+{
+  "slug": "juventus-vs-atalanta-1550132",
+  "fixtureId": 1550132,
+  "kickoff": "2026-09-20T16:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "away": {
+    "id": 499,
+    "en": "Atalanta"
+  },
+  "observedAt": "2026-09-13T02:18:36.345Z",
+  "probs": {
+    "home": 0.5838416158384161,
+    "draw": 0.21957804219578042,
+    "away": 0.19658034196580343
+  },
+  "goalsAvg": {
+    "home": 2.052,
+    "away": 1.12
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}

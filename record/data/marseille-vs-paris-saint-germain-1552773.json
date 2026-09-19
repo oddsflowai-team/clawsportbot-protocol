@@ -1,0 +1,31 @@
+{
+  "slug": "marseille-vs-paris-saint-germain-1552773",
+  "fixtureId": 1552773,
+  "kickoff": "2026-09-20T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-09-13T02:23:51.586Z",
+  "probs": {
+    "home": 0.1702,
+    "draw": 0.1911,
+    "away": 0.6387
+  },
+  "goalsAvg": {
+    "home": 1.195,
+    "away": 2.413
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}

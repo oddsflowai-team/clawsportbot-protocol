@@ -1,0 +1,31 @@
+{
+  "slug": "schalke-04-vs-sv-elversberg-1575173",
+  "fixtureId": 1575173,
+  "kickoff": "2026-09-20T15:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 174,
+    "en": "Schalke 04"
+  },
+  "away": {
+    "id": 1660,
+    "en": "SV Elversberg"
+  },
+  "observedAt": "2026-09-13T02:12:47.738Z",
+  "probs": {
+    "home": 0.4638,
+    "draw": 0.2226,
+    "away": 0.3136
+  },
+  "goalsAvg": {
+    "home": 2.014,
+    "away": 1.639
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "paderborn-07-vs-hoffenheim-1575175",
+  "fixtureId": 1575175,
+  "kickoff": "2026-09-20T17:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "away": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "observedAt": "2026-09-13T02:22:14.916Z",
+  "probs": {
+    "home": 0.2367,
+    "draw": 0.2057,
+    "away": 0.5576
+  },
+  "goalsAvg": {
+    "home": 1.468,
+    "away": 2.296
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-09-19T10:10:03.781Z",
+  "updatedAt": "2026-09-19T10:10:03.781Z"
+}
