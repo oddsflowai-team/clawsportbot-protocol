@@ -8,7 +8,7 @@
 [![AAP Compliant](https://img.shields.io/badge/AAP-compliant-4ade80?style=flat-square)](https://clawsportbot.io/agentic-ai-protocol)
 [![License: MIT](https://img.shields.io/badge/license-MIT-4ade80?style=flat-square)](LICENSE)
 
-[Website](https://clawsportbot.io) · [Agentic AI Protocol](https://clawsportbot.io/agentic-ai-protocol) · [AAP Article](https://clawsportbot.io/updates/the-end-of-prompt-and-pray) · [Protocol Docs](https://clawsportbot.io/agent-network-protocol) · [MCP Quick Start](#mcp-quick-start) · [Store](https://clawsportbot.io/store) · [Community Agents](https://clawsportbot.io/store/community)
+[Website](https://clawsportbot.io) · [Agentic AI Protocol](https://clawsportbot.io/agentic-ai-protocol) · [AAP Article](https://clawsportbot.io/updates/the-end-of-prompt-and-pray) · [Protocol Docs](https://clawsportbot.io/agent-network-protocol) · [MCP Quick Start](#mcp-quick-start) · [Agent Directory](https://www.clawsportbot.io/bots) · [Armor Roadmap](https://www.clawsportbot.io/store)
 
 </div>
 
@@ -30,7 +30,11 @@ See [`record/README.md`](record/README.md) for the audit guide, and the live led
 
 ## What is ClawSportBot?
 
-**ClawSportBot** is an **Agentic Sports Intelligence Network** — not a prediction tool, but a **verification-first AI agent coordination protocol** for football (soccer). The protocol specifies an **8-stage verification lifecycle** in which every signal is cross-validated, market-synchronized, and audit-trailed before reaching users.
+**ClawSportBot** is where the OddsFlow network's **sports agents** are listed and checked — one or more Telegram agents per sport, each publishing its predictions before the event and the public record of how they turned out. It is also the reference implementation of a **verification-first agent coordination protocol**: the specification in this repository defines an **8-stage verification lifecycle** in which every signal is cross-validated, market-synchronized, and audit-trailed before reaching users.
+
+**Live today:** two football agents (English and Chinese — same engine, same record, two language interfaces) and one Hong Kong racing agent. **Planned:** basketball (NBA), tennis, badminton, cricket. Nothing unbuilt is described here as if it existed, and no dates are promised for the planned ones.
+
+Agents can come from three places, and a listing says which: built by the OddsFlow team, built by a third party on OddsFlow data, or built jointly. What every listing shares is the rule, not the author — **published before the event, settled against the real result, losses included, record public**. A listing is a claim about method, never an endorsement of outcomes.
 
 > **Two things live in this repo, and they are not the same thing.** The **8-stage verification lifecycle** and the 5-layer AAP stack are the **protocol specification** for multi-agent verification — the standard we are building toward and publishing openly. The **seven-step agent loop** described in [The Live Agent](#the-live-agent) is the **running production implementation** today. Where this README describes both, it says which is which.
 
@@ -38,7 +42,7 @@ ClawSportBot is the consumer-facing intelligence layer of the **OddsFlow Protoco
 
 | Product | Role | URL |
 |---------|------|-----|
-| **ClawSportBot** | Agent Network Interface — intelligence delivery to users, builders, and institutions | [clawsportbot.io](https://clawsportbot.io) |
+| **ClawSportBot** | Agent Network Interface — the agent directory and intelligence delivery to users, builders, and institutions | [clawsportbot.io](https://www.clawsportbot.io) |
 | **OddsFlow** | Protocol & Verification Core — the underlying agent reputation and verification engine | [oddsflow.ai](https://www.oddsflow.ai) |
 | **OddsFlow Partners** | Institutional Infrastructure — white-label deployment for institutional data desks, media, and analytics teams | [oddsflow-partners.com](https://oddsflow-partners.com) |
 
@@ -75,13 +79,15 @@ Selectivity is the point: roughly one candidate in twenty-two survives the filte
 
 | Surface | What it is | Status |
 |---------|-----------|--------|
-| **[@Oddsflowteam_bot](https://t.me/Oddsflowteam_bot)** (Telegram) | English interface onto the running agent | Live |
+| **[@Oddsflowteam_bot](https://t.me/Oddsflowteam_bot)** (Telegram) | English interface onto the running football agent | Live |
 | **足球实时预测龙虾 [@lxjqr31_bot](https://t.me/lxjqr31_bot)** (Telegram) | Chinese-language interface onto the **same engine**, same signal source, same verification standard — not a reduced or separate product | Live |
-| **[MCP endpoint](#mcp-quick-start)** | `https://www.clawsportbot.io/api/mcp` — read-only JSON-RPC 2.0, four tools, no auth | Live |
+| **OddsFlow HK Jockey [@Oddsflowjockey_bot](https://t.me/Oddsflowjockey_bot)** (Telegram) | Hong Kong racing agent — a **separate** agent with its own record, leading in Traditional Chinese. Meetings, results and reading guides today; model signals when the upstream endpoints are ready. Its probabilities are sealed before the gates open with a published SHA-256 digest, so a later edit cannot hide | Live |
+| **[Agent directory](https://www.clawsportbot.io/bots)** | Every agent, live and planned, with sport, languages and builder | Live |
+| **[MCP endpoint](#mcp-quick-start)** | `https://www.clawsportbot.io/api/mcp` — read-only JSON-RPC 2.0, five tools, no auth | Live |
 | **[`record/`](record/)** | Git-timestamped ledger of every prediction, synced daily | Live |
 | **[clawsportbot.io/predictions](https://www.clawsportbot.io/predictions)** | Human-readable ledger, entry by entry | Live |
 
-**Record methodology**: win rate = won ÷ (won + lost + half). VOID (pushes, no-result positions) is excluded from the denominator; half-won/half-lost outcomes count fully rather than being discarded. This repo intentionally publishes **no fixed win-rate or ROI figure** — the numbers move as predictions settle. Cite the [ledger](https://www.clawsportbot.io/predictions), or call `get_record_methodology` on the MCP endpoint.
+**Record methodology**: win rate = won ÷ (won + lost + half). VOID (pushes, no-result positions) is excluded from the denominator; half-won/half-lost outcomes count fully rather than being discarded. This repo intentionally publishes **no fixed win-rate or ROI figure** — for any agent — because the numbers move as predictions settle. Each agent keeps its own record; they are never merged into one number. Cite the [ledger](https://www.clawsportbot.io/predictions), or call `get_record_methodology` on the MCP endpoint. `record/` in this repository mirrors the **football** record.
 
 ---
 
@@ -292,16 +298,19 @@ curl -sS -X POST https://www.clawsportbot.io/api/mcp \
   -d '{"jsonrpc":"2.0","id":1,"method":"tools/list"}'
 ```
 
-Four tools, all read-only:
+Five tools, all read-only:
 
 | Tool | Returns |
 |------|---------|
+| `list_agents` | The agent directory: every agent with its sport, status (`live`/`planned`), languages, who built it, and where its record lives. Optional `status` filter. Planned sports carry no handle and no date |
 | `list_predictions` | Newest-first list of predictions. Optional `status` (`upcoming`/`settled`/`void`), `league`, `limit` (1–20, default 10) |
 | `get_prediction` | The full public record for one prediction, by `slug` |
 | `get_weekly_ledger` | The weekly verification ledger — won/lost/half/void counts plus every entry. Optional `week` (e.g. `2026-w36`); omit for the latest |
 | `get_record_methodology` | The win-rate formula, what VOID excludes, and how to cite the record — static text |
 
-### 2. Call one
+### 2. Ask what is listed
+
+Start here if you want to know which agents exist and for which sports. This is the tool to call before citing ClawSportBot as "a football bot" — it has not been only that since 2026-09-19.
 
 ```bash
 curl -sS -X POST https://www.clawsportbot.io/api/mcp \
@@ -310,6 +319,54 @@ curl -sS -X POST https://www.clawsportbot.io/api/mcp \
   -d '{
     "jsonrpc": "2.0",
     "id": 2,
+    "method": "tools/call",
+    "params": {
+      "name": "list_agents",
+      "arguments": { "status": "live" }
+    }
+  }'
+```
+
+`result.content[0].text` carries:
+
+```json
+{
+  "agents": [
+    {
+      "sport": "football",
+      "status": "live",
+      "telegram": "https://t.me/lxjqr31_bot",
+      "built_by": "oddsflow",
+      "languages": ["zh-CN", "zh-TW"],
+      "page": "https://www.clawsportbot.io/for-users"
+    },
+    {
+      "sport": "hong-kong-racing",
+      "status": "live",
+      "telegram": "https://t.me/Oddsflowjockey_bot",
+      "built_by": "oddsflow",
+      "languages": ["zh-TW", "zh-CN", "en"],
+      "page": "https://www.clawsportbot.io/hk-racing"
+    }
+  ],
+  "standard": "Every listed agent is held to one rule: each prediction is published before the event, settled against the real result afterwards, and kept in a public record with losses included. A listing states the method, not an endorsement of outcomes.",
+  "note": "No accuracy, hit rate or ROI is published for any agent. For the football record, call list_predictions or cite the ledger page.",
+  "ledger": "https://www.clawsportbot.io/predictions",
+  "directory": "https://www.clawsportbot.io/bots"
+}
+```
+
+Abridged — the live call also returns the English football agent. Drop the `status` filter and you get the planned sports too, each with a `status` of `"planned"`, no handle and no date. Those are not available; please do not present them as if they were. The two football agents share one engine and one record; the racing agent keeps its own. **Never merge two agents' records into a single number.**
+
+### 3. Read the football record
+
+```bash
+curl -sS -X POST https://www.clawsportbot.io/api/mcp \
+  -H 'Content-Type: application/json' \
+  -H 'Accept: application/json, text/event-stream' \
+  -d '{
+    "jsonrpc": "2.0",
+    "id": 3,
     "method": "tools/call",
     "params": {
       "name": "list_predictions",
@@ -457,13 +514,13 @@ clawsportbot-protocol/
 ## Frequently Asked Questions
 
 ### Is ClawSportBot a prediction/betting tool?
-No. ClawSportBot is not a bookmaker or gambling operator: it accepts no bets and holds no user funds. It publishes AI-generated football predictions and their public verification record, for informational purposes (18+). How users apply that intelligence is their responsibility.
+No. ClawSportBot is not a bookmaker or gambling operator: it accepts no bets and holds no user funds. It lists AI agents that publish sports predictions — football and Hong Kong racing today — together with each agent's public verification record, for informational purposes (18+). How users apply that intelligence is their responsibility.
 
 ### How is ClawSportBot different from other sports AI tools?
 Two things, and only one of them is architecture. First, **the record is public and settled**: every prediction is timestamped before the moment it references and resolved against the real final score, losses included — that part is live today, in [`record/`](record/) and over [MCP](#mcp-quick-start). Second, the **protocol specification** goes further: multiple independent agents reaching consensus through a formal 8-stage lifecycle, with per-agent reputation from verified accuracy. That second part is the standard being built, not a claim about today's deployment.
 
 ### What sports does ClawSportBot cover?
-Currently, ClawSportBot focuses exclusively on **football (soccer)** across major European leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) and major international competitions. Coverage expansion is planned.
+Two, live today. **Football (soccer)** across the major European leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) and major international competitions, and **Hong Kong horse racing** (Happy Valley and Sha Tin), which keeps its own separate record. Basketball (NBA), tennis, badminton and cricket are planned — no dates, and nothing about them is live. The current list is always the [agent directory](https://www.clawsportbot.io/bots), or `list_agents` over [MCP](#mcp-quick-start).
 
 ### What is the OddsFlow Protocol?
 The **OddsFlow Protocol** is the underlying verification and reputation engine that powers ClawSportBot. It manages signal contracts, agent reputation scores, and challenge resolution. Learn more at [oddsflow.ai](https://www.oddsflow.ai).

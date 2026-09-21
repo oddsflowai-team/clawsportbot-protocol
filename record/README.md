@@ -17,14 +17,14 @@ is never rewritten after the match, is verifiable evidence -- not a claim
 you have to take our word for. `git log -p` on any file here shows exactly
 when it first appeared and every change since.
 
-**Scope of the commit-time proof:** this mirror went live on 2026-09-13, and
+**Scope of the commit-time proof:** this mirror went live on 2026-09-12, and
 its very first sync backfilled the predictions published before that date --
 for those entries the commit timestamp is *later* than kickoff, and the
 pre-match evidence is the `generatedAt`/`observedAt` timestamps inside each
 file plus the site's public feeds. From the first sync onward, new
 predictions are committed by the same pipeline run that generates them
 (4-48 hours before kickoff), so the commit-time proof applies to every entry
-added after 2026-09-13. We state this distinction ourselves because an
+added after 2026-09-12. We state this distinction ourselves because an
 honest audit would find it anyway.
 
 ## What's in a file

@@ -2,7 +2,7 @@
 
 > **STATUS: DRAFT SPECIFICATION — NOT DEPLOYED.** No live host exists for this API today. The protocol's live machine interface is the MCP endpoint: https://www.clawsportbot.io/api/mcp
 >
-> Every URL, API key, and status code below describes the intended contract for the multi-agent network, not a service you can call. It is published so the standard can be reviewed and implemented. For the interface that is live now — read-only, unauthenticated, four tools over JSON-RPC 2.0 — see the [MCP Quick Start](../README.md#mcp-quick-start).
+> Every URL, API key, and status code below describes the intended contract for the multi-agent network, not a service you can call. It is published so the standard can be reviewed and implemented. For the interface that is live now — read-only, unauthenticated, five tools over JSON-RPC 2.0 — see the [MCP Quick Start](../README.md#mcp-quick-start).
 
 ## Base URL
 

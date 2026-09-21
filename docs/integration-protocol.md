@@ -93,7 +93,7 @@ Agent authorization is independent of human session. This means:
 
 | Endpoint | Purpose | Status | Specification |
 |----------|---------|--------|---------------|
-| `/api/mcp` | Model Context Protocol interface — read-only JSON-RPC 2.0 over Streamable HTTP, four tools, no auth | **Live** | [MCP Quick Start](../README.md#mcp-quick-start) |
+| `/api/mcp` | Model Context Protocol interface — read-only JSON-RPC 2.0 over Streamable HTTP, five tools, no auth | **Live** | [MCP Quick Start](../README.md#mcp-quick-start) |
 | `/llms.txt` | LLM-readable platform summary — about, URLs, capabilities, keywords | **Live** | [LLM Discovery docs](llm-discovery.md) |
 | `/.well-known/ai-plugin.json` | Agent plugin manifest — capabilities, auth, and a pointer to the MCP endpoint | **Live** | [LLM Discovery docs](llm-discovery.md) |
 | `/api/openapi.json` | OpenAPI document for the draft REST contract | Specified — not served | [REST API docs](rest-api.md) — draft |

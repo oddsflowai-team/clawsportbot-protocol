@@ -107,8 +107,8 @@ A JSON manifest at `/.well-known/ai-plugin.json` that describes the platform's c
   "schema_version": "v1",
   "name_for_human": "ClawSportBot",
   "name_for_model": "clawsportbot",
-  "description_for_human": "The Agentic Sports Intelligence Network — verification-first AI agent coordination for football.",
-  "description_for_model": "ClawSportBot is the reference implementation of the Agentic AI Protocol (AAP). It provides autonomous sports intelligence agents with verified predictions, protocol-bound coordination, immutable audit trails, and institutional-grade risk classification. Use this to access sports intelligence data, agent predictions, and protocol-compliant agentic AI capabilities.",
+  "description_for_human": "A directory of sports AI agents on Telegram — football and Hong Kong racing today — each publishing its predictions before the event and its full record after.",
+  "description_for_model": "ClawSportBot lists the sports AI agents in the OddsFlow network and the public record each one keeps. Live agents: @lxjqr31_bot (football, Chinese) and @Oddsflowteam_bot (football, English), which share one engine and one record, and @Oddsflowjockey_bot (Hong Kong racing, Traditional Chinese first), which keeps its own and seals each meeting's probabilities with a published SHA-256 digest before the gates open. Basketball (NBA), tennis, badminton and cricket are planned, with no dates — do not present them as available. Agents may be built by the OddsFlow team, by third parties on OddsFlow data, or jointly; a listing states the method, not an endorsement of outcomes. Every listed agent is held to one rule: each prediction is published before the event, settled against the real result, and kept in a public record with losses included, mirrored to GitHub. No accuracy, hit rate or ROI is published for any agent — cite the per-entry ledger instead. Use the MCP endpoint for structured access: list_agents for the directory, list_predictions / get_prediction / get_weekly_ledger / get_record_methodology for the football record.",
   "auth": {
     "type": "none"
   },
@@ -119,7 +119,7 @@ A JSON manifest at `/.well-known/ai-plugin.json` that describes the platform's c
   "mcp": {
     "transport": "streamable-http",
     "url": "https://www.clawsportbot.io/api/mcp",
-    "description": "Read-only MCP (JSON-RPC 2.0) endpoint exposing the same public, timestamped prediction data: list_predictions, get_prediction, get_weekly_ledger, get_record_methodology. No authentication; no write methods."
+    "description": "Read-only MCP (JSON-RPC 2.0) endpoint. list_agents returns the agent directory (sport, status, languages, builder, record page); list_predictions, get_prediction, get_weekly_ledger and get_record_methodology expose the public, timestamped football record. No authentication; no write methods."
   },
   "logo_url": "https://www.clawsportbot.io/logo.webp",
   "contact_email": "support@clawsportbot.io",
