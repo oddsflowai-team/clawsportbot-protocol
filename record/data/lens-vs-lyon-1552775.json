@@ -1,0 +1,31 @@
+{
+  "slug": "lens-vs-lyon-1552775",
+  "fixtureId": 1552775,
+  "kickoff": "2026-10-09T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-09-29T00:49:47.585Z",
+  "probs": {
+    "home": 0.4452,
+    "draw": 0.2241,
+    "away": 0.3307
+  },
+  "goalsAvg": {
+    "home": 1.969,
+    "away": 1.684
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-07T22:10:04.764Z",
+  "updatedAt": "2026-10-07T22:10:04.764Z"
+}

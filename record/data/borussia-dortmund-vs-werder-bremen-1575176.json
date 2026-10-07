@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-dortmund-vs-werder-bremen-1575176",
+  "fixtureId": 1575176,
+  "kickoff": "2026-10-09T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "away": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "observedAt": "2026-09-29T00:44:04.996Z",
+  "probs": {
+    "home": 0.7093,
+    "draw": 0.1682,
+    "away": 0.1225
+  },
+  "goalsAvg": {
+    "home": 2.605,
+    "away": 1.022
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-07T22:10:04.764Z",
+  "updatedAt": "2026-10-07T22:10:04.764Z"
+}
