@@ -1,0 +1,31 @@
+{
+  "slug": "paderborn-07-vs-vfb-stuttgart-1575184",
+  "fixtureId": 1575184,
+  "kickoff": "2026-10-10T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "away": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "observedAt": "2026-09-30T02:24:18.359Z",
+  "probs": {
+    "home": 0.21447855214478553,
+    "draw": 0.20047995200479954,
+    "away": 0.5850414958504149
+  },
+  "goalsAvg": {
+    "home": 1.394,
+    "away": 2.356
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

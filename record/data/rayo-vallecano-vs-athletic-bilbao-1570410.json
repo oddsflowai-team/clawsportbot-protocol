@@ -1,0 +1,31 @@
+{
+  "slug": "rayo-vallecano-vs-athletic-bilbao-1570410",
+  "fixtureId": 1570410,
+  "kickoff": "2026-10-10T12:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 728,
+    "en": "Rayo Vallecano"
+  },
+  "away": {
+    "id": 531,
+    "en": "Athletic Bilbao"
+  },
+  "observedAt": "2026-09-30T01:20:13.022Z",
+  "probs": {
+    "home": 0.3179,
+    "draw": 0.2676,
+    "away": 0.4145
+  },
+  "goalsAvg": {
+    "home": 1.254,
+    "away": 1.464
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

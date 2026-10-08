@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-brighton-1557426",
+  "fixtureId": 1557426,
+  "kickoff": "2026-10-10T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 51,
+    "en": "Brighton"
+  },
+  "observedAt": "2026-09-30T03:33:39.708Z",
+  "probs": {
+    "home": 0.3422,
+    "draw": 0.2706,
+    "away": 0.3872
+  },
+  "goalsAvg": {
+    "home": 1.297,
+    "away": 1.394
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

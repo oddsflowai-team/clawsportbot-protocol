@@ -1,0 +1,31 @@
+{
+  "slug": "arsenal-vs-leeds-united-1557417",
+  "fixtureId": 1557417,
+  "kickoff": "2026-10-10T11:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "away": {
+    "id": 63,
+    "en": "Leeds United"
+  },
+  "observedAt": "2026-09-30T00:53:30.586Z",
+  "probs": {
+    "home": 0.7073,
+    "draw": 0.182,
+    "away": 0.1107
+  },
+  "goalsAvg": {
+    "home": 2.32,
+    "away": 0.814
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

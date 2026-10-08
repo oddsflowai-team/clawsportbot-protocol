@@ -1,0 +1,31 @@
+{
+  "slug": "genoa-vs-fiorentina-1550140",
+  "fixtureId": 1550140,
+  "kickoff": "2026-10-10T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "away": {
+    "id": 502,
+    "en": "Fiorentina"
+  },
+  "observedAt": "2026-09-30T02:23:22.350Z",
+  "probs": {
+    "home": 0.3056,
+    "draw": 0.2763,
+    "away": 0.4181
+  },
+  "goalsAvg": {
+    "home": 1.163,
+    "away": 1.402
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

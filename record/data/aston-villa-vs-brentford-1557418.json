@@ -1,0 +1,31 @@
+{
+  "slug": "aston-villa-vs-brentford-1557418",
+  "fixtureId": 1557418,
+  "kickoff": "2026-10-10T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "away": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "observedAt": "2026-09-30T03:13:31.222Z",
+  "probs": {
+    "home": 0.3638,
+    "draw": 0.2482,
+    "away": 0.388
+  },
+  "goalsAvg": {
+    "home": 1.533,
+    "away": 1.589
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

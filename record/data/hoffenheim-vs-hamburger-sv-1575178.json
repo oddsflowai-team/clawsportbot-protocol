@@ -1,0 +1,31 @@
+{
+  "slug": "hoffenheim-vs-hamburger-sv-1575178",
+  "fixtureId": 1575178,
+  "kickoff": "2026-10-10T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "away": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "observedAt": "2026-09-30T02:33:45.046Z",
+  "probs": {
+    "home": 0.6961,
+    "draw": 0.172,
+    "away": 0.1319
+  },
+  "goalsAvg": {
+    "home": 2.588,
+    "away": 1.071
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

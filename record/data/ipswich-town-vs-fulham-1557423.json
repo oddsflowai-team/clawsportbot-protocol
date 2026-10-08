@@ -1,0 +1,31 @@
+{
+  "slug": "ipswich-town-vs-fulham-1557423",
+  "fixtureId": 1557423,
+  "kickoff": "2026-10-10T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "away": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "observedAt": "2026-09-30T03:26:51.245Z",
+  "probs": {
+    "home": 0.3655,
+    "draw": 0.2488,
+    "away": 0.3857
+  },
+  "goalsAvg": {
+    "home": 1.532,
+    "away": 1.578
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}

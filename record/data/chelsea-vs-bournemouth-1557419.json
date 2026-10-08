@@ -1,0 +1,31 @@
+{
+  "slug": "chelsea-vs-bournemouth-1557419",
+  "fixtureId": 1557419,
+  "kickoff": "2026-10-10T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "away": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "observedAt": "2026-09-30T02:59:15.631Z",
+  "probs": {
+    "home": 0.5272,
+    "draw": 0.2135,
+    "away": 0.2593
+  },
+  "goalsAvg": {
+    "home": 2.182,
+    "away": 1.503
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-08T22:10:06.763Z",
+  "updatedAt": "2026-10-08T22:10:06.763Z"
+}
