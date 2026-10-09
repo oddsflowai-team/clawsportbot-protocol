@@ -1,0 +1,31 @@
+{
+  "slug": "brest-vs-angers-1552774",
+  "fixtureId": 1552774,
+  "kickoff": "2026-10-10T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "away": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "observedAt": "2026-09-30T05:41:17.495Z",
+  "probs": {
+    "home": 0.5,
+    "draw": 0.254,
+    "away": 0.246
+  },
+  "goalsAvg": {
+    "home": 1.673,
+    "away": 1.107
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

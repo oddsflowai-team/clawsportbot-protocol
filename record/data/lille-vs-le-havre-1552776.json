@@ -1,0 +1,31 @@
+{
+  "slug": "lille-vs-le-havre-1552776",
+  "fixtureId": 1552776,
+  "kickoff": "2026-10-10T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "away": {
+    "id": 111,
+    "en": "Le Havre"
+  },
+  "observedAt": "2026-09-30T04:19:33.123Z",
+  "probs": {
+    "home": 0.6772,
+    "draw": 0.1923,
+    "away": 0.1305
+  },
+  "goalsAvg": {
+    "home": 2.262,
+    "away": 0.898
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

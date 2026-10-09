@@ -1,0 +1,31 @@
+{
+  "slug": "inter-milan-vs-parma-1550141",
+  "fixtureId": 1550141,
+  "kickoff": "2026-10-10T16:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "away": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "observedAt": "2026-09-30T04:35:48.072Z",
+  "probs": {
+    "home": 0.8539,
+    "draw": 0.1024,
+    "away": 0.0437
+  },
+  "goalsAvg": {
+    "home": 3.141,
+    "away": 0.644
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

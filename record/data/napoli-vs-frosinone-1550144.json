@@ -1,0 +1,31 @@
+{
+  "slug": "napoli-vs-frosinone-1550144",
+  "fixtureId": 1550144,
+  "kickoff": "2026-10-10T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "away": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "observedAt": "2026-09-30T05:36:56.480Z",
+  "probs": {
+    "home": 0.6494,
+    "draw": 0.1965,
+    "away": 0.1541
+  },
+  "goalsAvg": {
+    "home": 2.282,
+    "away": 1.036
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

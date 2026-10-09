@@ -1,0 +1,31 @@
+{
+  "slug": "monaco-vs-toulouse-1552778",
+  "fixtureId": 1552778,
+  "kickoff": "2026-10-10T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 91,
+    "en": "Monaco"
+  },
+  "away": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "observedAt": "2026-09-30T05:32:13.248Z",
+  "probs": {
+    "home": 0.543,
+    "draw": 0.2258,
+    "away": 0.2312
+  },
+  "goalsAvg": {
+    "home": 1.999,
+    "away": 1.249
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

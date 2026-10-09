@@ -1,0 +1,31 @@
+{
+  "slug": "lorient-vs-paris-fc-1552777",
+  "fixtureId": 1552777,
+  "kickoff": "2026-10-10T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 97,
+    "en": "Lorient"
+  },
+  "away": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "observedAt": "2026-09-30T05:34:38.712Z",
+  "probs": {
+    "home": 0.3318,
+    "draw": 0.2652,
+    "away": 0.403
+  },
+  "goalsAvg": {
+    "home": 1.309,
+    "away": 1.465
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

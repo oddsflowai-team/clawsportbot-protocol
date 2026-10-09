@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-villarreal-1570411",
+  "fixtureId": 1570411,
+  "kickoff": "2026-10-10T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "observedAt": "2026-09-30T05:47:13.524Z",
+  "probs": {
+    "home": 0.7604000000000001,
+    "draw": 0.13740000000000002,
+    "away": 0.10220000000000001
+  },
+  "goalsAvg": {
+    "home": 3.096,
+    "away": 1.131
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

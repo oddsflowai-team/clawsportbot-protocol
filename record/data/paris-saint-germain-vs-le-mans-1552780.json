@@ -1,0 +1,31 @@
+{
+  "slug": "paris-saint-germain-vs-le-mans-1552780",
+  "fixtureId": 1552780,
+  "kickoff": "2026-10-10T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "away": {
+    "id": 1298,
+    "en": "Le Mans"
+  },
+  "observedAt": "2026-09-30T05:42:05.113Z",
+  "probs": {
+    "home": 0.8511,
+    "draw": 0.0937,
+    "away": 0.0552
+  },
+  "goalsAvg": {
+    "home": 3.662,
+    "away": 0.968
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}

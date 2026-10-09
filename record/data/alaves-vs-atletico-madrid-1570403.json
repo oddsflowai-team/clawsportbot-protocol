@@ -1,0 +1,31 @@
+{
+  "slug": "alaves-vs-atletico-madrid-1570403",
+  "fixtureId": 1570403,
+  "kickoff": "2026-10-10T14:15:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 542,
+    "en": "Alaves"
+  },
+  "away": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "observedAt": "2026-09-30T03:48:43.950Z",
+  "probs": {
+    "home": 0.2593259325932593,
+    "draw": 0.25822582258225824,
+    "away": 0.48244824482448245
+  },
+  "goalsAvg": {
+    "home": 1.129,
+    "away": 1.623
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T10:10:06.718Z",
+  "updatedAt": "2026-10-09T10:10:06.718Z"
+}
