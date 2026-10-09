@@ -1,0 +1,31 @@
+{
+  "slug": "rennes-vs-auxerre-1552781",
+  "fixtureId": 1552781,
+  "kickoff": "2026-10-11T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 94,
+    "en": "Rennes"
+  },
+  "away": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "observedAt": "2026-10-01T02:13:14.004Z",
+  "probs": {
+    "home": 0.6717,
+    "draw": 0.1826,
+    "away": 0.1457
+  },
+  "goalsAvg": {
+    "home": 2.468,
+    "away": 1.089
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

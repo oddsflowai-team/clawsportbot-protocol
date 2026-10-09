@@ -1,0 +1,31 @@
+{
+  "slug": "crystal-palace-vs-nottingham-forest-1557421",
+  "fixtureId": 1557421,
+  "kickoff": "2026-10-11T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "away": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "observedAt": "2026-10-01T01:23:14.674Z",
+  "probs": {
+    "home": 0.3629362936293629,
+    "draw": 0.27992799279927993,
+    "away": 0.3571357135713571
+  },
+  "goalsAvg": {
+    "home": 1.279,
+    "away": 1.266
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

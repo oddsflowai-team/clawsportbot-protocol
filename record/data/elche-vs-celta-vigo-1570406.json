@@ -1,0 +1,31 @@
+{
+  "slug": "elche-vs-celta-vigo-1570406",
+  "fixtureId": 1570406,
+  "kickoff": "2026-10-11T12:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 797,
+    "en": "Elche"
+  },
+  "away": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "observedAt": "2026-10-01T00:58:52.490Z",
+  "probs": {
+    "home": 0.3389,
+    "draw": 0.2649,
+    "away": 0.3962
+  },
+  "goalsAvg": {
+    "home": 1.33,
+    "away": 1.456
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

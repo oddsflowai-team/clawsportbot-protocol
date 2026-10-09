@@ -1,0 +1,31 @@
+{
+  "slug": "liverpool-vs-manchester-city-1557424",
+  "fixtureId": 1557424,
+  "kickoff": "2026-10-11T15:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "away": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "observedAt": "2026-10-01T02:19:06.429Z",
+  "probs": {
+    "home": 0.3408659134086591,
+    "draw": 0.22657734226577342,
+    "away": 0.43255674432556745
+  },
+  "goalsAvg": {
+    "home": 1.69,
+    "away": 1.917
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

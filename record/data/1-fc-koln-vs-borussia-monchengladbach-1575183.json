@@ -1,0 +1,31 @@
+{
+  "slug": "1-fc-koln-vs-borussia-monchengladbach-1575183",
+  "fixtureId": 1575183,
+  "kickoff": "2026-10-11T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "away": {
+    "id": 163,
+    "en": "Borussia Mönchengladbach"
+  },
+  "observedAt": "2026-10-01T01:40:48.601Z",
+  "probs": {
+    "home": 0.48514851485148514,
+    "draw": 0.2158215821582158,
+    "away": 0.299029902990299
+  },
+  "goalsAvg": {
+    "home": 2.132,
+    "away": 1.658
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

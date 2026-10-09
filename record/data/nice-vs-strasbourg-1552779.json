@@ -1,0 +1,31 @@
+{
+  "slug": "nice-vs-strasbourg-1552779",
+  "fixtureId": 1552779,
+  "kickoff": "2026-10-11T13:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 84,
+    "en": "Nice"
+  },
+  "away": {
+    "id": 95,
+    "en": "Strasbourg"
+  },
+  "observedAt": "2026-10-01T01:21:23.462Z",
+  "probs": {
+    "home": 0.4347,
+    "draw": 0.2471,
+    "away": 0.3182
+  },
+  "goalsAvg": {
+    "home": 1.683,
+    "away": 1.414
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

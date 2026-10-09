@@ -1,0 +1,31 @@
+{
+  "slug": "sc-freiburg-vs-schalke-04-1575179",
+  "fixtureId": 1575179,
+  "kickoff": "2026-10-11T15:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 160,
+    "en": "SC Freiburg"
+  },
+  "away": {
+    "id": 174,
+    "en": "Schalke 04"
+  },
+  "observedAt": "2026-10-01T02:18:12.651Z",
+  "probs": {
+    "home": 0.5747425257474252,
+    "draw": 0.20777922207779223,
+    "away": 0.21747825217478253
+  },
+  "goalsAvg": {
+    "home": 2.244,
+    "away": 1.338
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}

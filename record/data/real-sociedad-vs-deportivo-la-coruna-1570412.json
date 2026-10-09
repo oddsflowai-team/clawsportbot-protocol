@@ -1,0 +1,31 @@
+{
+  "slug": "real-sociedad-vs-deportivo-la-coruna-1570412",
+  "fixtureId": 1570412,
+  "kickoff": "2026-10-11T14:15:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "away": {
+    "id": 544,
+    "en": "Deportivo La Coruna"
+  },
+  "observedAt": "2026-10-01T06:51:03.076Z",
+  "probs": {
+    "home": 0.504050405040504,
+    "draw": 0.2538253825382539,
+    "away": 0.24212421242124213
+  },
+  "goalsAvg": {
+    "home": 1.676,
+    "away": 1.093
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-09T22:10:06.740Z",
+  "updatedAt": "2026-10-09T22:10:06.740Z"
+}
