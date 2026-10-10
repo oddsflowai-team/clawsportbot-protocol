@@ -1,0 +1,31 @@
+{
+  "slug": "torino-vs-udinese-1550146",
+  "fixtureId": 1550146,
+  "kickoff": "2026-10-12T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 503,
+    "en": "Torino"
+  },
+  "away": {
+    "id": 494,
+    "en": "Udinese"
+  },
+  "observedAt": "2026-10-02T05:25:31.084Z",
+  "probs": {
+    "home": 0.42145785421457854,
+    "draw": 0.2625737426257374,
+    "away": 0.31596840315968405
+  },
+  "goalsAvg": {
+    "home": 1.518,
+    "away": 1.285
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-10T22:10:06.748Z",
+  "updatedAt": "2026-10-10T22:10:06.748Z"
+}

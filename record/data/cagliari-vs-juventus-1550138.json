@@ -1,0 +1,31 @@
+{
+  "slug": "cagliari-vs-juventus-1550138",
+  "fixtureId": 1550138,
+  "kickoff": "2026-10-11T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 490,
+    "en": "Cagliari"
+  },
+  "away": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "observedAt": "2026-10-01T02:58:25.870Z",
+  "probs": {
+    "home": 0.1521,
+    "draw": 0.233,
+    "away": 0.6149
+  },
+  "goalsAvg": {
+    "home": 0.796,
+    "away": 1.835
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-10T22:10:06.748Z",
+  "updatedAt": "2026-10-10T22:10:06.748Z"
+}

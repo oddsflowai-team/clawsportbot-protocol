@@ -1,0 +1,31 @@
+{
+  "slug": "troyes-vs-marseille-1552782",
+  "fixtureId": 1552782,
+  "kickoff": "2026-10-11T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 110,
+    "en": "Troyes"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-10-01T02:53:21.103Z",
+  "probs": {
+    "home": 0.283,
+    "draw": 0.221,
+    "away": 0.496
+  },
+  "goalsAvg": {
+    "home": 1.532,
+    "away": 2.063
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-10T22:10:06.748Z",
+  "updatedAt": "2026-10-10T22:10:06.748Z"
+}

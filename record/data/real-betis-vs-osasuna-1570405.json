@@ -1,0 +1,31 @@
+{
+  "slug": "real-betis-vs-osasuna-1570405",
+  "fixtureId": 1570405,
+  "kickoff": "2026-10-11T16:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "away": {
+    "id": 727,
+    "en": "Osasuna"
+  },
+  "observedAt": "2026-10-01T02:35:18.794Z",
+  "probs": {
+    "home": 0.6041,
+    "draw": 0.2139,
+    "away": 0.182
+  },
+  "goalsAvg": {
+    "home": 2.105,
+    "away": 1.08
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-10T22:10:06.748Z",
+  "updatedAt": "2026-10-10T22:10:06.748Z"
+}
