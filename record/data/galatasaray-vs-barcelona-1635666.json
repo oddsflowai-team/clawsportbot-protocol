@@ -1,0 +1,31 @@
+{
+  "slug": "galatasaray-vs-barcelona-1635666",
+  "fixtureId": 1635666,
+  "kickoff": "2026-10-13T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 645,
+    "en": "Galatasaray"
+  },
+  "away": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "observedAt": "2026-10-03T00:55:42.511Z",
+  "probs": {
+    "home": 0.1282,
+    "draw": 0.1367,
+    "away": 0.7351
+  },
+  "goalsAvg": {
+    "home": 1.469,
+    "away": 3.365
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}

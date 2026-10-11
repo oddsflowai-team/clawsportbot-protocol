@@ -1,0 +1,31 @@
+{
+  "slug": "inter-milan-vs-club-brugge-1635671",
+  "fixtureId": 1635671,
+  "kickoff": "2026-10-13T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "away": {
+    "id": 569,
+    "en": "Club Brugge"
+  },
+  "observedAt": "2026-10-03T00:59:53.216Z",
+  "probs": {
+    "home": 0.7369,
+    "draw": 0.1598,
+    "away": 0.1033
+  },
+  "goalsAvg": {
+    "home": 2.632,
+    "away": 0.913
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}

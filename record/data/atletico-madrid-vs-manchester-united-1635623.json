@@ -1,0 +1,31 @@
+{
+  "slug": "atletico-madrid-vs-manchester-united-1635623",
+  "fixtureId": 1635623,
+  "kickoff": "2026-10-13T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "away": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "observedAt": "2026-10-03T00:54:12.502Z",
+  "probs": {
+    "home": 0.4408,
+    "draw": 0.2274,
+    "away": 0.3318
+  },
+  "goalsAvg": {
+    "home": 1.92,
+    "away": 1.651
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}

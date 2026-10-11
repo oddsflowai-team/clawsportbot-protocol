@@ -1,0 +1,31 @@
+{
+  "slug": "lens-vs-sporting-cp-1635679",
+  "fixtureId": 1635679,
+  "kickoff": "2026-10-13T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "away": {
+    "id": 228,
+    "en": "Sporting CP"
+  },
+  "observedAt": "2026-10-03T00:40:49.758Z",
+  "probs": {
+    "home": 0.3978,
+    "draw": 0.225,
+    "away": 0.3772
+  },
+  "goalsAvg": {
+    "home": 1.868,
+    "away": 1.817
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}

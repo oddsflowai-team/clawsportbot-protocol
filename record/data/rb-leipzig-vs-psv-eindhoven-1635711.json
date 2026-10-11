@@ -1,0 +1,31 @@
+{
+  "slug": "rb-leipzig-vs-psv-eindhoven-1635711",
+  "fixtureId": 1635711,
+  "kickoff": "2026-10-13T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "away": {
+    "id": 197,
+    "en": "PSV Eindhoven"
+  },
+  "observedAt": "2026-10-03T00:49:21.162Z",
+  "probs": {
+    "home": 0.4814,
+    "draw": 0.2232,
+    "away": 0.2954
+  },
+  "goalsAvg": {
+    "home": 2.022,
+    "away": 1.561
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}

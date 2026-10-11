@@ -1,0 +1,31 @@
+{
+  "slug": "viking-vs-bayern-munich-1635742",
+  "fixtureId": 1635742,
+  "kickoff": "2026-10-13T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 759,
+    "en": "Viking"
+  },
+  "away": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "observedAt": "2026-10-03T00:49:48.478Z",
+  "probs": {
+    "home": 0.04879512048795121,
+    "draw": 0.0865913408659134,
+    "away": 0.8646135386461354
+  },
+  "goalsAvg": {
+    "home": 0.938,
+    "away": 3.767
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}

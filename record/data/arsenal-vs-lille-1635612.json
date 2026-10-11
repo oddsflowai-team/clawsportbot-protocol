@@ -1,0 +1,31 @@
+{
+  "slug": "arsenal-vs-lille-1635612",
+  "fixtureId": 1635612,
+  "kickoff": "2026-10-13T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "away": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "observedAt": "2026-10-03T00:58:48.014Z",
+  "probs": {
+    "home": 0.7432,
+    "draw": 0.1545,
+    "away": 0.1023
+  },
+  "goalsAvg": {
+    "home": 2.723,
+    "away": 0.949
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-11T22:10:06.742Z",
+  "updatedAt": "2026-10-11T22:10:06.742Z"
+}
