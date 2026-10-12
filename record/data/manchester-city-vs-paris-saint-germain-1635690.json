@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-city-vs-paris-saint-germain-1635690",
+  "fixtureId": 1635690,
+  "kickoff": "2026-10-14T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-10-04T01:30:40.840Z",
+  "probs": {
+    "home": 0.41825817418258177,
+    "draw": 0.22267773222677734,
+    "away": 0.3590640935906409
+  },
+  "goalsAvg": {
+    "home": 1.943,
+    "away": 1.794
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

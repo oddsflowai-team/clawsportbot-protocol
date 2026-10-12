@@ -1,0 +1,31 @@
+{
+  "slug": "real-betis-vs-fc-porto-1635635",
+  "fixtureId": 1635635,
+  "kickoff": "2026-10-14T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "away": {
+    "id": 212,
+    "en": "FC Porto"
+  },
+  "observedAt": "2026-10-04T01:21:42.575Z",
+  "probs": {
+    "home": 0.4463,
+    "draw": 0.2428,
+    "away": 0.3109
+  },
+  "goalsAvg": {
+    "home": 1.744,
+    "away": 1.427
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

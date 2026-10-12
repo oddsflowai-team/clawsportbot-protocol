@@ -1,0 +1,31 @@
+{
+  "slug": "lask-vs-liverpool-1635674",
+  "fixtureId": 1635674,
+  "kickoff": "2026-10-14T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 1026,
+    "en": "LASK"
+  },
+  "away": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "observedAt": "2026-10-04T01:15:56.352Z",
+  "probs": {
+    "home": 0.09410941094109411,
+    "draw": 0.1528152815281528,
+    "away": 0.753075307530753
+  },
+  "goalsAvg": {
+    "home": 0.879,
+    "away": 2.691
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

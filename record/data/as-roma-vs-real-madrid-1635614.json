@@ -1,0 +1,31 @@
+{
+  "slug": "as-roma-vs-real-madrid-1635614",
+  "fixtureId": 1635614,
+  "kickoff": "2026-10-14T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "away": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "observedAt": "2026-10-04T01:30:54.881Z",
+  "probs": {
+    "home": 0.2889,
+    "draw": 0.2164,
+    "away": 0.4947
+  },
+  "goalsAvg": {
+    "home": 1.607,
+    "away": 2.129
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

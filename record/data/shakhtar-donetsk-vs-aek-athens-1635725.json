@@ -1,0 +1,31 @@
+{
+  "slug": "shakhtar-donetsk-vs-aek-athens-1635725",
+  "fixtureId": 1635725,
+  "kickoff": "2026-10-14T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 550,
+    "en": "Shakhtar Donetsk"
+  },
+  "away": {
+    "id": 575,
+    "en": "AEK Athens"
+  },
+  "observedAt": "2026-10-04T01:35:06.454Z",
+  "probs": {
+    "home": 0.3552,
+    "draw": 0.2661,
+    "away": 0.3787
+  },
+  "goalsAvg": {
+    "home": 1.361,
+    "away": 1.412
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

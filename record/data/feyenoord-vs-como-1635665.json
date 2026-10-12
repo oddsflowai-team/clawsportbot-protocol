@@ -1,0 +1,31 @@
+{
+  "slug": "feyenoord-vs-como-1635665",
+  "fixtureId": 1635665,
+  "kickoff": "2026-10-14T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 209,
+    "en": "Feyenoord"
+  },
+  "away": {
+    "id": 895,
+    "en": "Como"
+  },
+  "observedAt": "2026-10-04T01:12:50.461Z",
+  "probs": {
+    "home": 0.2686,
+    "draw": 0.2128,
+    "away": 0.5186
+  },
+  "goalsAvg": {
+    "home": 1.556,
+    "away": 2.194
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "slovan-bratislava-vs-vfb-stuttgart-1635733",
+  "fixtureId": 1635733,
+  "kickoff": "2026-10-14T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 656,
+    "en": "Slovan Bratislava"
+  },
+  "away": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "observedAt": "2026-10-04T01:24:41.106Z",
+  "probs": {
+    "home": 0.1052,
+    "draw": 0.1601,
+    "away": 0.7347
+  },
+  "goalsAvg": {
+    "home": 0.93,
+    "away": 2.641
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}

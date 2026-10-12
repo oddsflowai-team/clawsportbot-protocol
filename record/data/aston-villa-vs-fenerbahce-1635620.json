@@ -1,0 +1,31 @@
+{
+  "slug": "aston-villa-vs-fenerbahce-1635620",
+  "fixtureId": 1635620,
+  "kickoff": "2026-10-14T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "away": {
+    "id": 611,
+    "en": "Fenerbahce"
+  },
+  "observedAt": "2026-10-04T01:19:11.941Z",
+  "probs": {
+    "home": 0.5596440355964404,
+    "draw": 0.21997800219978003,
+    "away": 0.22037796220377964
+  },
+  "goalsAvg": {
+    "home": 2.071,
+    "away": 1.243
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-12T22:10:06.641Z",
+  "updatedAt": "2026-10-12T22:10:06.641Z"
+}
