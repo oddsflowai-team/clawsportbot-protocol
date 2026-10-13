@@ -1,0 +1,31 @@
+{
+  "slug": "torreense-vs-sunderland-1636350",
+  "fixtureId": 1636350,
+  "kickoff": "2026-10-15T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 4799,
+    "en": "Torreense"
+  },
+  "away": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "observedAt": "2026-10-05T01:20:14.122Z",
+  "probs": {
+    "home": 0.1468853114688531,
+    "draw": 0.1837816218378162,
+    "away": 0.6693330666933307
+  },
+  "goalsAvg": {
+    "home": 1.088,
+    "away": 2.454
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}

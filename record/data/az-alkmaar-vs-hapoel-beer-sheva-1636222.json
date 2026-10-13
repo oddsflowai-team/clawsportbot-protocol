@@ -1,0 +1,31 @@
+{
+  "slug": "az-alkmaar-vs-hapoel-beer-sheva-1636222",
+  "fixtureId": 1636222,
+  "kickoff": "2026-10-15T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 201,
+    "en": "AZ Alkmaar"
+  },
+  "away": {
+    "id": 563,
+    "en": "Hapoel Beer Sheva"
+  },
+  "observedAt": "2026-10-05T01:11:43.430Z",
+  "probs": {
+    "home": 0.713,
+    "draw": 0.1619,
+    "away": 0.1251
+  },
+  "goalsAvg": {
+    "home": 2.738,
+    "away": 1.107
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}

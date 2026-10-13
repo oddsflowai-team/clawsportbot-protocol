@@ -1,0 +1,31 @@
+{
+  "slug": "celta-vigo-vs-juventus-1636243",
+  "fixtureId": 1636243,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "away": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "observedAt": "2026-10-05T01:57:47.326Z",
+  "probs": {
+    "home": 0.26307369263073693,
+    "draw": 0.2672732726727327,
+    "away": 0.46965303469653036
+  },
+  "goalsAvg": {
+    "home": 1.086,
+    "away": 1.532
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "bournemouth-vs-sturm-graz-1636236",
+  "fixtureId": 1636236,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "away": {
+    "id": 637,
+    "en": "Sturm Graz"
+  },
+  "observedAt": "2026-10-05T01:49:22.113Z",
+  "probs": {
+    "home": 0.7983,
+    "draw": 0.128,
+    "away": 0.0737
+  },
+  "goalsAvg": {
+    "home": 2.999,
+    "away": 0.861
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}

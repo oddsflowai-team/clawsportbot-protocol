@@ -1,0 +1,31 @@
+{
+  "slug": "sparta-prague-vs-lillestrom-1636338",
+  "fixtureId": 1636338,
+  "kickoff": "2026-10-15T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 628,
+    "en": "Sparta Prague"
+  },
+  "away": {
+    "id": 321,
+    "en": "Lillestrom"
+  },
+  "observedAt": "2026-10-05T01:16:40.194Z",
+  "probs": {
+    "home": 0.6895310468953104,
+    "draw": 0.17518248175182483,
+    "away": 0.13528647135286473
+  },
+  "goalsAvg": {
+    "home": 2.549,
+    "away": 1.071
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}

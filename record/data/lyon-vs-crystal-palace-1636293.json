@@ -1,0 +1,31 @@
+{
+  "slug": "lyon-vs-crystal-palace-1636293",
+  "fixtureId": 1636293,
+  "kickoff": "2026-10-15T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "away": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "observedAt": "2026-10-05T00:57:28.838Z",
+  "probs": {
+    "home": 0.4404,
+    "draw": 0.2384,
+    "away": 0.3212
+  },
+  "goalsAvg": {
+    "home": 1.785,
+    "away": 1.502
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "royale-union-saint-gilloise-vs-real-sociedad-1636328",
+  "fixtureId": 1636328,
+  "kickoff": "2026-10-15T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 1393,
+    "en": "Royale Union Saint-Gilloise"
+  },
+  "away": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "observedAt": "2026-10-05T01:02:37.575Z",
+  "probs": {
+    "home": 0.4195,
+    "draw": 0.2459,
+    "away": 0.3346
+  },
+  "goalsAvg": {
+    "home": 1.672,
+    "away": 1.475
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-13T22:10:05.744Z",
+  "updatedAt": "2026-10-13T22:10:05.744Z"
+}
