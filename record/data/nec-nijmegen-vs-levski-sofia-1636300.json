@@ -1,0 +1,31 @@
+{
+  "slug": "nec-nijmegen-vs-levski-sofia-1636300",
+  "fixtureId": 1636300,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 413,
+    "en": "NEC Nijmegen"
+  },
+  "away": {
+    "id": 646,
+    "en": "Levski Sofia"
+  },
+  "observedAt": "2026-10-05T02:13:48.248Z",
+  "probs": {
+    "home": 0.5163,
+    "draw": 0.249,
+    "away": 0.2347
+  },
+  "goalsAvg": {
+    "home": 1.728,
+    "away": 1.095
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T10:10:06.549Z",
+  "updatedAt": "2026-10-14T10:10:06.549Z"
+}

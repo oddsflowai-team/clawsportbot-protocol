@@ -1,0 +1,31 @@
+{
+  "slug": "rennes-vs-ofi-crete-1636326",
+  "fixtureId": 1636326,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 94,
+    "en": "Rennes"
+  },
+  "away": {
+    "id": 1124,
+    "en": "OFI Crete"
+  },
+  "observedAt": "2026-10-05T02:12:26.531Z",
+  "probs": {
+    "home": 0.7038,
+    "draw": 0.1697,
+    "away": 0.1265
+  },
+  "goalsAvg": {
+    "home": 2.601,
+    "away": 1.045
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T10:10:06.549Z",
+  "updatedAt": "2026-10-14T10:10:06.549Z"
+}

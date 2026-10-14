@@ -1,0 +1,31 @@
+{
+  "slug": "ferencvaros-vs-plzen-1636260",
+  "fixtureId": 1636260,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 651,
+    "en": "Ferencvaros"
+  },
+  "away": {
+    "id": 567,
+    "en": "Plzen"
+  },
+  "observedAt": "2026-10-05T01:53:57.001Z",
+  "probs": {
+    "home": 0.5054000000000001,
+    "draw": 0.23340000000000002,
+    "away": 0.26120000000000004
+  },
+  "goalsAvg": {
+    "home": 1.902,
+    "away": 1.321
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T10:10:06.549Z",
+  "updatedAt": "2026-10-14T10:10:06.549Z"
+}

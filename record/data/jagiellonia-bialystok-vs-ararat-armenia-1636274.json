@@ -1,0 +1,31 @@
+{
+  "slug": "jagiellonia-bialystok-vs-ararat-armenia-1636274",
+  "fixtureId": 1636274,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 336,
+    "en": "Jagiellonia Bialystok"
+  },
+  "away": {
+    "id": 3683,
+    "en": "Ararat-Armenia"
+  },
+  "observedAt": "2026-10-05T02:08:07.040Z",
+  "probs": {
+    "home": 0.6715671567156716,
+    "draw": 0.1891189118911891,
+    "away": 0.13931393139313933
+  },
+  "goalsAvg": {
+    "home": 2.341,
+    "away": 0.986
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T10:10:06.549Z",
+  "updatedAt": "2026-10-14T10:10:06.549Z"
+}

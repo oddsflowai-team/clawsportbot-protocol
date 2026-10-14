@@ -1,0 +1,31 @@
+{
+  "slug": "marseille-vs-olympiacos-piraeus-1636295",
+  "fixtureId": 1636295,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "away": {
+    "id": 553,
+    "en": "Olympiacos Piraeus"
+  },
+  "observedAt": "2026-10-05T02:02:07.898Z",
+  "probs": {
+    "home": 0.4474447444744475,
+    "draw": 0.23892389238923892,
+    "away": 0.3136313631363136
+  },
+  "goalsAvg": {
+    "home": 1.789,
+    "away": 1.472
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T10:10:06.549Z",
+  "updatedAt": "2026-10-14T10:10:06.549Z"
+}

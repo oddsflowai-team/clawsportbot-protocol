@@ -1,0 +1,31 @@
+{
+  "slug": "hoffenheim-vs-besiktas-1636268",
+  "fixtureId": 1636268,
+  "kickoff": "2026-10-15T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "away": {
+    "id": 549,
+    "en": "Besiktas"
+  },
+  "observedAt": "2026-10-05T02:06:21.924Z",
+  "probs": {
+    "home": 0.4864,
+    "draw": 0.2218,
+    "away": 0.2918
+  },
+  "goalsAvg": {
+    "home": 2.046,
+    "away": 1.561
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T10:10:06.549Z",
+  "updatedAt": "2026-10-14T10:10:06.549Z"
+}
