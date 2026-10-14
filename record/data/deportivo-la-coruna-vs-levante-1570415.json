@@ -1,0 +1,31 @@
+{
+  "slug": "deportivo-la-coruna-vs-levante-1570415",
+  "fixtureId": 1570415,
+  "kickoff": "2026-10-16T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 544,
+    "en": "Deportivo La Coruna"
+  },
+  "away": {
+    "id": 539,
+    "en": "Levante"
+  },
+  "observedAt": "2026-10-06T00:18:47.434Z",
+  "probs": {
+    "home": 0.4587,
+    "draw": 0.2669,
+    "away": 0.2744
+  },
+  "goalsAvg": {
+    "home": 1.526,
+    "away": 1.126
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T22:10:04.323Z",
+  "updatedAt": "2026-10-14T22:10:04.323Z"
+}

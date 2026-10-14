@@ -1,0 +1,31 @@
+{
+  "slug": "frosinone-vs-sassuolo-1550151",
+  "fixtureId": 1550151,
+  "kickoff": "2026-10-16T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "away": {
+    "id": 488,
+    "en": "Sassuolo"
+  },
+  "observedAt": "2026-10-06T00:13:52.018Z",
+  "probs": {
+    "home": 0.40605939406059394,
+    "draw": 0.22367763223677634,
+    "away": 0.3702629737026298
+  },
+  "goalsAvg": {
+    "home": 1.904,
+    "away": 1.814
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T22:10:04.323Z",
+  "updatedAt": "2026-10-14T22:10:04.323Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "le-mans-vs-toulouse-1552785",
+  "fixtureId": 1552785,
+  "kickoff": "2026-10-16T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 1298,
+    "en": "Le Mans"
+  },
+  "away": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "observedAt": "2026-10-06T00:14:58.578Z",
+  "probs": {
+    "home": 0.32556744325567444,
+    "draw": 0.24827517248275172,
+    "away": 0.42615738426157385
+  },
+  "goalsAvg": {
+    "home": 1.426,
+    "away": 1.659
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T22:10:04.323Z",
+  "updatedAt": "2026-10-14T22:10:04.323Z"
+}

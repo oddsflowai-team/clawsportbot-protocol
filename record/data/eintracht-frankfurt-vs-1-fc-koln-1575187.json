@@ -1,0 +1,31 @@
+{
+  "slug": "eintracht-frankfurt-vs-1-fc-koln-1575187",
+  "fixtureId": 1575187,
+  "kickoff": "2026-10-16T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "away": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "observedAt": "2026-10-06T00:08:45.660Z",
+  "probs": {
+    "home": 0.5053,
+    "draw": 0.2184,
+    "away": 0.2763
+  },
+  "goalsAvg": {
+    "home": 2.104,
+    "away": 1.53
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-14T22:10:04.323Z",
+  "updatedAt": "2026-10-14T22:10:04.323Z"
+}
