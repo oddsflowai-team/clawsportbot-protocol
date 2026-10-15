@@ -1,0 +1,31 @@
+{
+  "slug": "espanyol-vs-atletico-madrid-1570416",
+  "fixtureId": 1570416,
+  "kickoff": "2026-10-17T12:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 540,
+    "en": "Espanyol"
+  },
+  "away": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "observedAt": "2026-10-07T00:17:48.274Z",
+  "probs": {
+    "home": 0.2268,
+    "draw": 0.2492,
+    "away": 0.524
+  },
+  "goalsAvg": {
+    "home": 1.06,
+    "away": 1.725
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-city-vs-ipswich-town-1557433",
+  "fixtureId": 1557433,
+  "kickoff": "2026-10-17T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "away": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "observedAt": "2026-10-07T03:01:21.331Z",
+  "probs": {
+    "home": 0.7867000000000001,
+    "draw": 0.13750000000000004,
+    "away": 0.07580000000000002
+  },
+  "goalsAvg": {
+    "home": 2.819,
+    "away": 0.803
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "everton-vs-chelsea-1557430",
+  "fixtureId": 1557430,
+  "kickoff": "2026-10-17T11:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 45,
+    "en": "Everton"
+  },
+  "away": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "observedAt": "2026-10-07T00:17:48.269Z",
+  "probs": {
+    "home": 0.3159,
+    "draw": 0.2392,
+    "away": 0.4449
+  },
+  "goalsAvg": {
+    "home": 1.477,
+    "away": 1.782
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

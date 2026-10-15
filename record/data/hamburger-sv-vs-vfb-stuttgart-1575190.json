@@ -1,0 +1,31 @@
+{
+  "slug": "hamburger-sv-vs-vfb-stuttgart-1575190",
+  "fixtureId": 1575190,
+  "kickoff": "2026-10-17T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "away": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "observedAt": "2026-10-07T00:23:34.671Z",
+  "probs": {
+    "home": 0.2608,
+    "draw": 0.2152,
+    "away": 0.524
+  },
+  "goalsAvg": {
+    "home": 1.491,
+    "away": 2.155
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

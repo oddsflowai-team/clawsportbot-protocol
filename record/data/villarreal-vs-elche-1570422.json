@@ -1,0 +1,31 @@
+{
+  "slug": "villarreal-vs-elche-1570422",
+  "fixtureId": 1570422,
+  "kickoff": "2026-10-17T14:15:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "away": {
+    "id": 797,
+    "en": "Elche"
+  },
+  "observedAt": "2026-10-07T03:17:54.008Z",
+  "probs": {
+    "home": 0.6463,
+    "draw": 0.1893,
+    "away": 0.1644
+  },
+  "goalsAvg": {
+    "home": 2.425,
+    "away": 1.17
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

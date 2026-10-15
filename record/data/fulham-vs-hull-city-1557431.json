@@ -1,0 +1,31 @@
+{
+  "slug": "fulham-vs-hull-city-1557431",
+  "fixtureId": 1557431,
+  "kickoff": "2026-10-17T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "away": {
+    "id": 64,
+    "en": "Hull City"
+  },
+  "observedAt": "2026-10-07T03:07:34.915Z",
+  "probs": {
+    "home": 0.5731573157315731,
+    "draw": 0.2235223522352235,
+    "away": 0.2033203320332033
+  },
+  "goalsAvg": {
+    "home": 2.009,
+    "away": 1.126
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

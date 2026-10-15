@@ -1,0 +1,31 @@
+{
+  "slug": "venezia-vs-napoli-1550156",
+  "fixtureId": 1550156,
+  "kickoff": "2026-10-17T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 517,
+    "en": "Venezia"
+  },
+  "away": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "observedAt": "2026-10-07T00:22:38.030Z",
+  "probs": {
+    "home": 0.21687831216878314,
+    "draw": 0.2238776122387761,
+    "away": 0.5592440755924408
+  },
+  "goalsAvg": {
+    "home": 1.193,
+    "away": 2.016
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

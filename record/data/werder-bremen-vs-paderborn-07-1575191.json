@@ -1,0 +1,31 @@
+{
+  "slug": "werder-bremen-vs-paderborn-07-1575191",
+  "fixtureId": 1575191,
+  "kickoff": "2026-10-17T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "away": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "observedAt": "2026-10-07T00:27:30.680Z",
+  "probs": {
+    "home": 0.5359,
+    "draw": 0.2112,
+    "away": 0.2529
+  },
+  "goalsAvg": {
+    "home": 2.216,
+    "away": 1.495
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}

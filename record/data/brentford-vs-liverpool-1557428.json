@@ -1,0 +1,31 @@
+{
+  "slug": "brentford-vs-liverpool-1557428",
+  "fixtureId": 1557428,
+  "kickoff": "2026-10-17T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "away": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "observedAt": "2026-10-07T03:04:21.785Z",
+  "probs": {
+    "home": 0.3525,
+    "draw": 0.2224,
+    "away": 0.4251
+  },
+  "goalsAvg": {
+    "home": 1.777,
+    "away": 1.959
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-15T22:10:06.618Z",
+  "updatedAt": "2026-10-15T22:10:06.618Z"
+}
