@@ -1,0 +1,31 @@
+{
+  "slug": "angers-vs-marseille-1552783",
+  "fixtureId": 1552783,
+  "kickoff": "2026-10-18T13:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-10-08T00:40:38.372Z",
+  "probs": {
+    "home": 0.3153,
+    "draw": 0.2255,
+    "away": 0.4592
+  },
+  "goalsAvg": {
+    "home": 1.613,
+    "away": 1.969
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T22:10:06.673Z",
+  "updatedAt": "2026-10-16T22:10:06.673Z"
+}

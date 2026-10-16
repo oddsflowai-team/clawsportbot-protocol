@@ -1,0 +1,31 @@
+{
+  "slug": "fiorentina-vs-como-1550150",
+  "fixtureId": 1550150,
+  "kickoff": "2026-10-18T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 502,
+    "en": "Fiorentina"
+  },
+  "away": {
+    "id": 895,
+    "en": "Como"
+  },
+  "observedAt": "2026-10-08T00:38:45.169Z",
+  "probs": {
+    "home": 0.2939,
+    "draw": 0.2368,
+    "away": 0.4693
+  },
+  "goalsAvg": {
+    "home": 1.422,
+    "away": 1.839
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T22:10:06.673Z",
+  "updatedAt": "2026-10-16T22:10:06.673Z"
+}

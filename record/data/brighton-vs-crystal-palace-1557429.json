@@ -1,0 +1,31 @@
+{
+  "slug": "brighton-vs-crystal-palace-1557429",
+  "fixtureId": 1557429,
+  "kickoff": "2026-10-18T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 51,
+    "en": "Brighton"
+  },
+  "away": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "observedAt": "2026-10-08T00:38:02.095Z",
+  "probs": {
+    "home": 0.5777577757775777,
+    "draw": 0.20632063206320633,
+    "away": 0.21592159215921594
+  },
+  "goalsAvg": {
+    "home": 2.265,
+    "away": 1.344
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T22:10:06.673Z",
+  "updatedAt": "2026-10-16T22:10:06.673Z"
+}

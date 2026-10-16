@@ -1,0 +1,31 @@
+{
+  "slug": "lorient-vs-monaco-1552787",
+  "fixtureId": 1552787,
+  "kickoff": "2026-10-18T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 97,
+    "en": "Lorient"
+  },
+  "away": {
+    "id": 91,
+    "en": "Monaco"
+  },
+  "observedAt": "2026-10-08T00:46:40.746Z",
+  "probs": {
+    "home": 0.2876,
+    "draw": 0.2629,
+    "away": 0.4495
+  },
+  "goalsAvg": {
+    "home": 1.195,
+    "away": 1.551
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T22:10:06.673Z",
+  "updatedAt": "2026-10-16T22:10:06.673Z"
+}

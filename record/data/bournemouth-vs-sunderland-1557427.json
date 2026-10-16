@@ -1,0 +1,31 @@
+{
+  "slug": "bournemouth-vs-sunderland-1557427",
+  "fixtureId": 1557427,
+  "kickoff": "2026-10-18T13:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "away": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "observedAt": "2026-10-08T00:36:15.161Z",
+  "probs": {
+    "home": 0.4787,
+    "draw": 0.2577,
+    "away": 0.2636
+  },
+  "goalsAvg": {
+    "home": 1.625,
+    "away": 1.148
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T22:10:06.673Z",
+  "updatedAt": "2026-10-16T22:10:06.673Z"
+}

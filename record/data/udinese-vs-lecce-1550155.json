@@ -1,0 +1,31 @@
+{
+  "slug": "udinese-vs-lecce-1550155",
+  "fixtureId": 1550155,
+  "kickoff": "2026-10-18T10:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 494,
+    "en": "Udinese"
+  },
+  "away": {
+    "id": 867,
+    "en": "Lecce"
+  },
+  "observedAt": "2026-10-08T00:30:52.079Z",
+  "probs": {
+    "home": 0.5176,
+    "draw": 0.258,
+    "away": 0.2244
+  },
+  "goalsAvg": {
+    "home": 1.638,
+    "away": 0.998
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T22:10:06.673Z",
+  "updatedAt": "2026-10-16T22:10:06.673Z"
+}
