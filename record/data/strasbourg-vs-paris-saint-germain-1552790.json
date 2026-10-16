@@ -1,0 +1,31 @@
+{
+  "slug": "strasbourg-vs-paris-saint-germain-1552790",
+  "fixtureId": 1552790,
+  "kickoff": "2026-10-17T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 95,
+    "en": "Strasbourg"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-10-07T00:56:57.961Z",
+  "probs": {
+    "home": 0.14641464146414643,
+    "draw": 0.17431743174317432,
+    "away": 0.6792679267926793
+  },
+  "goalsAvg": {
+    "home": 1.174,
+    "away": 2.616
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T10:10:05.764Z",
+  "updatedAt": "2026-10-16T10:10:05.764Z"
+}

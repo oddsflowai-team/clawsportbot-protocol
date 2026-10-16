@@ -1,0 +1,31 @@
+{
+  "slug": "newcastle-united-vs-aston-villa-1557434",
+  "fixtureId": 1557434,
+  "kickoff": "2026-10-17T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "away": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "observedAt": "2026-10-07T01:07:15.229Z",
+  "probs": {
+    "home": 0.4736,
+    "draw": 0.2325,
+    "away": 0.2939
+  },
+  "goalsAvg": {
+    "home": 1.894,
+    "away": 1.461
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T10:10:05.764Z",
+  "updatedAt": "2026-10-16T10:10:05.764Z"
+}

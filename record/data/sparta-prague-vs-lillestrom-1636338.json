@@ -24,8 +24,13 @@
     "home": 2.549,
     "away": 1.071
   },
-  "status": "upcoming",
+  "status": "settled",
   "type": "match",
   "generatedAt": "2026-10-13T22:10:05.744Z",
-  "updatedAt": "2026-10-13T22:10:05.744Z"
+  "updatedAt": "2026-10-16T10:10:05.764Z",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "verdict": "miss"
+  }
 }

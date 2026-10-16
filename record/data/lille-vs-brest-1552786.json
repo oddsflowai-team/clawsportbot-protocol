@@ -1,0 +1,31 @@
+{
+  "slug": "lille-vs-brest-1552786",
+  "fixtureId": 1552786,
+  "kickoff": "2026-10-17T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "away": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "observedAt": "2026-10-07T01:17:44.748Z",
+  "probs": {
+    "home": 0.5872587258725873,
+    "draw": 0.21692169216921692,
+    "away": 0.19581958195819582
+  },
+  "goalsAvg": {
+    "home": 2.086,
+    "away": 1.136
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T10:10:05.764Z",
+  "updatedAt": "2026-10-16T10:10:05.764Z"
+}

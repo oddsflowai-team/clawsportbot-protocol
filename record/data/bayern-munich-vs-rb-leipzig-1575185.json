@@ -1,0 +1,31 @@
+{
+  "slug": "bayern-munich-vs-rb-leipzig-1575185",
+  "fixtureId": 1575185,
+  "kickoff": "2026-10-17T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "away": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "observedAt": "2026-10-07T01:03:16.475Z",
+  "probs": {
+    "home": 0.7808,
+    "draw": 0.1247,
+    "away": 0.0945
+  },
+  "goalsAvg": {
+    "home": 3.348,
+    "away": 1.196
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T10:10:05.764Z",
+  "updatedAt": "2026-10-16T10:10:05.764Z"
+}

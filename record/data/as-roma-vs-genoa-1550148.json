@@ -1,0 +1,31 @@
+{
+  "slug": "as-roma-vs-genoa-1550148",
+  "fixtureId": 1550148,
+  "kickoff": "2026-10-17T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "away": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "observedAt": "2026-10-07T01:14:20.245Z",
+  "probs": {
+    "home": 0.73,
+    "draw": 0.1681,
+    "away": 0.1019
+  },
+  "goalsAvg": {
+    "home": 2.483,
+    "away": 0.835
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-16T10:10:05.764Z",
+  "updatedAt": "2026-10-16T10:10:05.764Z"
+}
