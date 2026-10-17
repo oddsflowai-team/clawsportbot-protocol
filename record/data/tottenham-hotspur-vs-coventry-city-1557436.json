@@ -1,0 +1,31 @@
+{
+  "slug": "tottenham-hotspur-vs-coventry-city-1557436",
+  "fixtureId": 1557436,
+  "kickoff": "2026-10-19T19:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 47,
+    "en": "Tottenham Hotspur"
+  },
+  "away": {
+    "id": 1346,
+    "en": "Coventry City"
+  },
+  "observedAt": "2026-10-09T03:54:26.076Z",
+  "probs": {
+    "home": 0.6479,
+    "draw": 0.1871,
+    "away": 0.165
+  },
+  "goalsAvg": {
+    "home": 2.464,
+    "away": 1.195
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T22:10:05.968Z",
+  "updatedAt": "2026-10-17T22:10:05.968Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "parma-vs-torino-1550154",
+  "fixtureId": 1550154,
+  "kickoff": "2026-10-19T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "away": {
+    "id": 503,
+    "en": "Torino"
+  },
+  "observedAt": "2026-10-09T03:52:07.118Z",
+  "probs": {
+    "home": 0.33990000000000004,
+    "draw": 0.26180000000000003,
+    "away": 0.39830000000000004
+  },
+  "goalsAvg": {
+    "home": 1.356,
+    "away": 1.486
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T22:10:05.968Z",
+  "updatedAt": "2026-10-17T22:10:05.968Z"
+}

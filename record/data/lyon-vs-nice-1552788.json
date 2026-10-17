@@ -1,0 +1,31 @@
+{
+  "slug": "lyon-vs-nice-1552788",
+  "fixtureId": 1552788,
+  "kickoff": "2026-10-18T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "away": {
+    "id": 84,
+    "en": "Nice"
+  },
+  "observedAt": "2026-10-08T00:58:40.978Z",
+  "probs": {
+    "home": 0.5796,
+    "draw": 0.2174,
+    "away": 0.203
+  },
+  "goalsAvg": {
+    "home": 2.089,
+    "away": 1.172
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T22:10:05.968Z",
+  "updatedAt": "2026-10-17T22:10:05.968Z"
+}
