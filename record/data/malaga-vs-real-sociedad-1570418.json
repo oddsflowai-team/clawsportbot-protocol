@@ -1,0 +1,31 @@
+{
+  "slug": "malaga-vs-real-sociedad-1570418",
+  "fixtureId": 1570418,
+  "kickoff": "2026-10-18T16:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 535,
+    "en": "Malaga"
+  },
+  "away": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "observedAt": "2026-10-08T00:55:15.907Z",
+  "probs": {
+    "home": 0.31536846315368466,
+    "draw": 0.24927507249275072,
+    "away": 0.4353564643535647
+  },
+  "goalsAvg": {
+    "home": 1.387,
+    "away": 1.662
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T10:10:06.524Z",
+  "updatedAt": "2026-10-17T10:10:06.524Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "nottingham-forest-vs-arsenal-1557435",
+  "fixtureId": 1557435,
+  "kickoff": "2026-10-18T15:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "away": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "observedAt": "2026-10-08T00:52:06.594Z",
+  "probs": {
+    "home": 0.1574,
+    "draw": 0.2339,
+    "away": 0.6087
+  },
+  "goalsAvg": {
+    "home": 0.819,
+    "away": 1.833
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T10:10:06.524Z",
+  "updatedAt": "2026-10-17T10:10:06.524Z"
+}

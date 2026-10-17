@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-monchengladbach-vs-hoffenheim-1575189",
+  "fixtureId": 1575189,
+  "kickoff": "2026-10-18T15:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 163,
+    "en": "Borussia Mönchengladbach"
+  },
+  "away": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "observedAt": "2026-10-08T00:50:12.433Z",
+  "probs": {
+    "home": 0.2879,
+    "draw": 0.2227,
+    "away": 0.4894
+  },
+  "goalsAvg": {
+    "home": 1.535,
+    "away": 2.035
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T10:10:06.524Z",
+  "updatedAt": "2026-10-17T10:10:06.524Z"
+}

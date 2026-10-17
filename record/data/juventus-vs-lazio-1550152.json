@@ -1,0 +1,31 @@
+{
+  "slug": "juventus-vs-lazio-1550152",
+  "fixtureId": 1550152,
+  "kickoff": "2026-10-18T18:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "away": {
+    "id": 487,
+    "en": "Lazio"
+  },
+  "observedAt": "2026-10-08T01:00:46.988Z",
+  "probs": {
+    "home": 0.5847,
+    "draw": 0.2436,
+    "away": 0.1717
+  },
+  "goalsAvg": {
+    "home": 1.755,
+    "away": 0.843
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T10:10:06.524Z",
+  "updatedAt": "2026-10-17T10:10:06.524Z"
+}

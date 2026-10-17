@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-sevilla-1570420",
+  "fixtureId": 1570420,
+  "kickoff": "2026-10-18T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 536,
+    "en": "Sevilla"
+  },
+  "observedAt": "2026-10-08T01:01:13.934Z",
+  "probs": {
+    "home": 0.7618,
+    "draw": 0.1495,
+    "away": 0.0887
+  },
+  "goalsAvg": {
+    "home": 2.709,
+    "away": 0.849
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-17T10:10:06.524Z",
+  "updatedAt": "2026-10-17T10:10:06.524Z"
+}

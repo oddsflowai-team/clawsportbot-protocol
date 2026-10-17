@@ -218,10 +218,10 @@ jagiellonia-bialystok-vs-ararat-armenia-1636274,UEFA Europa League,2026-10-15T19
 marseille-vs-olympiacos-piraeus-1636295,UEFA Europa League,2026-10-15T19:00:00.000Z,Marseille,Olympiacos Piraeus,0.4474447444744475,0.23892389238923892,0.3136313631363136,2026-10-14T10:10:06.549Z,settled,0,1,miss,2026-10-16T10:10:05.764Z
 nec-nijmegen-vs-levski-sofia-1636300,UEFA Europa League,2026-10-15T19:00:00.000Z,NEC Nijmegen,Levski Sofia,0.5163,0.249,0.2347,2026-10-14T10:10:06.549Z,settled,1,1,miss,2026-10-16T10:10:05.764Z
 rennes-vs-ofi-crete-1636326,UEFA Europa League,2026-10-15T19:00:00.000Z,Rennes,OFI Crete,0.7038,0.1697,0.1265,2026-10-14T10:10:06.549Z,settled,2,1,hit,2026-10-16T10:10:05.764Z
-eintracht-frankfurt-vs-1-fc-koln-1575187,Bundesliga,2026-10-16T18:30:00.000Z,Eintracht Frankfurt,1. FC Köln,0.5053,0.2184,0.2763,2026-10-14T22:10:04.323Z,upcoming,,,,
-frosinone-vs-sassuolo-1550151,Serie A,2026-10-16T18:45:00.000Z,Frosinone,Sassuolo,0.40605939406059394,0.22367763223677634,0.3702629737026298,2026-10-14T22:10:04.323Z,upcoming,,,,
-le-mans-vs-toulouse-1552785,Ligue 1,2026-10-16T18:45:00.000Z,Le Mans,Toulouse,0.32556744325567444,0.24827517248275172,0.42615738426157385,2026-10-14T22:10:04.323Z,upcoming,,,,
-deportivo-la-coruna-vs-levante-1570415,La Liga,2026-10-16T19:00:00.000Z,Deportivo La Coruna,Levante,0.4587,0.2669,0.2744,2026-10-14T22:10:04.323Z,upcoming,,,,
+eintracht-frankfurt-vs-1-fc-koln-1575187,Bundesliga,2026-10-16T18:30:00.000Z,Eintracht Frankfurt,1. FC Köln,0.5053,0.2184,0.2763,2026-10-14T22:10:04.323Z,settled,1,0,hit,2026-10-17T10:10:06.524Z
+frosinone-vs-sassuolo-1550151,Serie A,2026-10-16T18:45:00.000Z,Frosinone,Sassuolo,0.40605939406059394,0.22367763223677634,0.3702629737026298,2026-10-14T22:10:04.323Z,settled,4,2,hit,2026-10-17T10:10:06.524Z
+le-mans-vs-toulouse-1552785,Ligue 1,2026-10-16T18:45:00.000Z,Le Mans,Toulouse,0.32556744325567444,0.24827517248275172,0.42615738426157385,2026-10-14T22:10:04.323Z,settled,0,3,hit,2026-10-17T10:10:06.524Z
+deportivo-la-coruna-vs-levante-1570415,La Liga,2026-10-16T19:00:00.000Z,Deportivo La Coruna,Levante,0.4587,0.2669,0.2744,2026-10-14T22:10:04.323Z,settled,1,1,miss,2026-10-17T10:10:06.524Z
 everton-vs-chelsea-1557430,Premier League,2026-10-17T11:30:00.000Z,Everton,Chelsea,0.3159,0.2392,0.4449,2026-10-15T22:10:06.618Z,upcoming,,,,
 espanyol-vs-atletico-madrid-1570416,La Liga,2026-10-17T12:00:00.000Z,Espanyol,Atletico Madrid,0.2268,0.2492,0.524,2026-10-15T22:10:06.618Z,upcoming,,,,
 venezia-vs-napoli-1550156,Serie A,2026-10-17T13:00:00.000Z,Venezia,Napoli,0.21687831216878314,0.2238776122387761,0.5592440755924408,2026-10-15T22:10:06.618Z,upcoming,,,,
@@ -255,3 +255,9 @@ celta-vigo-vs-alaves-1570414,La Liga,2026-10-18T14:15:00.000Z,Celta Vigo,Alaves,
 le-havre-vs-auxerre-1552784,Ligue 1,2026-10-18T15:15:00.000Z,Le Havre,Auxerre,0.3948,0.2687,0.3365,2026-10-16T22:10:06.673Z,upcoming,,,,
 lorient-vs-monaco-1552787,Ligue 1,2026-10-18T15:15:00.000Z,Lorient,Monaco,0.2876,0.2629,0.4495,2026-10-16T22:10:06.673Z,upcoming,,,,
 paris-fc-vs-rennes-1552789,Ligue 1,2026-10-18T15:15:00.000Z,Paris FC,Rennes,0.4235,0.2399,0.3366,2026-10-16T22:10:06.673Z,upcoming,,,,
+borussia-monchengladbach-vs-hoffenheim-1575189,Bundesliga,2026-10-18T15:30:00.000Z,Borussia Mönchengladbach,Hoffenheim,0.2879,0.2227,0.4894,2026-10-17T10:10:06.524Z,upcoming,,,,
+nottingham-forest-vs-arsenal-1557435,Premier League,2026-10-18T15:30:00.000Z,Nottingham Forest,Arsenal,0.1574,0.2339,0.6087,2026-10-17T10:10:06.524Z,upcoming,,,,
+ac-milan-vs-atalanta-1550147,Serie A,2026-10-18T16:00:00.000Z,AC Milan,Atalanta,0.5176,0.2388,0.2436,2026-10-17T10:10:06.524Z,upcoming,,,,
+malaga-vs-real-sociedad-1570418,La Liga,2026-10-18T16:30:00.000Z,Malaga,Real Sociedad,0.31536846315368466,0.24927507249275072,0.4353564643535647,2026-10-17T10:10:06.524Z,upcoming,,,,
+juventus-vs-lazio-1550152,Serie A,2026-10-18T18:45:00.000Z,Juventus,Lazio,0.5847,0.2436,0.1717,2026-10-17T10:10:06.524Z,upcoming,,,,
+real-madrid-vs-sevilla-1570420,La Liga,2026-10-18T19:00:00.000Z,Real Madrid,Sevilla,0.7618,0.1495,0.0887,2026-10-17T10:10:06.524Z,upcoming,,,,
