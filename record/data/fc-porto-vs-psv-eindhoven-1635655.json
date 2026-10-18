@@ -1,0 +1,31 @@
+{
+  "slug": "fc-porto-vs-psv-eindhoven-1635655",
+  "fixtureId": 1635655,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 212,
+    "en": "FC Porto"
+  },
+  "away": {
+    "id": 197,
+    "en": "PSV Eindhoven"
+  },
+  "observedAt": "2026-10-15T00:31:28.194Z",
+  "probs": {
+    "home": 0.5472,
+    "draw": 0.2104,
+    "away": 0.2424
+  },
+  "goalsAvg": {
+    "home": 2.224,
+    "away": 1.448
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

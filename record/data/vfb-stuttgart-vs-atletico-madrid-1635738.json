@@ -1,0 +1,31 @@
+{
+  "slug": "vfb-stuttgart-vs-atletico-madrid-1635738",
+  "fixtureId": 1635738,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "away": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "observedAt": "2026-10-15T00:36:34.753Z",
+  "probs": {
+    "home": 0.3483,
+    "draw": 0.2212,
+    "away": 0.4305
+  },
+  "goalsAvg": {
+    "home": 1.778,
+    "away": 1.985
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

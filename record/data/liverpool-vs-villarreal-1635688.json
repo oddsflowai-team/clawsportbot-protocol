@@ -1,0 +1,31 @@
+{
+  "slug": "liverpool-vs-villarreal-1635688",
+  "fixtureId": 1635688,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "away": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "observedAt": "2026-10-15T00:33:54.139Z",
+  "probs": {
+    "home": 0.6304000000000001,
+    "draw": 0.18880000000000002,
+    "away": 0.18080000000000002
+  },
+  "goalsAvg": {
+    "home": 2.482,
+    "away": 1.293
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

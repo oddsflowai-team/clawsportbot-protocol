@@ -1,0 +1,31 @@
+{
+  "slug": "napoli-vs-bodo-glimt-1635700",
+  "fixtureId": 1635700,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "away": {
+    "id": 327,
+    "en": "Bodo/Glimt"
+  },
+  "observedAt": "2026-10-15T00:39:10.096Z",
+  "probs": {
+    "home": 0.6028,
+    "draw": 0.2013,
+    "away": 0.1959
+  },
+  "goalsAvg": {
+    "home": 2.312,
+    "away": 1.271
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "as-roma-vs-slovan-bratislava-1635617",
+  "fixtureId": 1635617,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "away": {
+    "id": 656,
+    "en": "Slovan Bratislava"
+  },
+  "observedAt": "2026-10-15T00:31:24.470Z",
+  "probs": {
+    "home": 0.8479,
+    "draw": 0.1014,
+    "away": 0.0507
+  },
+  "goalsAvg": {
+    "home": 3.314,
+    "away": 0.779
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

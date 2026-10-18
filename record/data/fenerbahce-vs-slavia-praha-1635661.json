@@ -1,0 +1,31 @@
+{
+  "slug": "fenerbahce-vs-slavia-praha-1635661",
+  "fixtureId": 1635661,
+  "kickoff": "2026-10-20T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 611,
+    "en": "Fenerbahce"
+  },
+  "away": {
+    "id": 560,
+    "en": "Slavia Praha"
+  },
+  "observedAt": "2026-10-15T00:28:51.970Z",
+  "probs": {
+    "home": 0.5817,
+    "draw": 0.2165,
+    "away": 0.2018
+  },
+  "goalsAvg": {
+    "home": 2.1,
+    "away": 1.173
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

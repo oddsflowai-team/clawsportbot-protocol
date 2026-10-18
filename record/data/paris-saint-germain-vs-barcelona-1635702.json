@@ -1,0 +1,31 @@
+{
+  "slug": "paris-saint-germain-vs-barcelona-1635702",
+  "fixtureId": 1635702,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "away": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "observedAt": "2026-10-15T00:34:35.311Z",
+  "probs": {
+    "home": 0.3982601739826017,
+    "draw": 0.20767923207679231,
+    "away": 0.39406059394060594
+  },
+  "goalsAvg": {
+    "home": 2.114,
+    "away": 2.103
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}

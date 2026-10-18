@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-city-vs-aek-athens-1635693",
+  "fixtureId": 1635693,
+  "kickoff": "2026-10-20T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "away": {
+    "id": 575,
+    "en": "AEK Athens"
+  },
+  "observedAt": "2026-10-15T00:36:57.752Z",
+  "probs": {
+    "home": 0.8969,
+    "draw": 0.075,
+    "away": 0.0281
+  },
+  "goalsAvg": {
+    "home": 3.546,
+    "away": 0.59
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-18T22:10:05.893Z",
+  "updatedAt": "2026-10-18T22:10:05.893Z"
+}
