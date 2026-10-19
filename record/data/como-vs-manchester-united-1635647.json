@@ -1,0 +1,31 @@
+{
+  "slug": "como-vs-manchester-united-1635647",
+  "fixtureId": 1635647,
+  "kickoff": "2026-10-21T16:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 895,
+    "en": "Como"
+  },
+  "away": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "observedAt": "2026-10-15T00:39:34.331Z",
+  "probs": {
+    "home": 0.4265,
+    "draw": 0.2379,
+    "away": 0.3356
+  },
+  "goalsAvg": {
+    "home": 1.77,
+    "away": 1.553
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}

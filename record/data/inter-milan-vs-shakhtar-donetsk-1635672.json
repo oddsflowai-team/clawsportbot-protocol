@@ -1,0 +1,31 @@
+{
+  "slug": "inter-milan-vs-shakhtar-donetsk-1635672",
+  "fixtureId": 1635672,
+  "kickoff": "2026-10-21T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "away": {
+    "id": 550,
+    "en": "Shakhtar Donetsk"
+  },
+  "observedAt": "2026-10-15T00:49:12.749Z",
+  "probs": {
+    "home": 0.7968000000000001,
+    "draw": 0.13130000000000003,
+    "away": 0.07190000000000002
+  },
+  "goalsAvg": {
+    "home": 2.904,
+    "away": 0.807
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}

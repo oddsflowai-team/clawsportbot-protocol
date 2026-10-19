@@ -1,0 +1,31 @@
+{
+  "slug": "bayern-munich-vs-arsenal-1635630",
+  "fixtureId": 1635630,
+  "kickoff": "2026-10-21T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "away": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "observedAt": "2026-10-15T00:47:27.261Z",
+  "probs": {
+    "home": 0.4476,
+    "draw": 0.2283,
+    "away": 0.3241
+  },
+  "goalsAvg": {
+    "home": 1.918,
+    "away": 1.615
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}

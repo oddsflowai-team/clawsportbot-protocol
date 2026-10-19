@@ -1,0 +1,31 @@
+{
+  "slug": "real-betis-vs-feyenoord-1635636",
+  "fixtureId": 1635636,
+  "kickoff": "2026-10-21T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "away": {
+    "id": 209,
+    "en": "Feyenoord"
+  },
+  "observedAt": "2026-10-15T00:44:10.030Z",
+  "probs": {
+    "home": 0.632,
+    "draw": 0.193,
+    "away": 0.175
+  },
+  "goalsAvg": {
+    "home": 2.397,
+    "away": 1.212
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}

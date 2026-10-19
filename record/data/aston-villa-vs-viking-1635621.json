@@ -1,0 +1,31 @@
+{
+  "slug": "aston-villa-vs-viking-1635621",
+  "fixtureId": 1635621,
+  "kickoff": "2026-10-21T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "away": {
+    "id": 759,
+    "en": "Viking"
+  },
+  "observedAt": "2026-10-15T00:42:15.570Z",
+  "probs": {
+    "home": 0.7864,
+    "draw": 0.1359,
+    "away": 0.0777
+  },
+  "goalsAvg": {
+    "home": 2.872,
+    "away": 0.839
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}

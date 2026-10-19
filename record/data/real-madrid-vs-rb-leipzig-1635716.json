@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-rb-leipzig-1635716",
+  "fixtureId": 1635716,
+  "kickoff": "2026-10-21T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "observedAt": "2026-10-15T00:50:06.718Z",
+  "probs": {
+    "home": 0.7435256474352565,
+    "draw": 0.14378562143785623,
+    "away": 0.1126887311268873
+  },
+  "goalsAvg": {
+    "home": 3.04,
+    "away": 1.179
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}

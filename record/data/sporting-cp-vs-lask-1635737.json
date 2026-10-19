@@ -1,0 +1,31 @@
+{
+  "slug": "sporting-cp-vs-lask-1635737",
+  "fixtureId": 1635737,
+  "kickoff": "2026-10-21T19:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 228,
+    "en": "Sporting CP"
+  },
+  "away": {
+    "id": 1026,
+    "en": "LASK"
+  },
+  "observedAt": "2026-10-15T00:46:30.583Z",
+  "probs": {
+    "home": 0.7462,
+    "draw": 0.1539,
+    "away": 0.0999
+  },
+  "goalsAvg": {
+    "home": 2.717,
+    "away": 0.93
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-19T22:10:06.538Z",
+  "updatedAt": "2026-10-19T22:10:06.538Z"
+}
