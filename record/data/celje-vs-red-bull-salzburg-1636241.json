@@ -1,0 +1,31 @@
+{
+  "slug": "celje-vs-red-bull-salzburg-1636241",
+  "fixtureId": 1636241,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 4360,
+    "en": "Celje"
+  },
+  "away": {
+    "id": 571,
+    "en": "Red Bull Salzburg"
+  },
+  "observedAt": "2026-10-16T10:58:49.804Z",
+  "probs": {
+    "home": 0.2478,
+    "draw": 0.2332,
+    "away": 0.519
+  },
+  "goalsAvg": {
+    "home": 1.265,
+    "away": 1.907
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

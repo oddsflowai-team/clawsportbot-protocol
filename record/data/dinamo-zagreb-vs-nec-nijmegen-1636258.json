@@ -1,0 +1,31 @@
+{
+  "slug": "dinamo-zagreb-vs-nec-nijmegen-1636258",
+  "fixtureId": 1636258,
+  "kickoff": "2026-10-22T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 620,
+    "en": "Dinamo Zagreb"
+  },
+  "away": {
+    "id": 413,
+    "en": "NEC Nijmegen"
+  },
+  "observedAt": "2026-10-16T10:40:00.511Z",
+  "probs": {
+    "home": 0.5563556355635564,
+    "draw": 0.2055205520552055,
+    "away": 0.23812381238123811
+  },
+  "goalsAvg": {
+    "home": 2.3,
+    "away": 1.478
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

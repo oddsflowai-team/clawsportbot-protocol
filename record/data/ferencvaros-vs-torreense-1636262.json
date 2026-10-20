@@ -1,0 +1,31 @@
+{
+  "slug": "ferencvaros-vs-torreense-1636262",
+  "fixtureId": 1636262,
+  "kickoff": "2026-10-22T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 651,
+    "en": "Ferencvaros"
+  },
+  "away": {
+    "id": 4799,
+    "en": "Torreense"
+  },
+  "observedAt": "2026-10-16T10:42:01.056Z",
+  "probs": {
+    "home": 0.6886,
+    "draw": 0.1768,
+    "away": 0.1346
+  },
+  "goalsAvg": {
+    "home": 2.518,
+    "away": 1.051
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

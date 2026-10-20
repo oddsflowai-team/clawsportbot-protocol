@@ -1,0 +1,31 @@
+{
+  "slug": "sturm-graz-vs-marseille-1636340",
+  "fixtureId": 1636340,
+  "kickoff": "2026-10-22T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 637,
+    "en": "Sturm Graz"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-10-16T10:45:14.344Z",
+  "probs": {
+    "home": 0.2882,
+    "draw": 0.239,
+    "away": 0.4728
+  },
+  "goalsAvg": {
+    "home": 1.381,
+    "away": 1.816
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

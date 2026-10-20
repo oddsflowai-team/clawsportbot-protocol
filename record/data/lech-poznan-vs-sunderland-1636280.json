@@ -1,0 +1,31 @@
+{
+  "slug": "lech-poznan-vs-sunderland-1636280",
+  "fixtureId": 1636280,
+  "kickoff": "2026-10-22T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 347,
+    "en": "Lech Poznan"
+  },
+  "away": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "observedAt": "2026-10-16T10:42:35.683Z",
+  "probs": {
+    "home": 0.1785,
+    "draw": 0.2327,
+    "away": 0.5888
+  },
+  "goalsAvg": {
+    "home": 0.936,
+    "away": 1.875
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

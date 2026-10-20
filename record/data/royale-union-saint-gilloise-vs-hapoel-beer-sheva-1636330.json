@@ -1,0 +1,31 @@
+{
+  "slug": "royale-union-saint-gilloise-vs-hapoel-beer-sheva-1636330",
+  "fixtureId": 1636330,
+  "kickoff": "2026-10-22T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 1393,
+    "en": "Royale Union Saint-Gilloise"
+  },
+  "away": {
+    "id": 563,
+    "en": "Hapoel Beer Sheva"
+  },
+  "observedAt": "2026-10-16T10:44:41.636Z",
+  "probs": {
+    "home": 0.7163283671632837,
+    "draw": 0.1673832616738326,
+    "away": 0.11628837116288371
+  },
+  "goalsAvg": {
+    "home": 2.583,
+    "away": 0.973
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

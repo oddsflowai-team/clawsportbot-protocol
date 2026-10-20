@@ -1,0 +1,31 @@
+{
+  "slug": "ararat-armenia-vs-az-alkmaar-1636215",
+  "fixtureId": 1636215,
+  "kickoff": "2026-10-22T16:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 3683,
+    "en": "Ararat-Armenia"
+  },
+  "away": {
+    "id": 201,
+    "en": "AZ Alkmaar"
+  },
+  "observedAt": "2026-10-16T10:39:30.017Z",
+  "probs": {
+    "home": 0.1791,
+    "draw": 0.1915,
+    "away": 0.6294
+  },
+  "goalsAvg": {
+    "home": 1.254,
+    "away": 2.431
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}

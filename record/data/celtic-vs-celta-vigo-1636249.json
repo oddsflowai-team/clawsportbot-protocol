@@ -1,0 +1,31 @@
+{
+  "slug": "celtic-vs-celta-vigo-1636249",
+  "fixtureId": 1636249,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 247,
+    "en": "Celtic"
+  },
+  "away": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "observedAt": "2026-10-16T10:47:47.490Z",
+  "probs": {
+    "home": 0.3264673532646735,
+    "draw": 0.26287371262873716,
+    "away": 0.4106589341065894
+  },
+  "goalsAvg": {
+    "home": 1.312,
+    "away": 1.498
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-20T22:10:04.430Z",
+  "updatedAt": "2026-10-20T22:10:04.430Z"
+}
