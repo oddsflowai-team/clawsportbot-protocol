@@ -263,9 +263,9 @@ juventus-vs-lazio-1550152,Serie A,2026-10-18T18:45:00.000Z,Juventus,Lazio,0.5847
 lyon-vs-nice-1552788,Ligue 1,2026-10-18T18:45:00.000Z,Lyon,Nice,0.5796,0.2174,0.203,2026-10-17T22:10:05.968Z,settled,2,1,hit,2026-10-18T22:10:05.893Z
 real-madrid-vs-sevilla-1570420,La Liga,2026-10-18T19:00:00.000Z,Real Madrid,Sevilla,0.7618,0.1495,0.0887,2026-10-17T10:10:06.524Z,settled,4,1,hit,2026-10-19T01:10:06.902Z
 monza-vs-cagliari-1550153,Serie A,2026-10-19T16:30:00.000Z,Monza,Cagliari,0.4361436143614361,0.2601260126012601,0.30373037303730377,2026-10-17T22:10:05.968Z,settled,4,0,hit,2026-10-19T22:10:06.538Z
-parma-vs-torino-1550154,Serie A,2026-10-19T18:45:00.000Z,Parma,Torino,0.33990000000000004,0.26180000000000003,0.39830000000000004,2026-10-17T22:10:05.968Z,upcoming,,,,
-getafe-vs-rayo-vallecano-1570417,La Liga,2026-10-19T19:00:00.000Z,Getafe,Rayo Vallecano,0.345,0.2671,0.3879,2026-10-17T22:10:05.968Z,upcoming,,,,
-tottenham-hotspur-vs-coventry-city-1557436,Premier League,2026-10-19T19:00:00.000Z,Tottenham Hotspur,Coventry City,0.6479,0.1871,0.165,2026-10-17T22:10:05.968Z,upcoming,,,,
+parma-vs-torino-1550154,Serie A,2026-10-19T18:45:00.000Z,Parma,Torino,0.33990000000000004,0.26180000000000003,0.39830000000000004,2026-10-17T22:10:05.968Z,settled,0,3,hit,2026-10-20T10:10:07.012Z
+getafe-vs-rayo-vallecano-1570417,La Liga,2026-10-19T19:00:00.000Z,Getafe,Rayo Vallecano,0.345,0.2671,0.3879,2026-10-17T22:10:05.968Z,settled,1,1,miss,2026-10-20T10:10:07.012Z
+tottenham-hotspur-vs-coventry-city-1557436,Premier League,2026-10-19T19:00:00.000Z,Tottenham Hotspur,Coventry City,0.6479,0.1871,0.165,2026-10-17T22:10:05.968Z,settled,3,1,hit,2026-10-20T10:10:07.012Z
 fenerbahce-vs-slavia-praha-1635661,UEFA Champions League,2026-10-20T16:45:00.000Z,Fenerbahce,Slavia Praha,0.5817,0.2165,0.2018,2026-10-18T22:10:05.893Z,upcoming,,,,
 sabah-fa-vs-borussia-dortmund-1635719,UEFA Champions League,2026-10-20T16:45:00.000Z,Sabah FA,Borussia Dortmund,0.1292,0.1687,0.7021,2026-10-18T22:10:05.893Z,upcoming,,,,
 as-roma-vs-slovan-bratislava-1635617,UEFA Champions League,2026-10-20T19:00:00.000Z,AS Roma,Slovan Bratislava,0.8479,0.1014,0.0507,2026-10-18T22:10:05.893Z,upcoming,,,,
