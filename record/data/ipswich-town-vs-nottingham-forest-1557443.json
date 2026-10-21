@@ -1,0 +1,31 @@
+{
+  "slug": "ipswich-town-vs-nottingham-forest-1557443",
+  "fixtureId": 1557443,
+  "kickoff": "2026-10-23T19:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "away": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "observedAt": "2026-10-13T00:40:36.321Z",
+  "probs": {
+    "home": 0.3462,
+    "draw": 0.25,
+    "away": 0.4038
+  },
+  "goalsAvg": {
+    "home": 1.471,
+    "away": 1.603
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "omonia-nicosia-vs-benfica-1636311",
+  "fixtureId": 1636311,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 3402,
+    "en": "Omonia Nicosia"
+  },
+  "away": {
+    "id": 211,
+    "en": "Benfica"
+  },
+  "observedAt": "2026-10-16T10:50:31.879Z",
+  "probs": {
+    "home": 0.1552,
+    "draw": 0.1983,
+    "away": 0.6465
+  },
+  "goalsAvg": {
+    "home": 1.029,
+    "away": 2.259
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}

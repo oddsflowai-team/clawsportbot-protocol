@@ -1,0 +1,31 @@
+{
+  "slug": "hoffenheim-vs-lyon-1636267",
+  "fixtureId": 1636267,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-10-16T10:55:57.492Z",
+  "probs": {
+    "home": 0.481,
+    "draw": 0.2158,
+    "away": 0.3032
+  },
+  "goalsAvg": {
+    "home": 2.129,
+    "away": 1.676
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}

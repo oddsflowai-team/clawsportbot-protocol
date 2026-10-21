@@ -1,0 +1,31 @@
+{
+  "slug": "olympiacos-piraeus-vs-sparta-prague-1636308",
+  "fixtureId": 1636308,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 553,
+    "en": "Olympiacos Piraeus"
+  },
+  "away": {
+    "id": 628,
+    "en": "Sparta Prague"
+  },
+  "observedAt": "2026-10-16T10:57:39.741Z",
+  "probs": {
+    "home": 0.5923592359235924,
+    "draw": 0.2216221622162216,
+    "away": 0.186018601860186
+  },
+  "goalsAvg": {
+    "home": 2.013,
+    "away": 1.047
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}

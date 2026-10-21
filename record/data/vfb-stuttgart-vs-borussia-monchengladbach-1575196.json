@@ -1,0 +1,31 @@
+{
+  "slug": "vfb-stuttgart-vs-borussia-monchengladbach-1575196",
+  "fixtureId": 1575196,
+  "kickoff": "2026-10-23T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "away": {
+    "id": 163,
+    "en": "Borussia Mönchengladbach"
+  },
+  "observedAt": "2026-10-13T00:34:52.718Z",
+  "probs": {
+    "home": 0.6674,
+    "draw": 0.1688,
+    "away": 0.1638
+  },
+  "goalsAvg": {
+    "home": 2.804,
+    "away": 1.386
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}

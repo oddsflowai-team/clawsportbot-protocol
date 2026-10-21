@@ -1,0 +1,31 @@
+{
+  "slug": "plzen-vs-levski-sofia-1636318",
+  "fixtureId": 1636318,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 567,
+    "en": "Plzen"
+  },
+  "away": {
+    "id": 646,
+    "en": "Levski Sofia"
+  },
+  "observedAt": "2026-10-16T10:52:36.474Z",
+  "probs": {
+    "home": 0.5634,
+    "draw": 0.2249,
+    "away": 0.2117
+  },
+  "goalsAvg": {
+    "home": 2,
+    "away": 1.16
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}

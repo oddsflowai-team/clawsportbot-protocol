@@ -1,0 +1,31 @@
+{
+  "slug": "jagiellonia-bialystok-vs-anderlecht-1636273",
+  "fixtureId": 1636273,
+  "kickoff": "2026-10-22T19:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 336,
+    "en": "Jagiellonia Bialystok"
+  },
+  "away": {
+    "id": 554,
+    "en": "Anderlecht"
+  },
+  "observedAt": "2026-10-16T10:55:21.819Z",
+  "probs": {
+    "home": 0.3197680231976802,
+    "draw": 0.24667533246675333,
+    "away": 0.43355664433556645
+  },
+  "goalsAvg": {
+    "home": 1.423,
+    "away": 1.686
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-21T22:10:06.434Z",
+  "updatedAt": "2026-10-21T22:10:06.434Z"
+}
