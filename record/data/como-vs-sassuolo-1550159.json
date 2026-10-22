@@ -1,0 +1,31 @@
+{
+  "slug": "como-vs-sassuolo-1550159",
+  "fixtureId": 1550159,
+  "kickoff": "2026-10-24T13:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 895,
+    "en": "Como"
+  },
+  "away": {
+    "id": 488,
+    "en": "Sassuolo"
+  },
+  "observedAt": "2026-10-14T00:18:25.883Z",
+  "probs": {
+    "home": 0.6576,
+    "draw": 0.1814,
+    "away": 0.161
+  },
+  "goalsAvg": {
+    "home": 2.549,
+    "away": 1.221
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-22T22:10:08.138Z",
+  "updatedAt": "2026-10-22T22:10:08.138Z"
+}

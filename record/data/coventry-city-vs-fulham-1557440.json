@@ -1,0 +1,31 @@
+{
+  "slug": "coventry-city-vs-fulham-1557440",
+  "fixtureId": 1557440,
+  "kickoff": "2026-10-24T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 1346,
+    "en": "Coventry City"
+  },
+  "away": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "observedAt": "2026-10-14T00:33:04.554Z",
+  "probs": {
+    "home": 0.339,
+    "draw": 0.2461,
+    "away": 0.4149
+  },
+  "goalsAvg": {
+    "home": 1.485,
+    "away": 1.662
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-22T22:10:08.138Z",
+  "updatedAt": "2026-10-22T22:10:08.138Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "paderborn-07-vs-hamburger-sv-1575202",
+  "fixtureId": 1575202,
+  "kickoff": "2026-10-24T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "away": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "observedAt": "2026-10-14T00:23:28.448Z",
+  "probs": {
+    "home": 0.40415958404159585,
+    "draw": 0.22767723227677233,
+    "away": 0.36816318368163187
+  },
+  "goalsAvg": {
+    "home": 1.849,
+    "away": 1.76
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-22T22:10:08.138Z",
+  "updatedAt": "2026-10-22T22:10:08.138Z"
+}

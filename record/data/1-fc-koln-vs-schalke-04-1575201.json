@@ -1,0 +1,31 @@
+{
+  "slug": "1-fc-koln-vs-schalke-04-1575201",
+  "fixtureId": 1575201,
+  "kickoff": "2026-10-24T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "away": {
+    "id": 174,
+    "en": "Schalke 04"
+  },
+  "observedAt": "2026-10-14T00:23:24.562Z",
+  "probs": {
+    "home": 0.47604760476047603,
+    "draw": 0.22072207220722073,
+    "away": 0.30323032303230324
+  },
+  "goalsAvg": {
+    "home": 2.053,
+    "away": 1.619
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-22T22:10:08.138Z",
+  "updatedAt": "2026-10-22T22:10:08.138Z"
+}

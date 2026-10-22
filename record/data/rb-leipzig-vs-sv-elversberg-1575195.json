@@ -1,0 +1,31 @@
+{
+  "slug": "rb-leipzig-vs-sv-elversberg-1575195",
+  "fixtureId": 1575195,
+  "kickoff": "2026-10-24T13:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "away": {
+    "id": 1660,
+    "en": "SV Elversberg"
+  },
+  "observedAt": "2026-10-14T00:25:46.749Z",
+  "probs": {
+    "home": 0.7158715871587159,
+    "draw": 0.1536153615361536,
+    "away": 0.13051305130513052
+  },
+  "goalsAvg": {
+    "home": 2.949,
+    "away": 1.255
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-22T22:10:08.138Z",
+  "updatedAt": "2026-10-22T22:10:08.138Z"
+}

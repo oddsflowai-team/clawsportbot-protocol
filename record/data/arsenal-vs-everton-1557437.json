@@ -1,0 +1,31 @@
+{
+  "slug": "arsenal-vs-everton-1557437",
+  "fixtureId": 1557437,
+  "kickoff": "2026-10-24T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "away": {
+    "id": 45,
+    "en": "Everton"
+  },
+  "observedAt": "2026-10-14T00:31:10.473Z",
+  "probs": {
+    "home": 0.6865313468653135,
+    "draw": 0.1928807119288071,
+    "away": 0.12058794120587941
+  },
+  "goalsAvg": {
+    "home": 2.215,
+    "away": 0.821
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-22T22:10:08.138Z",
+  "updatedAt": "2026-10-22T22:10:08.138Z"
+}
