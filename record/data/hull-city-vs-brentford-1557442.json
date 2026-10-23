@@ -1,0 +1,31 @@
+{
+  "slug": "hull-city-vs-brentford-1557442",
+  "fixtureId": 1557442,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 64,
+    "en": "Hull City"
+  },
+  "away": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "observedAt": "2026-10-15T01:05:30.485Z",
+  "probs": {
+    "home": 0.21602160216021601,
+    "draw": 0.22452245224522452,
+    "away": 0.5594559455945595
+  },
+  "goalsAvg": {
+    "home": 1.184,
+    "away": 2.007
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

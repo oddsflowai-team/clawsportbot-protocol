@@ -1,0 +1,31 @@
+{
+  "slug": "liverpool-vs-brighton-1557444",
+  "fixtureId": 1557444,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "away": {
+    "id": 51,
+    "en": "Brighton"
+  },
+  "observedAt": "2026-10-15T01:10:08.693Z",
+  "probs": {
+    "home": 0.4731,
+    "draw": 0.2204,
+    "away": 0.3065
+  },
+  "goalsAvg": {
+    "home": 2.055,
+    "away": 1.637
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

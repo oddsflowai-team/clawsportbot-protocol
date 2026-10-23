@@ -1,0 +1,31 @@
+{
+  "slug": "genoa-vs-venezia-1550160",
+  "fixtureId": 1550160,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "away": {
+    "id": 517,
+    "en": "Venezia"
+  },
+  "observedAt": "2026-10-15T01:07:41.092Z",
+  "probs": {
+    "home": 0.457,
+    "draw": 0.2653,
+    "away": 0.2777
+  },
+  "goalsAvg": {
+    "home": 1.538,
+    "away": 1.147
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

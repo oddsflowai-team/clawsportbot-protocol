@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-united-vs-bournemouth-1557445",
+  "fixtureId": 1557445,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "away": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "observedAt": "2026-10-15T01:03:05.971Z",
+  "probs": {
+    "home": 0.5281,
+    "draw": 0.2154,
+    "away": 0.2565
+  },
+  "goalsAvg": {
+    "home": 2.152,
+    "away": 1.469
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "monaco-vs-lille-1552797",
+  "fixtureId": 1552797,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 91,
+    "en": "Monaco"
+  },
+  "away": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "observedAt": "2026-10-15T01:08:22.642Z",
+  "probs": {
+    "home": 0.44554455445544555,
+    "draw": 0.24152415241524153,
+    "away": 0.31293129312931295
+  },
+  "goalsAvg": {
+    "home": 1.758,
+    "away": 1.446
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

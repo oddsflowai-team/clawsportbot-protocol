@@ -1,0 +1,31 @@
+{
+  "slug": "atalanta-vs-frosinone-1550157",
+  "fixtureId": 1550157,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 499,
+    "en": "Atalanta"
+  },
+  "away": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "observedAt": "2026-10-15T01:03:21.238Z",
+  "probs": {
+    "home": 0.5843,
+    "draw": 0.2035,
+    "away": 0.2122
+  },
+  "goalsAvg": {
+    "home": 2.303,
+    "away": 1.349
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

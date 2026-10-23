@@ -1,0 +1,31 @@
+{
+  "slug": "athletic-bilbao-vs-getafe-1570424",
+  "fixtureId": 1570424,
+  "kickoff": "2026-10-25T13:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 531,
+    "en": "Athletic Bilbao"
+  },
+  "away": {
+    "id": 546,
+    "en": "Getafe"
+  },
+  "observedAt": "2026-10-15T00:55:30.928Z",
+  "probs": {
+    "home": 0.5935,
+    "draw": 0.2382,
+    "away": 0.1683
+  },
+  "goalsAvg": {
+    "home": 1.805,
+    "away": 0.853
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}

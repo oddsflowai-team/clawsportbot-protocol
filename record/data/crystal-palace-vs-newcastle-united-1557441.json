@@ -1,0 +1,31 @@
+{
+  "slug": "crystal-palace-vs-newcastle-united-1557441",
+  "fixtureId": 1557441,
+  "kickoff": "2026-10-25T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "away": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "observedAt": "2026-10-15T01:06:09.751Z",
+  "probs": {
+    "home": 0.3736,
+    "draw": 0.2426,
+    "away": 0.3838
+  },
+  "goalsAvg": {
+    "home": 1.612,
+    "away": 1.636
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T22:10:08.532Z",
+  "updatedAt": "2026-10-23T22:10:08.532Z"
+}
