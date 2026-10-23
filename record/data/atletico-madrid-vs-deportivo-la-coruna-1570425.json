@@ -1,0 +1,31 @@
+{
+  "slug": "atletico-madrid-vs-deportivo-la-coruna-1570425",
+  "fixtureId": 1570425,
+  "kickoff": "2026-10-24T19:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "away": {
+    "id": 544,
+    "en": "Deportivo La Coruna"
+  },
+  "observedAt": "2026-10-14T01:15:28.512Z",
+  "probs": {
+    "home": 0.7568,
+    "draw": 0.1478,
+    "away": 0.0954
+  },
+  "goalsAvg": {
+    "home": 2.8,
+    "away": 0.938
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T10:10:09.251Z",
+  "updatedAt": "2026-10-23T10:10:09.251Z"
+}

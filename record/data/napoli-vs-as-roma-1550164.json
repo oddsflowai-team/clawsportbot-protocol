@@ -1,0 +1,31 @@
+{
+  "slug": "napoli-vs-as-roma-1550164",
+  "fixtureId": 1550164,
+  "kickoff": "2026-10-24T16:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "away": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "observedAt": "2026-10-14T00:59:40.503Z",
+  "probs": {
+    "home": 0.3261,
+    "draw": 0.2675,
+    "away": 0.4064
+  },
+  "goalsAvg": {
+    "home": 1.277,
+    "away": 1.452
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T10:10:09.251Z",
+  "updatedAt": "2026-10-23T10:10:09.251Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "lens-vs-paris-fc-1552795",
+  "fixtureId": 1552795,
+  "kickoff": "2026-10-24T18:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "away": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "observedAt": "2026-10-14T01:12:36.673Z",
+  "probs": {
+    "home": 0.4755,
+    "draw": 0.2239,
+    "away": 0.3006
+  },
+  "goalsAvg": {
+    "home": 2.008,
+    "away": 1.574
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T10:10:09.251Z",
+  "updatedAt": "2026-10-23T10:10:09.251Z"
+}

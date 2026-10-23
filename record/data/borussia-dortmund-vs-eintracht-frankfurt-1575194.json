@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-dortmund-vs-eintracht-frankfurt-1575194",
+  "fixtureId": 1575194,
+  "kickoff": "2026-10-24T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "away": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "observedAt": "2026-10-14T01:03:50.318Z",
+  "probs": {
+    "home": 0.6545,
+    "draw": 0.1828,
+    "away": 0.1627
+  },
+  "goalsAvg": {
+    "home": 2.53,
+    "away": 1.22
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T10:10:09.251Z",
+  "updatedAt": "2026-10-23T10:10:09.251Z"
+}

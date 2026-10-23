@@ -292,16 +292,16 @@ lech-poznan-vs-sunderland-1636280,UEFA Europa League,2026-10-22T16:45:00.000Z,Le
 ofi-crete-vs-bayer-leverkusen-1636303,UEFA Europa League,2026-10-22T16:45:00.000Z,OFI Crete,Bayer Leverkusen,0.1283,0.1717,0.7,2026-10-20T22:10:04.430Z,settled,0,2,hit,2026-10-22T22:10:08.138Z
 royale-union-saint-gilloise-vs-hapoel-beer-sheva-1636330,UEFA Europa League,2026-10-22T16:45:00.000Z,Royale Union Saint-Gilloise,Hapoel Beer Sheva,0.7163283671632837,0.1673832616738326,0.11628837116288371,2026-10-20T22:10:04.430Z,settled,4,0,hit,2026-10-22T22:10:08.138Z
 sturm-graz-vs-marseille-1636340,UEFA Europa League,2026-10-22T16:45:00.000Z,Sturm Graz,Marseille,0.2882,0.239,0.4728,2026-10-20T22:10:04.430Z,settled,1,0,miss,2026-10-22T22:10:08.138Z
-besiktas-vs-crystal-palace-1636234,UEFA Europa League,2026-10-22T19:00:00.000Z,Besiktas,Crystal Palace,0.4514,0.2234,0.3252,2026-10-20T22:10:04.430Z,upcoming,,,,
-bournemouth-vs-ac-milan-1636235,UEFA Europa League,2026-10-22T19:00:00.000Z,Bournemouth,AC Milan,0.4361,0.2459,0.318,2026-10-20T22:10:04.430Z,upcoming,,,,
-celje-vs-red-bull-salzburg-1636241,UEFA Europa League,2026-10-22T19:00:00.000Z,Celje,Red Bull Salzburg,0.2478,0.2332,0.519,2026-10-20T22:10:04.430Z,upcoming,,,,
-celtic-vs-celta-vigo-1636249,UEFA Europa League,2026-10-22T19:00:00.000Z,Celtic,Celta Vigo,0.3264673532646735,0.26287371262873716,0.4106589341065894,2026-10-20T22:10:04.430Z,upcoming,,,,
-hoffenheim-vs-lyon-1636267,UEFA Europa League,2026-10-22T19:00:00.000Z,Hoffenheim,Lyon,0.481,0.2158,0.3032,2026-10-21T22:10:06.434Z,upcoming,,,,
-jagiellonia-bialystok-vs-anderlecht-1636273,UEFA Europa League,2026-10-22T19:00:00.000Z,Jagiellonia Bialystok,Anderlecht,0.3197680231976802,0.24667533246675333,0.43355664433556645,2026-10-21T22:10:06.434Z,upcoming,,,,
-lillestrom-vs-real-sociedad-1636288,UEFA Europa League,2026-10-22T19:00:00.000Z,Lillestrom,Real Sociedad,0.1814,0.198,0.6206,2026-10-21T22:10:06.434Z,upcoming,,,,
-olympiacos-piraeus-vs-sparta-prague-1636308,UEFA Europa League,2026-10-22T19:00:00.000Z,Olympiacos Piraeus,Sparta Prague,0.5923592359235924,0.2216221622162216,0.186018601860186,2026-10-21T22:10:06.434Z,upcoming,,,,
-omonia-nicosia-vs-benfica-1636311,UEFA Europa League,2026-10-22T19:00:00.000Z,Omonia Nicosia,Benfica,0.1552,0.1983,0.6465,2026-10-21T22:10:06.434Z,upcoming,,,,
-plzen-vs-levski-sofia-1636318,UEFA Europa League,2026-10-22T19:00:00.000Z,Plzen,Levski Sofia,0.5634,0.2249,0.2117,2026-10-21T22:10:06.434Z,upcoming,,,,
+besiktas-vs-crystal-palace-1636234,UEFA Europa League,2026-10-22T19:00:00.000Z,Besiktas,Crystal Palace,0.4514,0.2234,0.3252,2026-10-20T22:10:04.430Z,settled,2,2,miss,2026-10-23T10:10:09.251Z
+bournemouth-vs-ac-milan-1636235,UEFA Europa League,2026-10-22T19:00:00.000Z,Bournemouth,AC Milan,0.4361,0.2459,0.318,2026-10-20T22:10:04.430Z,settled,3,0,hit,2026-10-23T10:10:09.251Z
+celje-vs-red-bull-salzburg-1636241,UEFA Europa League,2026-10-22T19:00:00.000Z,Celje,Red Bull Salzburg,0.2478,0.2332,0.519,2026-10-20T22:10:04.430Z,settled,2,2,miss,2026-10-23T10:10:09.251Z
+celtic-vs-celta-vigo-1636249,UEFA Europa League,2026-10-22T19:00:00.000Z,Celtic,Celta Vigo,0.3264673532646735,0.26287371262873716,0.4106589341065894,2026-10-20T22:10:04.430Z,settled,1,2,hit,2026-10-23T10:10:09.251Z
+hoffenheim-vs-lyon-1636267,UEFA Europa League,2026-10-22T19:00:00.000Z,Hoffenheim,Lyon,0.481,0.2158,0.3032,2026-10-21T22:10:06.434Z,settled,3,0,hit,2026-10-23T10:10:09.251Z
+jagiellonia-bialystok-vs-anderlecht-1636273,UEFA Europa League,2026-10-22T19:00:00.000Z,Jagiellonia Bialystok,Anderlecht,0.3197680231976802,0.24667533246675333,0.43355664433556645,2026-10-21T22:10:06.434Z,settled,0,3,hit,2026-10-23T10:10:09.251Z
+lillestrom-vs-real-sociedad-1636288,UEFA Europa League,2026-10-22T19:00:00.000Z,Lillestrom,Real Sociedad,0.1814,0.198,0.6206,2026-10-21T22:10:06.434Z,settled,0,6,hit,2026-10-23T10:10:09.251Z
+olympiacos-piraeus-vs-sparta-prague-1636308,UEFA Europa League,2026-10-22T19:00:00.000Z,Olympiacos Piraeus,Sparta Prague,0.5923592359235924,0.2216221622162216,0.186018601860186,2026-10-21T22:10:06.434Z,settled,1,0,hit,2026-10-23T10:10:09.251Z
+omonia-nicosia-vs-benfica-1636311,UEFA Europa League,2026-10-22T19:00:00.000Z,Omonia Nicosia,Benfica,0.1552,0.1983,0.6465,2026-10-21T22:10:06.434Z,settled,1,4,hit,2026-10-23T10:10:09.251Z
+plzen-vs-levski-sofia-1636318,UEFA Europa League,2026-10-22T19:00:00.000Z,Plzen,Levski Sofia,0.5634,0.2249,0.2117,2026-10-21T22:10:06.434Z,settled,1,2,miss,2026-10-23T10:10:09.251Z
 vfb-stuttgart-vs-borussia-monchengladbach-1575196,Bundesliga,2026-10-23T18:30:00.000Z,VfB Stuttgart,Borussia Mönchengladbach,0.6674,0.1688,0.1638,2026-10-21T22:10:06.434Z,upcoming,,,,
 brest-vs-nice-1552794,Ligue 1,2026-10-23T18:45:00.000Z,Brest,Nice,0.4258,0.2406,0.3336,2026-10-21T22:10:06.434Z,upcoming,,,,
 torino-vs-monza-1550165,Serie A,2026-10-23T18:45:00.000Z,Torino,Monza,0.4595,0.2736,0.2669,2026-10-21T22:10:06.434Z,upcoming,,,,
@@ -319,3 +319,11 @@ rb-leipzig-vs-sv-elversberg-1575195,Bundesliga,2026-10-24T13:30:00.000Z,RB Leipz
 arsenal-vs-everton-1557437,Premier League,2026-10-24T14:00:00.000Z,Arsenal,Everton,0.6865313468653135,0.1928807119288071,0.12058794120587941,2026-10-22T22:10:08.138Z,upcoming,,,,
 coventry-city-vs-fulham-1557440,Premier League,2026-10-24T14:00:00.000Z,Coventry City,Fulham,0.339,0.2461,0.4149,2026-10-22T22:10:08.138Z,upcoming,,,,
 racing-santander-vs-espanyol-1570428,La Liga,2026-10-24T14:15:00.000Z,Racing Santander,Espanyol,0.40344034403440343,0.24552455245524551,0.351035103510351,2026-10-22T22:10:08.138Z,upcoming,,,,
+toulouse-vs-troyes-1552799,Ligue 1,2026-10-24T15:15:00.000Z,Toulouse,Troyes,0.5547,0.2209,0.2244,2026-10-23T10:10:09.251Z,upcoming,,,,
+napoli-vs-as-roma-1550164,Serie A,2026-10-24T16:00:00.000Z,Napoli,AS Roma,0.3261,0.2675,0.4064,2026-10-23T10:10:09.251Z,upcoming,,,,
+borussia-dortmund-vs-eintracht-frankfurt-1575194,Bundesliga,2026-10-24T16:30:00.000Z,Borussia Dortmund,Eintracht Frankfurt,0.6545,0.1828,0.1627,2026-10-23T10:10:09.251Z,upcoming,,,,
+chelsea-vs-tottenham-hotspur-1557439,Premier League,2026-10-24T16:30:00.000Z,Chelsea,Tottenham Hotspur,0.5013501350135013,0.21772177217721772,0.2809280928092809,2026-10-23T10:10:09.251Z,upcoming,,,,
+valencia-vs-villarreal-1570432,La Liga,2026-10-24T16:30:00.000Z,Valencia,Villarreal,0.2819,0.2384,0.4797,2026-10-23T10:10:09.251Z,upcoming,,,,
+lazio-vs-parma-1550162,Serie A,2026-10-24T18:45:00.000Z,Lazio,Parma,0.6213000000000001,0.23320000000000002,0.14550000000000002,2026-10-23T10:10:09.251Z,upcoming,,,,
+lens-vs-paris-fc-1552795,Ligue 1,2026-10-24T18:45:00.000Z,Lens,Paris FC,0.4755,0.2239,0.3006,2026-10-23T10:10:09.251Z,upcoming,,,,
+atletico-madrid-vs-deportivo-la-coruna-1570425,La Liga,2026-10-24T19:00:00.000Z,Atletico Madrid,Deportivo La Coruna,0.7568,0.1478,0.0954,2026-10-23T10:10:09.251Z,upcoming,,,,

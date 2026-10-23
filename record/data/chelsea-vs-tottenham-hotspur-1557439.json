@@ -1,0 +1,31 @@
+{
+  "slug": "chelsea-vs-tottenham-hotspur-1557439",
+  "fixtureId": 1557439,
+  "kickoff": "2026-10-24T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "away": {
+    "id": 47,
+    "en": "Tottenham Hotspur"
+  },
+  "observedAt": "2026-10-14T01:01:22.459Z",
+  "probs": {
+    "home": 0.5013501350135013,
+    "draw": 0.21772177217721772,
+    "away": 0.2809280928092809
+  },
+  "goalsAvg": {
+    "home": 2.114,
+    "away": 1.559
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T10:10:09.251Z",
+  "updatedAt": "2026-10-23T10:10:09.251Z"
+}

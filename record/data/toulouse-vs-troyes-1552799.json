@@ -1,0 +1,31 @@
+{
+  "slug": "toulouse-vs-troyes-1552799",
+  "fixtureId": 1552799,
+  "kickoff": "2026-10-24T15:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "away": {
+    "id": 110,
+    "en": "Troyes"
+  },
+  "observedAt": "2026-10-14T00:56:45.370Z",
+  "probs": {
+    "home": 0.5547,
+    "draw": 0.2209,
+    "away": 0.2244
+  },
+  "goalsAvg": {
+    "home": 2.061,
+    "away": 1.257
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-23T10:10:09.251Z",
+  "updatedAt": "2026-10-23T10:10:09.251Z"
+}
