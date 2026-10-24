@@ -1,0 +1,31 @@
+{
+  "slug": "barcelona-vs-real-madrid-1570426",
+  "fixtureId": 1570426,
+  "kickoff": "2026-10-25T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "away": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "observedAt": "2026-10-15T01:43:12.870Z",
+  "probs": {
+    "home": 0.6395,
+    "draw": 0.1721,
+    "away": 0.1884
+  },
+  "goalsAvg": {
+    "home": 2.833,
+    "away": 1.551
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}

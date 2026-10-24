@@ -1,0 +1,31 @@
+{
+  "slug": "paris-saint-germain-vs-lyon-1552800",
+  "fixtureId": 1552800,
+  "kickoff": "2026-10-25T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-10-15T01:42:15.884Z",
+  "probs": {
+    "home": 0.6837316268373163,
+    "draw": 0.17628237176282374,
+    "away": 0.13998600139986003
+  },
+  "goalsAvg": {
+    "home": 2.552,
+    "away": 1.101
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}

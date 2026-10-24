@@ -1,0 +1,31 @@
+{
+  "slug": "auxerre-vs-le-mans-1552793",
+  "fixtureId": 1552793,
+  "kickoff": "2026-10-25T16:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "away": {
+    "id": 1298,
+    "en": "Le Mans"
+  },
+  "observedAt": "2026-10-15T01:26:05.687Z",
+  "probs": {
+    "home": 0.4569,
+    "draw": 0.2437,
+    "away": 0.2994
+  },
+  "goalsAvg": {
+    "home": 1.747,
+    "away": 1.381
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}

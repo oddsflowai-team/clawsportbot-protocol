@@ -1,0 +1,31 @@
+{
+  "slug": "sc-freiburg-vs-bayern-munich-1575198",
+  "fixtureId": 1575198,
+  "kickoff": "2026-10-25T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 160,
+    "en": "SC Freiburg"
+  },
+  "away": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "observedAt": "2026-10-15T01:27:12.364Z",
+  "probs": {
+    "home": 0.1574,
+    "draw": 0.1547,
+    "away": 0.6879
+  },
+  "goalsAvg": {
+    "home": 1.518,
+    "away": 3.096
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}

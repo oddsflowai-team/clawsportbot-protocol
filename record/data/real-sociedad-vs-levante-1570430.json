@@ -1,0 +1,31 @@
+{
+  "slug": "real-sociedad-vs-levante-1570430",
+  "fixtureId": 1570430,
+  "kickoff": "2026-10-25T17:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "away": {
+    "id": 539,
+    "en": "Levante"
+  },
+  "observedAt": "2026-10-15T01:31:22.047Z",
+  "probs": {
+    "home": 0.5614438556144385,
+    "draw": 0.2111788821117888,
+    "away": 0.2273772622737726
+  },
+  "goalsAvg": {
+    "home": 2.202,
+    "away": 1.36
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}

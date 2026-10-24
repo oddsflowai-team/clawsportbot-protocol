@@ -1,0 +1,31 @@
+{
+  "slug": "udinese-vs-ac-milan-1550166",
+  "fixtureId": 1550166,
+  "kickoff": "2026-10-25T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 494,
+    "en": "Udinese"
+  },
+  "away": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "observedAt": "2026-10-15T01:40:44.201Z",
+  "probs": {
+    "home": 0.21512151215121514,
+    "draw": 0.2537253725372537,
+    "away": 0.5311531153115312
+  },
+  "goalsAvg": {
+    "home": 0.984,
+    "away": 1.679
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}

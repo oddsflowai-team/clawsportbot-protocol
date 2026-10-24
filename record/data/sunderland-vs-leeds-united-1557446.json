@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-leeds-united-1557446",
+  "fixtureId": 1557446,
+  "kickoff": "2026-10-25T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 63,
+    "en": "Leeds United"
+  },
+  "observedAt": "2026-10-15T01:28:50.473Z",
+  "probs": {
+    "home": 0.3493,
+    "draw": 0.2823,
+    "away": 0.3684
+  },
+  "goalsAvg": {
+    "home": 1.234,
+    "away": 1.274
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-24T22:10:12.966Z",
+  "updatedAt": "2026-10-24T22:10:12.966Z"
+}
