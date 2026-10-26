@@ -1,0 +1,31 @@
+{
+  "slug": "torino-vs-como-1550175",
+  "fixtureId": 1550175,
+  "kickoff": "2026-10-27T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 503,
+    "en": "Torino"
+  },
+  "away": {
+    "id": 895,
+    "en": "Como"
+  },
+  "observedAt": "2026-10-18T22:39:18.649Z",
+  "probs": {
+    "home": 0.2321,
+    "draw": 0.2333,
+    "away": 0.5346
+  },
+  "goalsAvg": {
+    "home": 1.193,
+    "away": 1.905
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-26T22:10:09.354Z",
+  "updatedAt": "2026-10-26T22:10:09.354Z"
+}

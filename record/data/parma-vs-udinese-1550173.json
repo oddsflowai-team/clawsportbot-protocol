@@ -1,0 +1,31 @@
+{
+  "slug": "parma-vs-udinese-1550173",
+  "fixtureId": 1550173,
+  "kickoff": "2026-10-28T17:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "away": {
+    "id": 494,
+    "en": "Udinese"
+  },
+  "observedAt": "2026-10-18T22:39:26.895Z",
+  "probs": {
+    "home": 0.33,
+    "draw": 0.2711,
+    "away": 0.3989
+  },
+  "goalsAvg": {
+    "home": 1.263,
+    "away": 1.412
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-26T22:10:09.354Z",
+  "updatedAt": "2026-10-26T22:10:09.354Z"
+}

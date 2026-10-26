@@ -1,0 +1,31 @@
+{
+  "slug": "monza-vs-napoli-1550172",
+  "fixtureId": 1550172,
+  "kickoff": "2026-10-28T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 1579,
+    "en": "Monza"
+  },
+  "away": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "observedAt": "2026-10-18T22:44:18.934Z",
+  "probs": {
+    "home": 0.2488,
+    "draw": 0.2352,
+    "away": 0.516
+  },
+  "goalsAvg": {
+    "home": 1.253,
+    "away": 1.882
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-26T22:10:09.354Z",
+  "updatedAt": "2026-10-26T22:10:09.354Z"
+}

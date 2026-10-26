@@ -1,0 +1,31 @@
+{
+  "slug": "sassuolo-vs-lazio-1550174",
+  "fixtureId": 1550174,
+  "kickoff": "2026-10-27T17:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 488,
+    "en": "Sassuolo"
+  },
+  "away": {
+    "id": 487,
+    "en": "Lazio"
+  },
+  "observedAt": "2026-10-18T22:36:51.707Z",
+  "probs": {
+    "home": 0.3471,
+    "draw": 0.2489,
+    "away": 0.404
+  },
+  "goalsAvg": {
+    "home": 1.483,
+    "away": 1.615
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-26T22:10:09.354Z",
+  "updatedAt": "2026-10-26T22:10:09.354Z"
+}

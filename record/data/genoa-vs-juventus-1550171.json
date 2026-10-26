@@ -1,0 +1,31 @@
+{
+  "slug": "genoa-vs-juventus-1550171",
+  "fixtureId": 1550171,
+  "kickoff": "2026-10-28T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "away": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "observedAt": "2026-10-18T22:44:16.426Z",
+  "probs": {
+    "home": 0.1889,
+    "draw": 0.2373,
+    "away": 0.5738
+  },
+  "goalsAvg": {
+    "home": 0.961,
+    "away": 1.836
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-26T22:10:09.354Z",
+  "updatedAt": "2026-10-26T22:10:09.354Z"
+}

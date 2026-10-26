@@ -1,0 +1,31 @@
+{
+  "slug": "as-roma-vs-cagliari-1550168",
+  "fixtureId": 1550168,
+  "kickoff": "2026-10-27T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "away": {
+    "id": 490,
+    "en": "Cagliari"
+  },
+  "observedAt": "2026-10-18T22:36:51.709Z",
+  "probs": {
+    "home": 0.6958000000000001,
+    "draw": 0.18600000000000003,
+    "away": 0.11820000000000001
+  },
+  "goalsAvg": {
+    "home": 2.299,
+    "away": 0.848
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-26T22:10:09.354Z",
+  "updatedAt": "2026-10-26T22:10:09.354Z"
+}
