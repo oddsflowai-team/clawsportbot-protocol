@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-27T10:11:27.279Z",
-  "match_records": 359,
+  "generated_at": "2026-10-27T22:11:42.869Z",
+  "match_records": 361,
   "ledger_records": 7,
   "kickoff_range": {
     "first": "2026-09-09T16:45:00.000Z",
-    "last": "2026-10-28T19:45:00.000Z"
+    "last": "2026-10-29T19:45:00.000Z"
   },
   "files": {
-    "data_json": 366,
-    "predictions_csv_rows": 359,
+    "data_json": 368,
+    "predictions_csv_rows": 361,
     "ledgers_csv_rows": 7
   }
 }

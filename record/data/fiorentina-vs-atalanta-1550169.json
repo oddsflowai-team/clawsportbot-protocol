@@ -1,0 +1,31 @@
+{
+  "slug": "fiorentina-vs-atalanta-1550169",
+  "fixtureId": 1550169,
+  "kickoff": "2026-10-29T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 502,
+    "en": "Fiorentina"
+  },
+  "away": {
+    "id": 499,
+    "en": "Atalanta"
+  },
+  "observedAt": "2026-10-19T00:17:45.471Z",
+  "probs": {
+    "home": 0.4175,
+    "draw": 0.246,
+    "away": 0.3365
+  },
+  "goalsAvg": {
+    "home": 1.668,
+    "away": 1.479
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-27T22:10:09.227Z",
+  "updatedAt": "2026-10-27T22:10:09.227Z"
+}

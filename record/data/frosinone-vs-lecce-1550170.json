@@ -1,0 +1,31 @@
+{
+  "slug": "frosinone-vs-lecce-1550170",
+  "fixtureId": 1550170,
+  "kickoff": "2026-10-29T17:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "away": {
+    "id": 867,
+    "en": "Lecce"
+  },
+  "observedAt": "2026-10-19T00:17:45.456Z",
+  "probs": {
+    "home": 0.4973,
+    "draw": 0.2226,
+    "away": 0.2801
+  },
+  "goalsAvg": {
+    "home": 2.042,
+    "away": 1.504
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-27T22:10:09.227Z",
+  "updatedAt": "2026-10-27T22:10:09.227Z"
+}
