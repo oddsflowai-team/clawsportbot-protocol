@@ -1,0 +1,31 @@
+{
+  "slug": "le-havre-vs-paris-saint-germain-1552801",
+  "fixtureId": 1552801,
+  "kickoff": "2026-10-30T18:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 111,
+    "en": "Le Havre"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-10-20T00:09:39.102Z",
+  "probs": {
+    "home": 0.0905,
+    "draw": 0.1448,
+    "away": 0.7647
+  },
+  "goalsAvg": {
+    "home": 0.91,
+    "away": 2.815
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-28T22:10:06.747Z",
+  "updatedAt": "2026-10-28T22:10:06.747Z"
+}

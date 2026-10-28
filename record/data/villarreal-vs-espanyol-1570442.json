@@ -1,0 +1,31 @@
+{
+  "slug": "villarreal-vs-espanyol-1570442",
+  "fixtureId": 1570442,
+  "kickoff": "2026-10-30T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "away": {
+    "id": 540,
+    "en": "Espanyol"
+  },
+  "observedAt": "2026-10-20T00:11:58.566Z",
+  "probs": {
+    "home": 0.6013000000000001,
+    "draw": 0.20280000000000004,
+    "away": 0.19590000000000002
+  },
+  "goalsAvg": {
+    "home": 2.288,
+    "away": 1.257
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-28T22:10:06.747Z",
+  "updatedAt": "2026-10-28T22:10:06.747Z"
+}
