@@ -1,0 +1,31 @@
+{
+  "slug": "getafe-vs-sevilla-1570438",
+  "fixtureId": 1570438,
+  "kickoff": "2026-11-01T13:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 546,
+    "en": "Getafe"
+  },
+  "away": {
+    "id": 536,
+    "en": "Sevilla"
+  },
+  "observedAt": "2026-10-22T00:05:33.046Z",
+  "probs": {
+    "home": 0.342,
+    "draw": 0.2811,
+    "away": 0.3769
+  },
+  "goalsAvg": {
+    "home": 1.225,
+    "away": 1.298
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

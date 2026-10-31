@@ -1,0 +1,31 @@
+{
+  "slug": "liverpool-vs-arsenal-1557453",
+  "fixtureId": 1557453,
+  "kickoff": "2026-11-01T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "away": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "observedAt": "2026-10-22T00:18:19.129Z",
+  "probs": {
+    "home": 0.3026,
+    "draw": 0.2426,
+    "away": 0.4548
+  },
+  "goalsAvg": {
+    "home": 1.402,
+    "away": 1.758
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

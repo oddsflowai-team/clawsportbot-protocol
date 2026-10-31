@@ -1,0 +1,31 @@
+{
+  "slug": "lecce-vs-genoa-1550184",
+  "fixtureId": 1550184,
+  "kickoff": "2026-11-01T17:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 867,
+    "en": "Lecce"
+  },
+  "away": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "observedAt": "2026-10-26T03:41:50.093Z",
+  "probs": {
+    "home": 0.3502,
+    "draw": 0.2844,
+    "away": 0.3654
+  },
+  "goalsAvg": {
+    "home": 1.222,
+    "away": 1.254
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

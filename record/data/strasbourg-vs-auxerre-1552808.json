@@ -1,0 +1,31 @@
+{
+  "slug": "strasbourg-vs-auxerre-1552808",
+  "fixtureId": 1552808,
+  "kickoff": "2026-11-01T14:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 95,
+    "en": "Strasbourg"
+  },
+  "away": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "observedAt": "2026-10-22T00:10:26.264Z",
+  "probs": {
+    "home": 0.5253,
+    "draw": 0.2167,
+    "away": 0.258
+  },
+  "goalsAvg": {
+    "home": 2.133,
+    "away": 1.462
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

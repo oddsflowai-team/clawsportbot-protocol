@@ -1,0 +1,31 @@
+{
+  "slug": "como-vs-venezia-1550180",
+  "fixtureId": 1550180,
+  "kickoff": "2026-11-01T11:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 895,
+    "en": "Como"
+  },
+  "away": {
+    "id": 517,
+    "en": "Venezia"
+  },
+  "observedAt": "2026-10-26T03:37:01.344Z",
+  "probs": {
+    "home": 0.755,
+    "draw": 0.1507,
+    "away": 0.0943
+  },
+  "goalsAvg": {
+    "home": 2.734,
+    "away": 0.9
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

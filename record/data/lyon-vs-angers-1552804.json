@@ -1,0 +1,31 @@
+{
+  "slug": "lyon-vs-angers-1552804",
+  "fixtureId": 1552804,
+  "kickoff": "2026-11-01T16:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "away": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "observedAt": "2026-10-21T00:37:36.772Z",
+  "probs": {
+    "home": 0.6725,
+    "draw": 0.1794,
+    "away": 0.1481
+  },
+  "goalsAvg": {
+    "home": 2.534,
+    "away": 1.139
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

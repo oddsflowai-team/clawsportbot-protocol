@@ -1,0 +1,31 @@
+{
+  "slug": "eintracht-frankfurt-vs-hamburger-sv-1575205",
+  "fixtureId": 1575205,
+  "kickoff": "2026-11-01T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "away": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "observedAt": "2026-10-22T00:17:57.764Z",
+  "probs": {
+    "home": 0.5638,
+    "draw": 0.2053,
+    "away": 0.2309
+  },
+  "goalsAvg": {
+    "home": 2.297,
+    "away": 1.44
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}

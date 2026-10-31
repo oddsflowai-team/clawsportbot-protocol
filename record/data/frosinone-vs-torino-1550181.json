@@ -1,0 +1,31 @@
+{
+  "slug": "frosinone-vs-torino-1550181",
+  "fixtureId": 1550181,
+  "kickoff": "2026-11-01T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "away": {
+    "id": 503,
+    "en": "Torino"
+  },
+  "observedAt": "2026-10-26T03:39:39.213Z",
+  "probs": {
+    "home": 0.44274427442744274,
+    "draw": 0.2196219621962196,
+    "away": 0.33763376337633766
+  },
+  "goalsAvg": {
+    "home": 2.028,
+    "away": 1.761
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-10-31T22:10:06.550Z",
+  "updatedAt": "2026-10-31T22:10:06.550Z"
+}
