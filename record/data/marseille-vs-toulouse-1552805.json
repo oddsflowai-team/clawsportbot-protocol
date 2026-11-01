@@ -1,0 +1,31 @@
+{
+  "slug": "marseille-vs-toulouse-1552805",
+  "fixtureId": 1552805,
+  "kickoff": "2026-11-01T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "away": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "observedAt": "2026-10-22T00:23:28.505Z",
+  "probs": {
+    "home": 0.5242524252425242,
+    "draw": 0.2158215821582158,
+    "away": 0.25992599259925997
+  },
+  "goalsAvg": {
+    "home": 2.146,
+    "away": 1.481
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-01T10:10:06.778Z",
+  "updatedAt": "2026-11-01T10:10:06.778Z"
+}

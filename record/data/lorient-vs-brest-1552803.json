@@ -1,0 +1,31 @@
+{
+  "slug": "lorient-vs-brest-1552803",
+  "fixtureId": 1552803,
+  "kickoff": "2026-11-02T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 97,
+    "en": "Lorient"
+  },
+  "away": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "observedAt": "2026-10-21T00:37:15.949Z",
+  "probs": {
+    "home": 0.3653,
+    "draw": 0.2713,
+    "away": 0.3634
+  },
+  "goalsAvg": {
+    "home": 1.345,
+    "away": 1.34
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-01T10:10:06.778Z",
+  "updatedAt": "2026-11-01T10:10:06.778Z"
+}

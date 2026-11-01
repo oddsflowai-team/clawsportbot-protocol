@@ -1,0 +1,31 @@
+{
+  "slug": "sassuolo-vs-fiorentina-1550185",
+  "fixtureId": 1550185,
+  "kickoff": "2026-11-02T17:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 488,
+    "en": "Sassuolo"
+  },
+  "away": {
+    "id": 502,
+    "en": "Fiorentina"
+  },
+  "observedAt": "2026-10-26T03:44:24.425Z",
+  "probs": {
+    "home": 0.37896210378962103,
+    "draw": 0.24207579242075794,
+    "away": 0.37896210378962103
+  },
+  "goalsAvg": {
+    "home": 1.63,
+    "away": 1.63
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-01T10:10:06.778Z",
+  "updatedAt": "2026-11-01T10:10:06.778Z"
+}

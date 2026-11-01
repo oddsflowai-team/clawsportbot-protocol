@@ -1,0 +1,31 @@
+{
+  "slug": "juventus-vs-napoli-1550182",
+  "fixtureId": 1550182,
+  "kickoff": "2026-11-01T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "away": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "observedAt": "2026-10-26T03:42:09.640Z",
+  "probs": {
+    "home": 0.5186,
+    "draw": 0.2592,
+    "away": 0.2222
+  },
+  "goalsAvg": {
+    "home": 1.627,
+    "away": 0.982
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-01T10:10:06.778Z",
+  "updatedAt": "2026-11-01T10:10:06.778Z"
+}

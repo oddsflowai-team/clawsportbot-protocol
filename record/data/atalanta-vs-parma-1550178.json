@@ -1,0 +1,31 @@
+{
+  "slug": "atalanta-vs-parma-1550178",
+  "fixtureId": 1550178,
+  "kickoff": "2026-11-02T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 499,
+    "en": "Atalanta"
+  },
+  "away": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "observedAt": "2026-10-26T03:44:47.390Z",
+  "probs": {
+    "home": 0.665966596659666,
+    "draw": 0.1977197719771977,
+    "away": 0.13631363136313632
+  },
+  "goalsAvg": {
+    "home": 2.208,
+    "away": 0.903
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-01T10:10:06.778Z",
+  "updatedAt": "2026-11-01T10:10:06.778Z"
+}

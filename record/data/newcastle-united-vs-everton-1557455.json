@@ -1,0 +1,31 @@
+{
+  "slug": "newcastle-united-vs-everton-1557455",
+  "fixtureId": 1557455,
+  "kickoff": "2026-11-02T20:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "away": {
+    "id": 45,
+    "en": "Everton"
+  },
+  "observedAt": "2026-10-23T00:24:10.635Z",
+  "probs": {
+    "home": 0.4327,
+    "draw": 0.2412,
+    "away": 0.3261
+  },
+  "goalsAvg": {
+    "home": 1.743,
+    "away": 1.491
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-01T10:10:06.778Z",
+  "updatedAt": "2026-11-01T10:10:06.778Z"
+}
