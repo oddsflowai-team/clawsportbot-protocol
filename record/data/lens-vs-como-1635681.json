@@ -1,0 +1,31 @@
+{
+  "slug": "lens-vs-como-1635681",
+  "fixtureId": 1635681,
+  "kickoff": "2026-11-04T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "away": {
+    "id": 895,
+    "en": "Como"
+  },
+  "observedAt": "2026-10-25T00:29:06.341Z",
+  "probs": {
+    "home": 0.3417,
+    "draw": 0.2174,
+    "away": 0.4409
+  },
+  "goalsAvg": {
+    "home": 1.804,
+    "away": 2.057
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T22:10:06.796Z",
+  "updatedAt": "2026-11-02T22:10:06.796Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "viking-vs-sabah-fa-1635745",
+  "fixtureId": 1635745,
+  "kickoff": "2026-11-04T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 759,
+    "en": "Viking"
+  },
+  "away": {
+    "id": 13976,
+    "en": "Sabah FA"
+  },
+  "observedAt": "2026-10-25T00:23:59.465Z",
+  "probs": {
+    "home": 0.6054,
+    "draw": 0.1889,
+    "away": 0.2057
+  },
+  "goalsAvg": {
+    "home": 2.544,
+    "away": 1.467
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T22:10:06.796Z",
+  "updatedAt": "2026-11-02T22:10:06.796Z"
+}

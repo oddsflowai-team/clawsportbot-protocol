@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-dortmund-vs-real-betis-1635651",
+  "fixtureId": 1635651,
+  "kickoff": "2026-11-04T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "away": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "observedAt": "2026-10-25T00:26:33.787Z",
+  "probs": {
+    "home": 0.5457545754575458,
+    "draw": 0.21522152215221524,
+    "away": 0.23902390239023905
+  },
+  "goalsAvg": {
+    "home": 2.15,
+    "away": 1.383
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T22:10:06.796Z",
+  "updatedAt": "2026-11-02T22:10:06.796Z"
+}

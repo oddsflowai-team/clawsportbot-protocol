@@ -1,0 +1,31 @@
+{
+  "slug": "slavia-praha-vs-arsenal-1635726",
+  "fixtureId": 1635726,
+  "kickoff": "2026-11-04T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 560,
+    "en": "Slavia Praha"
+  },
+  "away": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "observedAt": "2026-10-25T00:24:08.241Z",
+  "probs": {
+    "home": 0.1208,
+    "draw": 0.1647,
+    "away": 0.7145
+  },
+  "goalsAvg": {
+    "home": 1.039,
+    "away": 2.659
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T22:10:06.796Z",
+  "updatedAt": "2026-11-02T22:10:06.796Z"
+}
