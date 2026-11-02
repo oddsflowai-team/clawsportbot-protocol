@@ -1,0 +1,31 @@
+{
+  "slug": "lask-vs-slovan-bratislava-1635677",
+  "fixtureId": 1635677,
+  "kickoff": "2026-11-03T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 1026,
+    "en": "LASK"
+  },
+  "away": {
+    "id": 656,
+    "en": "Slovan Bratislava"
+  },
+  "observedAt": "2026-10-24T00:34:28.351Z",
+  "probs": {
+    "home": 0.6614338566143385,
+    "draw": 0.1807819218078192,
+    "away": 0.15778422157784222
+  },
+  "goalsAvg": {
+    "home": 2.548,
+    "away": 1.202
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}

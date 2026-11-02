@@ -1,0 +1,31 @@
+{
+  "slug": "atletico-madrid-vs-bayern-munich-1635622",
+  "fixtureId": 1635622,
+  "kickoff": "2026-11-03T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "away": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "observedAt": "2026-10-24T00:29:35.956Z",
+  "probs": {
+    "home": 0.2969,
+    "draw": 0.2244,
+    "away": 0.4787
+  },
+  "goalsAvg": {
+    "home": 1.554,
+    "away": 2.004
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}

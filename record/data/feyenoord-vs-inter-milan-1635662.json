@@ -1,0 +1,31 @@
+{
+  "slug": "feyenoord-vs-inter-milan-1635662",
+  "fixtureId": 1635662,
+  "kickoff": "2026-11-03T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 209,
+    "en": "Feyenoord"
+  },
+  "away": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "observedAt": "2026-10-24T00:31:58.090Z",
+  "probs": {
+    "home": 0.221,
+    "draw": 0.2113,
+    "away": 0.5677
+  },
+  "goalsAvg": {
+    "home": 1.325,
+    "away": 2.195
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}

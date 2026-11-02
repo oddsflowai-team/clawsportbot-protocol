@@ -1,0 +1,31 @@
+{
+  "slug": "barcelona-vs-aston-villa-1635627",
+  "fixtureId": 1635627,
+  "kickoff": "2026-11-03T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "away": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "observedAt": "2026-10-24T00:31:53.129Z",
+  "probs": {
+    "home": 0.7598,
+    "draw": 0.129,
+    "away": 0.1112
+  },
+  "goalsAvg": {
+    "home": 3.421,
+    "away": 1.369
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}

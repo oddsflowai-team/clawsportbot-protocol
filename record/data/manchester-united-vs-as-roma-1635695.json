@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-united-vs-as-roma-1635695",
+  "fixtureId": 1635695,
+  "kickoff": "2026-11-03T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "away": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "observedAt": "2026-10-24T00:26:59.232Z",
+  "probs": {
+    "home": 0.4525,
+    "draw": 0.2185,
+    "away": 0.329
+  },
+  "goalsAvg": {
+    "home": 2.058,
+    "away": 1.744
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}

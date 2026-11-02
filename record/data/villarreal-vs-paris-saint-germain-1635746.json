@@ -1,0 +1,31 @@
+{
+  "slug": "villarreal-vs-paris-saint-germain-1635746",
+  "fixtureId": 1635746,
+  "kickoff": "2026-11-03T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-10-24T00:26:49.511Z",
+  "probs": {
+    "home": 0.1948,
+    "draw": 0.1989,
+    "away": 0.6063
+  },
+  "goalsAvg": {
+    "home": 1.287,
+    "away": 2.347
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}

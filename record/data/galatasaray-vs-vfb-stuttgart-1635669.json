@@ -1,0 +1,31 @@
+{
+  "slug": "galatasaray-vs-vfb-stuttgart-1635669",
+  "fixtureId": 1635669,
+  "kickoff": "2026-11-03T17:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 645,
+    "en": "Galatasaray"
+  },
+  "away": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "observedAt": "2026-10-24T00:24:22.477Z",
+  "probs": {
+    "home": 0.4282,
+    "draw": 0.2209,
+    "away": 0.3509
+  },
+  "goalsAvg": {
+    "home": 1.986,
+    "away": 1.79
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-02T10:10:06.790Z",
+  "updatedAt": "2026-11-02T10:10:06.790Z"
+}
