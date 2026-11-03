@@ -1,0 +1,31 @@
+{
+  "slug": "bayer-leverkusen-vs-marseille-1636223",
+  "fixtureId": 1636223,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-10-26T00:45:34.096Z",
+  "probs": {
+    "home": 0.6741,
+    "draw": 0.1805,
+    "away": 0.1454
+  },
+  "goalsAvg": {
+    "home": 2.502,
+    "away": 1.105
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

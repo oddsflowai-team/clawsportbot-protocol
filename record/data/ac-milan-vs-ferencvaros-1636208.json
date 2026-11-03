@@ -1,0 +1,31 @@
+{
+  "slug": "ac-milan-vs-ferencvaros-1636208",
+  "fixtureId": 1636208,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "away": {
+    "id": 651,
+    "en": "Ferencvaros"
+  },
+  "observedAt": "2026-10-26T00:37:43.018Z",
+  "probs": {
+    "home": 0.7048,
+    "draw": 0.1681,
+    "away": 0.1271
+  },
+  "goalsAvg": {
+    "home": 2.633,
+    "away": 1.065
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

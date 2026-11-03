@@ -1,0 +1,31 @@
+{
+  "slug": "real-sociedad-vs-lyon-1636319",
+  "fixtureId": 1636319,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-10-26T00:32:54.322Z",
+  "probs": {
+    "home": 0.4891,
+    "draw": 0.2197,
+    "away": 0.2912
+  },
+  "goalsAvg": {
+    "home": 2.078,
+    "away": 1.581
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

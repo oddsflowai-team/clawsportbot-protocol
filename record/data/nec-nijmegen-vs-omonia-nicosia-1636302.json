@@ -1,0 +1,31 @@
+{
+  "slug": "nec-nijmegen-vs-omonia-nicosia-1636302",
+  "fixtureId": 1636302,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 413,
+    "en": "NEC Nijmegen"
+  },
+  "away": {
+    "id": 3402,
+    "en": "Omonia Nicosia"
+  },
+  "observedAt": "2026-10-26T00:30:24.639Z",
+  "probs": {
+    "home": 0.537,
+    "draw": 0.2118,
+    "away": 0.2512
+  },
+  "goalsAvg": {
+    "home": 2.206,
+    "away": 1.479
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

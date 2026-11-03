@@ -1,0 +1,31 @@
+{
+  "slug": "az-alkmaar-vs-juventus-1636219",
+  "fixtureId": 1636219,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 201,
+    "en": "AZ Alkmaar"
+  },
+  "away": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "observedAt": "2026-10-26T00:50:34.735Z",
+  "probs": {
+    "home": 0.2676,
+    "draw": 0.2569,
+    "away": 0.4755
+  },
+  "goalsAvg": {
+    "home": 1.168,
+    "away": 1.631
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

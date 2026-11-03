@@ -1,0 +1,31 @@
+{
+  "slug": "levski-sofia-vs-jagiellonia-bialystok-1636286",
+  "fixtureId": 1636286,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 646,
+    "en": "Levski Sofia"
+  },
+  "away": {
+    "id": 336,
+    "en": "Jagiellonia Bialystok"
+  },
+  "observedAt": "2026-10-26T00:40:00.949Z",
+  "probs": {
+    "home": 0.48095190480951905,
+    "draw": 0.24607539246075394,
+    "away": 0.27297270272972707
+  },
+  "goalsAvg": {
+    "home": 1.744,
+    "away": 1.266
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

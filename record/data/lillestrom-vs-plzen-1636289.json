@@ -1,0 +1,31 @@
+{
+  "slug": "lillestrom-vs-plzen-1636289",
+  "fixtureId": 1636289,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 321,
+    "en": "Lillestrom"
+  },
+  "away": {
+    "id": 567,
+    "en": "Plzen"
+  },
+  "observedAt": "2026-10-26T00:35:26.578Z",
+  "probs": {
+    "home": 0.35516448355164487,
+    "draw": 0.2243775622437756,
+    "away": 0.42045795420457954
+  },
+  "goalsAvg": {
+    "home": 1.761,
+    "away": 1.924
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

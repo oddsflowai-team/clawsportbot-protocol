@@ -1,0 +1,31 @@
+{
+  "slug": "anderlecht-vs-red-bull-salzburg-1636211",
+  "fixtureId": 1636211,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 554,
+    "en": "Anderlecht"
+  },
+  "away": {
+    "id": 571,
+    "en": "Red Bull Salzburg"
+  },
+  "observedAt": "2026-10-26T00:37:57.706Z",
+  "probs": {
+    "home": 0.5054000000000001,
+    "draw": 0.21930000000000002,
+    "away": 0.27530000000000004
+  },
+  "goalsAvg": {
+    "home": 2.091,
+    "away": 1.516
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

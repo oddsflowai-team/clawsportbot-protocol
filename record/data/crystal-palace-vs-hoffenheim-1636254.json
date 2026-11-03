@@ -1,0 +1,31 @@
+{
+  "slug": "crystal-palace-vs-hoffenheim-1636254",
+  "fixtureId": 1636254,
+  "kickoff": "2026-11-05T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "away": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "observedAt": "2026-10-26T00:35:25.665Z",
+  "probs": {
+    "home": 0.5136000000000001,
+    "draw": 0.21600000000000003,
+    "away": 0.27040000000000003
+  },
+  "goalsAvg": {
+    "home": 2.143,
+    "away": 1.529
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

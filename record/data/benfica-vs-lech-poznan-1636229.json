@@ -1,0 +1,31 @@
+{
+  "slug": "benfica-vs-lech-poznan-1636229",
+  "fixtureId": 1636229,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 211,
+    "en": "Benfica"
+  },
+  "away": {
+    "id": 347,
+    "en": "Lech Poznan"
+  },
+  "observedAt": "2026-10-26T00:43:04.346Z",
+  "probs": {
+    "home": 0.7877,
+    "draw": 0.1378,
+    "away": 0.0745
+  },
+  "goalsAvg": {
+    "home": 2.798,
+    "away": 0.784
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}

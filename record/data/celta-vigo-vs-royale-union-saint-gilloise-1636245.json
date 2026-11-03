@@ -1,0 +1,31 @@
+{
+  "slug": "celta-vigo-vs-royale-union-saint-gilloise-1636245",
+  "fixtureId": 1636245,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "away": {
+    "id": 1393,
+    "en": "Royale Union Saint-Gilloise"
+  },
+  "observedAt": "2026-10-26T00:47:24.921Z",
+  "probs": {
+    "home": 0.4783,
+    "draw": 0.2362,
+    "away": 0.2855
+  },
+  "goalsAvg": {
+    "home": 1.853,
+    "away": 1.395
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-03T22:10:07.079Z",
+  "updatedAt": "2026-11-03T22:10:07.079Z"
+}
