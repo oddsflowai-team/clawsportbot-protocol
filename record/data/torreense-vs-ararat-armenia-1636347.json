@@ -1,0 +1,31 @@
+{
+  "slug": "torreense-vs-ararat-armenia-1636347",
+  "fixtureId": 1636347,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 4799,
+    "en": "Torreense"
+  },
+  "away": {
+    "id": 3683,
+    "en": "Ararat-Armenia"
+  },
+  "observedAt": "2026-10-26T00:42:31.687Z",
+  "probs": {
+    "home": 0.5517,
+    "draw": 0.2529,
+    "away": 0.1954
+  },
+  "goalsAvg": {
+    "home": 1.682,
+    "away": 0.904
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-04T22:10:06.414Z",
+  "updatedAt": "2026-11-04T22:10:06.414Z"
+}

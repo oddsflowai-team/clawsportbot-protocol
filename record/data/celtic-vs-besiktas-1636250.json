@@ -1,0 +1,31 @@
+{
+  "slug": "celtic-vs-besiktas-1636250",
+  "fixtureId": 1636250,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 247,
+    "en": "Celtic"
+  },
+  "away": {
+    "id": 549,
+    "en": "Besiktas"
+  },
+  "observedAt": "2026-10-26T00:44:55.181Z",
+  "probs": {
+    "home": 0.3479,
+    "draw": 0.2285,
+    "away": 0.4236
+  },
+  "goalsAvg": {
+    "home": 1.691,
+    "away": 1.877
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-04T22:10:06.414Z",
+  "updatedAt": "2026-11-04T22:10:06.414Z"
+}

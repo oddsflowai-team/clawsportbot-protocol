@@ -1,0 +1,31 @@
+{
+  "slug": "sturm-graz-vs-celje-1636339",
+  "fixtureId": 1636339,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 637,
+    "en": "Sturm Graz"
+  },
+  "away": {
+    "id": 4360,
+    "en": "Celje"
+  },
+  "observedAt": "2026-10-26T00:49:58.896Z",
+  "probs": {
+    "home": 0.593059305930593,
+    "draw": 0.20172017201720172,
+    "away": 0.2052205220522052
+  },
+  "goalsAvg": {
+    "home": 2.321,
+    "away": 1.325
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-04T22:10:06.414Z",
+  "updatedAt": "2026-11-04T22:10:06.414Z"
+}

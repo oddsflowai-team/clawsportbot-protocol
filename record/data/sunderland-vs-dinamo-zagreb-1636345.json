@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-dinamo-zagreb-1636345",
+  "fixtureId": 1636345,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 620,
+    "en": "Dinamo Zagreb"
+  },
+  "observedAt": "2026-10-26T00:52:39.851Z",
+  "probs": {
+    "home": 0.649,
+    "draw": 0.1893,
+    "away": 0.1617
+  },
+  "goalsAvg": {
+    "home": 2.417,
+    "away": 1.151
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-04T22:10:06.414Z",
+  "updatedAt": "2026-11-04T22:10:06.414Z"
+}

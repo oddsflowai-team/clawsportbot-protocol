@@ -1,0 +1,31 @@
+{
+  "slug": "everton-vs-coventry-city-1557460",
+  "fixtureId": 1557460,
+  "kickoff": "2026-11-06T20:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 45,
+    "en": "Everton"
+  },
+  "away": {
+    "id": 1346,
+    "en": "Coventry City"
+  },
+  "observedAt": "2026-10-27T00:43:25.581Z",
+  "probs": {
+    "home": 0.5747,
+    "draw": 0.2234,
+    "away": 0.2019
+  },
+  "goalsAvg": {
+    "home": 2.009,
+    "away": 1.119
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-04T22:10:06.414Z",
+  "updatedAt": "2026-11-04T22:10:06.414Z"
+}

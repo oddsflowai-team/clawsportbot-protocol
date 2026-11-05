@@ -1,0 +1,31 @@
+{
+  "slug": "hapoel-beer-sheva-vs-ofi-crete-1636264",
+  "fixtureId": 1636264,
+  "kickoff": "2026-11-05T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 563,
+    "en": "Hapoel Beer Sheva"
+  },
+  "away": {
+    "id": 1124,
+    "en": "OFI Crete"
+  },
+  "observedAt": "2026-10-26T00:48:08.040Z",
+  "probs": {
+    "home": 0.4864,
+    "draw": 0.2341,
+    "away": 0.2795
+  },
+  "goalsAvg": {
+    "home": 1.884,
+    "away": 1.39
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-04T22:10:06.414Z",
+  "updatedAt": "2026-11-04T22:10:06.414Z"
+}
