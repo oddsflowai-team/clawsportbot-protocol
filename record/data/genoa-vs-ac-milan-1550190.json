@@ -1,0 +1,31 @@
+{
+  "slug": "genoa-vs-ac-milan-1550190",
+  "fixtureId": 1550190,
+  "kickoff": "2026-11-08T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "away": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "observedAt": "2026-10-31T08:21:49.631Z",
+  "probs": {
+    "home": 0.2043,
+    "draw": 0.2452,
+    "away": 0.5505
+  },
+  "goalsAvg": {
+    "home": 0.986,
+    "away": 1.762
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T22:10:06.825Z",
+  "updatedAt": "2026-11-07T22:10:06.825Z"
+}

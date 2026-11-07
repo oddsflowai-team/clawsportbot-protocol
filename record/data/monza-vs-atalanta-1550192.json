@@ -1,0 +1,31 @@
+{
+  "slug": "monza-vs-atalanta-1550192",
+  "fixtureId": 1550192,
+  "kickoff": "2026-11-08T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 1579,
+    "en": "Monza"
+  },
+  "away": {
+    "id": 499,
+    "en": "Atalanta"
+  },
+  "observedAt": "2026-10-31T08:21:59.798Z",
+  "probs": {
+    "home": 0.2165,
+    "draw": 0.1986,
+    "away": 0.5849
+  },
+  "goalsAvg": {
+    "home": 1.427,
+    "away": 2.39
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T22:10:06.825Z",
+  "updatedAt": "2026-11-07T22:10:06.825Z"
+}

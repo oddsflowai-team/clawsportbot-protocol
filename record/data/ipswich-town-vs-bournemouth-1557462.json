@@ -1,0 +1,31 @@
+{
+  "slug": "ipswich-town-vs-bournemouth-1557462",
+  "fixtureId": 1557462,
+  "kickoff": "2026-11-08T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "away": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "observedAt": "2026-10-29T02:51:53.508Z",
+  "probs": {
+    "home": 0.2988,
+    "draw": 0.2351,
+    "away": 0.4661
+  },
+  "goalsAvg": {
+    "home": 1.455,
+    "away": 1.855
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T22:10:06.825Z",
+  "updatedAt": "2026-11-07T22:10:06.825Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "angers-vs-nice-1552810",
+  "fixtureId": 1552810,
+  "kickoff": "2026-11-08T16:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "away": {
+    "id": 84,
+    "en": "Nice"
+  },
+  "observedAt": "2026-10-29T03:08:53.922Z",
+  "probs": {
+    "home": 0.2994,
+    "draw": 0.2437,
+    "away": 0.4569
+  },
+  "goalsAvg": {
+    "home": 1.381,
+    "away": 1.747
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T22:10:06.825Z",
+  "updatedAt": "2026-11-07T22:10:06.825Z"
+}

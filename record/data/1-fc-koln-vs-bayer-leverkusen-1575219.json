@@ -1,0 +1,31 @@
+{
+  "slug": "1-fc-koln-vs-bayer-leverkusen-1575219",
+  "fixtureId": 1575219,
+  "kickoff": "2026-11-08T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "away": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "observedAt": "2026-10-29T02:54:42.239Z",
+  "probs": {
+    "home": 0.21672167216721672,
+    "draw": 0.2085208520852085,
+    "away": 0.5747574757475747
+  },
+  "goalsAvg": {
+    "home": 1.327,
+    "away": 2.231
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T22:10:06.825Z",
+  "updatedAt": "2026-11-07T22:10:06.825Z"
+}

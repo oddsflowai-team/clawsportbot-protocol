@@ -1,0 +1,31 @@
+{
+  "slug": "brighton-vs-brentford-1557458",
+  "fixtureId": 1557458,
+  "kickoff": "2026-11-08T14:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 51,
+    "en": "Brighton"
+  },
+  "away": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "observedAt": "2026-10-29T02:51:54.753Z",
+  "probs": {
+    "home": 0.4716,
+    "draw": 0.237,
+    "away": 0.2914
+  },
+  "goalsAvg": {
+    "home": 1.838,
+    "away": 1.41
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T22:10:06.825Z",
+  "updatedAt": "2026-11-07T22:10:06.825Z"
+}
