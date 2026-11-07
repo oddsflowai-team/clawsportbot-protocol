@@ -1,0 +1,31 @@
+{
+  "slug": "rb-leipzig-vs-augsburg-1575213",
+  "fixtureId": 1575213,
+  "kickoff": "2026-11-07T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "away": {
+    "id": 170,
+    "en": "Augsburg"
+  },
+  "observedAt": "2026-10-28T00:27:52.404Z",
+  "probs": {
+    "home": 0.6493,
+    "draw": 0.1722,
+    "away": 0.1785
+  },
+  "goalsAvg": {
+    "home": 2.793,
+    "away": 1.468
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

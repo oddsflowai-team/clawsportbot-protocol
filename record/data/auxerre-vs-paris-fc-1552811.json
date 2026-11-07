@@ -1,0 +1,31 @@
+{
+  "slug": "auxerre-vs-paris-fc-1552811",
+  "fixtureId": 1552811,
+  "kickoff": "2026-11-07T18:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "away": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "observedAt": "2026-10-28T00:38:38.679Z",
+  "probs": {
+    "home": 0.2637736226377362,
+    "draw": 0.23757624237576244,
+    "away": 0.49865013498650135
+  },
+  "goalsAvg": {
+    "home": 1.298,
+    "away": 1.849
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

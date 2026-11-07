@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-dortmund-vs-sv-elversberg-1575212",
+  "fixtureId": 1575212,
+  "kickoff": "2026-11-07T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "away": {
+    "id": 1660,
+    "en": "SV Elversberg"
+  },
+  "observedAt": "2026-10-28T00:25:18.749Z",
+  "probs": {
+    "home": 0.7304,
+    "draw": 0.1524,
+    "away": 0.1172
+  },
+  "goalsAvg": {
+    "home": 2.88,
+    "away": 1.128
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

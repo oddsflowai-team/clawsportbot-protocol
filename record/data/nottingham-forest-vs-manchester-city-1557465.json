@@ -1,0 +1,31 @@
+{
+  "slug": "nottingham-forest-vs-manchester-city-1557465",
+  "fixtureId": 1557465,
+  "kickoff": "2026-11-07T17:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "away": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "observedAt": "2026-10-28T00:43:46.373Z",
+  "probs": {
+    "home": 0.2235,
+    "draw": 0.2112,
+    "away": 0.5653
+  },
+  "goalsAvg": {
+    "home": 1.34,
+    "away": 2.199
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

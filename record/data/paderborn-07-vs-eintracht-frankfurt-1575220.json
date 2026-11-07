@@ -1,0 +1,31 @@
+{
+  "slug": "paderborn-07-vs-eintracht-frankfurt-1575220",
+  "fixtureId": 1575220,
+  "kickoff": "2026-11-07T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "away": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "observedAt": "2026-10-28T00:27:47.763Z",
+  "probs": {
+    "home": 0.3394339433943394,
+    "draw": 0.22352235223522351,
+    "away": 0.43704370437043705
+  },
+  "goalsAvg": {
+    "home": 1.72,
+    "away": 1.965
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "fulham-vs-newcastle-united-1557461",
+  "fixtureId": 1557461,
+  "kickoff": "2026-11-07T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "away": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "observedAt": "2026-10-28T00:30:41.684Z",
+  "probs": {
+    "home": 0.4288,
+    "draw": 0.242,
+    "away": 0.3292
+  },
+  "goalsAvg": {
+    "home": 1.728,
+    "away": 1.494
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

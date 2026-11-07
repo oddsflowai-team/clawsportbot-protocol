@@ -1,0 +1,31 @@
+{
+  "slug": "osasuna-vs-athletic-bilbao-1570448",
+  "fixtureId": 1570448,
+  "kickoff": "2026-11-07T17:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 727,
+    "en": "Osasuna"
+  },
+  "away": {
+    "id": 531,
+    "en": "Athletic Bilbao"
+  },
+  "observedAt": "2026-10-28T00:43:48.103Z",
+  "probs": {
+    "home": 0.2873,
+    "draw": 0.2758,
+    "away": 0.4369
+  },
+  "goalsAvg": {
+    "home": 1.113,
+    "away": 1.431
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}

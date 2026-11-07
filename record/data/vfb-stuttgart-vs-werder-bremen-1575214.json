@@ -1,0 +1,31 @@
+{
+  "slug": "vfb-stuttgart-vs-werder-bremen-1575214",
+  "fixtureId": 1575214,
+  "kickoff": "2026-11-07T17:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "away": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "observedAt": "2026-10-28T00:41:08.693Z",
+  "probs": {
+    "home": 0.6425,
+    "draw": 0.1801,
+    "away": 0.1774
+  },
+  "goalsAvg": {
+    "home": 2.631,
+    "away": 1.363
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-07T10:10:06.807Z",
+  "updatedAt": "2026-11-07T10:10:06.807Z"
+}
