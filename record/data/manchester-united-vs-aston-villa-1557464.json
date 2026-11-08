@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-united-vs-aston-villa-1557464",
+  "fixtureId": 1557464,
+  "kickoff": "2026-11-08T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "away": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "observedAt": "2026-10-29T03:13:29.190Z",
+  "probs": {
+    "home": 0.45974597459745975,
+    "draw": 0.22342234223422341,
+    "away": 0.31683168316831684
+  },
+  "goalsAvg": {
+    "home": 1.998,
+    "away": 1.642
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-08T10:10:06.952Z",
+  "updatedAt": "2026-11-08T10:10:06.952Z"
+}

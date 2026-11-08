@@ -1,0 +1,31 @@
+{
+  "slug": "sc-freiburg-vs-union-berlin-1575216",
+  "fixtureId": 1575216,
+  "kickoff": "2026-11-08T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 160,
+    "en": "SC Freiburg"
+  },
+  "away": {
+    "id": 182,
+    "en": "Union Berlin"
+  },
+  "observedAt": "2026-10-29T03:11:21.988Z",
+  "probs": {
+    "home": 0.6296,
+    "draw": 0.1929,
+    "away": 0.1775
+  },
+  "goalsAvg": {
+    "home": 2.404,
+    "away": 1.229
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-08T10:10:06.952Z",
+  "updatedAt": "2026-11-08T10:10:06.952Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "inter-milan-vs-como-1550191",
+  "fixtureId": 1550191,
+  "kickoff": "2026-11-08T17:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "away": {
+    "id": 895,
+    "en": "Como"
+  },
+  "observedAt": "2026-10-31T08:24:33.561Z",
+  "probs": {
+    "home": 0.6039,
+    "draw": 0.1947,
+    "away": 0.2014
+  },
+  "goalsAvg": {
+    "home": 2.431,
+    "away": 1.373
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-08T10:10:06.952Z",
+  "updatedAt": "2026-11-08T10:10:06.952Z"
+}

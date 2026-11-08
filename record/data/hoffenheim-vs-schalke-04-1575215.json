@@ -1,0 +1,31 @@
+{
+  "slug": "hoffenheim-vs-schalke-04-1575215",
+  "fixtureId": 1575215,
+  "kickoff": "2026-11-08T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "away": {
+    "id": 174,
+    "en": "Schalke 04"
+  },
+  "observedAt": "2026-10-29T03:18:46.484Z",
+  "probs": {
+    "home": 0.5831,
+    "draw": 0.2051,
+    "away": 0.2118
+  },
+  "goalsAvg": {
+    "home": 2.277,
+    "away": 1.331
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-08T10:10:06.952Z",
+  "updatedAt": "2026-11-08T10:10:06.952Z"
+}

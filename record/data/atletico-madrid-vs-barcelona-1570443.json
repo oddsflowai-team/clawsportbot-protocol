@@ -1,0 +1,31 @@
+{
+  "slug": "atletico-madrid-vs-barcelona-1570443",
+  "fixtureId": 1570443,
+  "kickoff": "2026-11-08T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "away": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "observedAt": "2026-10-29T03:21:31.837Z",
+  "probs": {
+    "home": 0.2655,
+    "draw": 0.2132,
+    "away": 0.5213
+  },
+  "goalsAvg": {
+    "home": 1.536,
+    "away": 2.187
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-08T10:10:06.952Z",
+  "updatedAt": "2026-11-08T10:10:06.952Z"
+}
