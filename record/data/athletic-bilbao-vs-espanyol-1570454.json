@@ -1,0 +1,31 @@
+{
+  "slug": "athletic-bilbao-vs-espanyol-1570454",
+  "fixtureId": 1570454,
+  "kickoff": "2026-11-20T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 531,
+    "en": "Athletic Bilbao"
+  },
+  "away": {
+    "id": 540,
+    "en": "Espanyol"
+  },
+  "observedAt": "2026-11-11T02:27:22.853Z",
+  "probs": {
+    "home": 0.6444,
+    "draw": 0.207,
+    "away": 0.1486
+  },
+  "goalsAvg": {
+    "home": 2.123,
+    "away": 0.924
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-18T22:10:06.673Z",
+  "updatedAt": "2026-11-18T22:10:06.673Z"
+}

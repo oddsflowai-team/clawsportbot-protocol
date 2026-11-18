@@ -1,0 +1,31 @@
+{
+  "slug": "bayern-munich-vs-1-fc-koln-1575221",
+  "fixtureId": 1575221,
+  "kickoff": "2026-11-20T19:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 157,
+    "en": "Bayern Munich"
+  },
+  "away": {
+    "id": 192,
+    "en": "1. FC Köln"
+  },
+  "observedAt": "2026-11-10T00:38:55.860Z",
+  "probs": {
+    "home": 0.8798120187981202,
+    "draw": 0.07949205079492051,
+    "away": 0.040695930406959305
+  },
+  "goalsAvg": {
+    "home": 3.808,
+    "away": 0.853
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-18T22:10:06.673Z",
+  "updatedAt": "2026-11-18T22:10:06.673Z"
+}
