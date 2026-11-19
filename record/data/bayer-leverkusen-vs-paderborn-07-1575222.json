@@ -1,0 +1,31 @@
+{
+  "slug": "bayer-leverkusen-vs-paderborn-07-1575222",
+  "fixtureId": 1575222,
+  "kickoff": "2026-11-21T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "away": {
+    "id": 185,
+    "en": "Paderborn 07"
+  },
+  "observedAt": "2026-11-11T00:36:16.591Z",
+  "probs": {
+    "home": 0.7733226677332267,
+    "draw": 0.14008599140085992,
+    "away": 0.0865913408659134
+  },
+  "goalsAvg": {
+    "home": 2.877,
+    "away": 0.909
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

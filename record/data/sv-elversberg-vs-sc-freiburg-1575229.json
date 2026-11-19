@@ -1,0 +1,31 @@
+{
+  "slug": "sv-elversberg-vs-sc-freiburg-1575229",
+  "fixtureId": 1575229,
+  "kickoff": "2026-11-21T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 1660,
+    "en": "SV Elversberg"
+  },
+  "away": {
+    "id": 160,
+    "en": "SC Freiburg"
+  },
+  "observedAt": "2026-11-11T00:40:31.607Z",
+  "probs": {
+    "home": 0.3008,
+    "draw": 0.2249,
+    "away": 0.4743
+  },
+  "goalsAvg": {
+    "home": 1.564,
+    "away": 1.993
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

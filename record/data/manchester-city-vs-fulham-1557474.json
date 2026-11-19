@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-city-vs-fulham-1557474",
+  "fixtureId": 1557474,
+  "kickoff": "2026-11-21T12:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "away": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "observedAt": "2026-11-11T00:13:09.759Z",
+  "probs": {
+    "home": 0.647964796479648,
+    "draw": 0.1909190919091909,
+    "away": 0.1611161116111611
+  },
+  "goalsAvg": {
+    "home": 2.388,
+    "away": 1.132
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

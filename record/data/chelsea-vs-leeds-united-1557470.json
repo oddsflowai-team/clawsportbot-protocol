@@ -1,0 +1,31 @@
+{
+  "slug": "chelsea-vs-leeds-united-1557470",
+  "fixtureId": 1557470,
+  "kickoff": "2026-11-21T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "away": {
+    "id": 63,
+    "en": "Leeds United"
+  },
+  "observedAt": "2026-11-11T00:50:23.205Z",
+  "probs": {
+    "home": 0.5311,
+    "draw": 0.2333,
+    "away": 0.2356
+  },
+  "goalsAvg": {
+    "home": 1.906,
+    "away": 1.21
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

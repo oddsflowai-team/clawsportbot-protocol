@@ -1,0 +1,31 @@
+{
+  "slug": "eintracht-frankfurt-vs-hoffenheim-1575223",
+  "fixtureId": 1575223,
+  "kickoff": "2026-11-21T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "away": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "observedAt": "2026-11-11T00:35:17.517Z",
+  "probs": {
+    "home": 0.4109,
+    "draw": 0.2247,
+    "away": 0.3644
+  },
+  "goalsAvg": {
+    "home": 1.9,
+    "away": 1.785
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

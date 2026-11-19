@@ -1,0 +1,31 @@
+{
+  "slug": "aston-villa-vs-sunderland-1557467",
+  "fixtureId": 1557467,
+  "kickoff": "2026-11-21T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "away": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "observedAt": "2026-11-11T00:43:07.004Z",
+  "probs": {
+    "home": 0.5576,
+    "draw": 0.2278,
+    "away": 0.2146
+  },
+  "goalsAvg": {
+    "home": 1.965,
+    "away": 1.151
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

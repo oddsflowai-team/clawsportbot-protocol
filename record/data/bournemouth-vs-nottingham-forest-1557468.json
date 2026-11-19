@@ -1,0 +1,31 @@
+{
+  "slug": "bournemouth-vs-nottingham-forest-1557468",
+  "fixtureId": 1557468,
+  "kickoff": "2026-11-21T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "away": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "observedAt": "2026-11-11T00:48:47.130Z",
+  "probs": {
+    "home": 0.4704529547045295,
+    "draw": 0.24657534246575344,
+    "away": 0.282971702829717
+  },
+  "goalsAvg": {
+    "home": 1.73,
+    "away": 1.299
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

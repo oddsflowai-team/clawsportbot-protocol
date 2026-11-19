@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-monchengladbach-vs-borussia-dortmund-1575226",
+  "fixtureId": 1575226,
+  "kickoff": "2026-11-21T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 163,
+    "en": "Borussia Mönchengladbach"
+  },
+  "away": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "observedAt": "2026-11-11T00:37:54.041Z",
+  "probs": {
+    "home": 0.2137,
+    "draw": 0.2057,
+    "away": 0.5806
+  },
+  "goalsAvg": {
+    "home": 1.337,
+    "away": 2.271
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

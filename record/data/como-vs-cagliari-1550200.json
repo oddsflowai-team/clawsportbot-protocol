@@ -1,0 +1,31 @@
+{
+  "slug": "como-vs-cagliari-1550200",
+  "fixtureId": 1550200,
+  "kickoff": "2026-11-21T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 895,
+    "en": "Como"
+  },
+  "away": {
+    "id": 490,
+    "en": "Cagliari"
+  },
+  "observedAt": "2026-11-11T00:31:22.286Z",
+  "probs": {
+    "home": 0.6942,
+    "draw": 0.1731,
+    "away": 0.1327
+  },
+  "goalsAvg": {
+    "home": 2.572,
+    "away": 1.068
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

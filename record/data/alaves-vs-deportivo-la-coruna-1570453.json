@@ -1,0 +1,31 @@
+{
+  "slug": "alaves-vs-deportivo-la-coruna-1570453",
+  "fixtureId": 1570453,
+  "kickoff": "2026-11-21T13:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 542,
+    "en": "Alaves"
+  },
+  "away": {
+    "id": 544,
+    "en": "Deportivo La Coruna"
+  },
+  "observedAt": "2026-11-11T02:28:02.625Z",
+  "probs": {
+    "home": 0.4613,
+    "draw": 0.263,
+    "away": 0.2757
+  },
+  "goalsAvg": {
+    "home": 1.562,
+    "away": 1.156
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}

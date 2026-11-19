@@ -1,0 +1,31 @@
+{
+  "slug": "lazio-vs-lecce-1550202",
+  "fixtureId": 1550202,
+  "kickoff": "2026-11-21T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 487,
+    "en": "Lazio"
+  },
+  "away": {
+    "id": 867,
+    "en": "Lecce"
+  },
+  "observedAt": "2026-11-11T00:32:47.350Z",
+  "probs": {
+    "home": 0.6878,
+    "draw": 0.1761,
+    "away": 0.1361
+  },
+  "goalsAvg": {
+    "home": 2.538,
+    "away": 1.07
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-19T22:10:07.902Z",
+  "updatedAt": "2026-11-19T22:10:07.902Z"
+}
