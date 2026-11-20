@@ -1,0 +1,31 @@
+{
+  "slug": "tottenham-hotspur-vs-ipswich-town-1557476",
+  "fixtureId": 1557476,
+  "kickoff": "2026-11-21T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 47,
+    "en": "Tottenham Hotspur"
+  },
+  "away": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "observedAt": "2026-11-11T00:41:20.150Z",
+  "probs": {
+    "home": 0.6189,
+    "draw": 0.1972,
+    "away": 0.1839
+  },
+  "goalsAvg": {
+    "home": 2.351,
+    "away": 1.232
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

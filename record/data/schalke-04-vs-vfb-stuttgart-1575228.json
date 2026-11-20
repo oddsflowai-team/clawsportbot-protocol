@@ -1,0 +1,31 @@
+{
+  "slug": "schalke-04-vs-vfb-stuttgart-1575228",
+  "fixtureId": 1575228,
+  "kickoff": "2026-11-21T17:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 174,
+    "en": "Schalke 04"
+  },
+  "away": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "observedAt": "2026-11-11T01:07:44.277Z",
+  "probs": {
+    "home": 0.2525,
+    "draw": 0.2119,
+    "away": 0.5356
+  },
+  "goalsAvg": {
+    "home": 1.486,
+    "away": 2.206
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

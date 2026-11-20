@@ -1,0 +1,31 @@
+{
+  "slug": "lens-vs-toulouse-1552819",
+  "fixtureId": 1552819,
+  "kickoff": "2026-11-21T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "away": {
+    "id": 96,
+    "en": "Toulouse"
+  },
+  "observedAt": "2026-11-11T01:20:09.160Z",
+  "probs": {
+    "home": 0.5345,
+    "draw": 0.2175,
+    "away": 0.248
+  },
+  "goalsAvg": {
+    "home": 2.119,
+    "away": 1.405
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

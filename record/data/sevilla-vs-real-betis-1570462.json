@@ -1,0 +1,31 @@
+{
+  "slug": "sevilla-vs-real-betis-1570462",
+  "fixtureId": 1570462,
+  "kickoff": "2026-11-21T17:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 536,
+    "en": "Sevilla"
+  },
+  "away": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "observedAt": "2026-11-11T02:30:22.146Z",
+  "probs": {
+    "home": 0.3376,
+    "draw": 0.2494,
+    "away": 0.413
+  },
+  "goalsAvg": {
+    "home": 1.452,
+    "away": 1.626
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

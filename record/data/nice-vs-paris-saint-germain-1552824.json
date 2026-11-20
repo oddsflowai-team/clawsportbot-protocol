@@ -1,0 +1,31 @@
+{
+  "slug": "nice-vs-paris-saint-germain-1552824",
+  "fixtureId": 1552824,
+  "kickoff": "2026-11-21T16:15:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 84,
+    "en": "Nice"
+  },
+  "away": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "observedAt": "2026-11-11T01:00:20.808Z",
+  "probs": {
+    "home": 0.1567156715671567,
+    "draw": 0.18781878187818782,
+    "away": 0.6554655465546554
+  },
+  "goalsAvg": {
+    "home": 1.127,
+    "away": 2.424
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

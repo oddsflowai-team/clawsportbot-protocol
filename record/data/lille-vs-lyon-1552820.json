@@ -1,0 +1,31 @@
+{
+  "slug": "lille-vs-lyon-1552820",
+  "fixtureId": 1552820,
+  "kickoff": "2026-11-21T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 79,
+    "en": "Lille"
+  },
+  "away": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "observedAt": "2026-11-11T01:23:04.559Z",
+  "probs": {
+    "home": 0.4076592340765923,
+    "draw": 0.27217278272172785,
+    "away": 0.32016798320167983
+  },
+  "goalsAvg": {
+    "home": 1.417,
+    "away": 1.229
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

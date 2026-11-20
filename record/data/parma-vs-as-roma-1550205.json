@@ -1,0 +1,31 @@
+{
+  "slug": "parma-vs-as-roma-1550205",
+  "fixtureId": 1550205,
+  "kickoff": "2026-11-21T17:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "away": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "observedAt": "2026-11-11T01:05:36.272Z",
+  "probs": {
+    "home": 0.1304869513048695,
+    "draw": 0.1724827517248275,
+    "away": 0.697030296970303
+  },
+  "goalsAvg": {
+    "home": 1.055,
+    "away": 2.572
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

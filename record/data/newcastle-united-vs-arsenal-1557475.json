@@ -1,0 +1,31 @@
+{
+  "slug": "newcastle-united-vs-arsenal-1557475",
+  "fixtureId": 1557475,
+  "kickoff": "2026-11-21T17:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "away": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "observedAt": "2026-11-11T01:07:43.635Z",
+  "probs": {
+    "home": 0.1859,
+    "draw": 0.22,
+    "away": 0.5941
+  },
+  "goalsAvg": {
+    "home": 1.058,
+    "away": 2.033
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}

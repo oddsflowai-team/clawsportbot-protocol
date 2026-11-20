@@ -1,0 +1,31 @@
+{
+  "slug": "monaco-vs-auxerre-1552823",
+  "fixtureId": 1552823,
+  "kickoff": "2026-11-21T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 91,
+    "en": "Monaco"
+  },
+  "away": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "observedAt": "2026-11-11T01:22:55.682Z",
+  "probs": {
+    "home": 0.6848000000000001,
+    "draw": 0.17890000000000003,
+    "away": 0.13630000000000003
+  },
+  "goalsAvg": {
+    "home": 2.49,
+    "away": 1.047
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T10:10:06.357Z",
+  "updatedAt": "2026-11-20T10:10:06.357Z"
+}
