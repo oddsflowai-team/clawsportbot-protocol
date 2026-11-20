@@ -1,0 +1,31 @@
+{
+  "slug": "augsburg-vs-mainz-05-1575224",
+  "fixtureId": 1575224,
+  "kickoff": "2026-11-22T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 170,
+    "en": "Augsburg"
+  },
+  "away": {
+    "id": 164,
+    "en": "Mainz 05"
+  },
+  "observedAt": "2026-11-12T00:39:19.607Z",
+  "probs": {
+    "home": 0.35943594359435943,
+    "draw": 0.22432243224322432,
+    "away": 0.4162416241624162
+  },
+  "goalsAvg": {
+    "home": 1.775,
+    "away": 1.917
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

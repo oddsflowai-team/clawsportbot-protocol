@@ -1,0 +1,31 @@
+{
+  "slug": "juventus-vs-venezia-1550201",
+  "fixtureId": 1550201,
+  "kickoff": "2026-11-22T11:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 496,
+    "en": "Juventus"
+  },
+  "away": {
+    "id": 517,
+    "en": "Venezia"
+  },
+  "observedAt": "2026-11-13T00:41:16.887Z",
+  "probs": {
+    "home": 0.6876687668766877,
+    "draw": 0.1782178217821782,
+    "away": 0.1341134113411341
+  },
+  "goalsAvg": {
+    "home": 2.491,
+    "away": 1.034
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

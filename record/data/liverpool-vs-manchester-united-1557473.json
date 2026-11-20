@@ -1,0 +1,31 @@
+{
+  "slug": "liverpool-vs-manchester-united-1557473",
+  "fixtureId": 1557473,
+  "kickoff": "2026-11-22T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 40,
+    "en": "Liverpool"
+  },
+  "away": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "observedAt": "2026-11-12T00:57:05.487Z",
+  "probs": {
+    "home": 0.5215,
+    "draw": 0.2184,
+    "away": 0.2601
+  },
+  "goalsAvg": {
+    "home": 2.108,
+    "away": 1.456
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

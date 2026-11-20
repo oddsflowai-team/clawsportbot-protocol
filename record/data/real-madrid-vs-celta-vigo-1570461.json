@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-celta-vigo-1570461",
+  "fixtureId": 1570461,
+  "kickoff": "2026-11-21T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "observedAt": "2026-11-11T02:32:29.437Z",
+  "probs": {
+    "home": 0.8091809180918093,
+    "draw": 0.12811281128112811,
+    "away": 0.06270627062706272
+  },
+  "goalsAvg": {
+    "home": 2.856,
+    "away": 0.713
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "paris-fc-vs-angers-1552825",
+  "fixtureId": 1552825,
+  "kickoff": "2026-11-22T14:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "away": {
+    "id": 77,
+    "en": "Angers"
+  },
+  "observedAt": "2026-11-12T00:36:55.952Z",
+  "probs": {
+    "home": 0.6786,
+    "draw": 0.1882,
+    "away": 0.1332
+  },
+  "goalsAvg": {
+    "home": 2.331,
+    "away": 0.948
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

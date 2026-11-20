@@ -1,0 +1,31 @@
+{
+  "slug": "barcelona-vs-villarreal-1570455",
+  "fixtureId": 1570455,
+  "kickoff": "2026-11-22T13:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "away": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "observedAt": "2026-11-12T00:26:56.250Z",
+  "probs": {
+    "home": 0.7609,
+    "draw": 0.1303,
+    "away": 0.1088
+  },
+  "goalsAvg": {
+    "home": 3.357,
+    "away": 1.316
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

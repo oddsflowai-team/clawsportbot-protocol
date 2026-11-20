@@ -1,0 +1,31 @@
+{
+  "slug": "sassuolo-vs-genoa-1550206",
+  "fixtureId": 1550206,
+  "kickoff": "2026-11-22T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 488,
+    "en": "Sassuolo"
+  },
+  "away": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "observedAt": "2026-11-12T00:17:13.388Z",
+  "probs": {
+    "home": 0.397,
+    "draw": 0.2737,
+    "away": 0.3293
+  },
+  "goalsAvg": {
+    "home": 1.388,
+    "away": 1.243
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "strasbourg-vs-brest-1552826",
+  "fixtureId": 1552826,
+  "kickoff": "2026-11-21T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 95,
+    "en": "Strasbourg"
+  },
+  "away": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "observedAt": "2026-11-11T01:25:30.139Z",
+  "probs": {
+    "home": 0.4443444344434443,
+    "draw": 0.2274227422742274,
+    "away": 0.3282328232823282
+  },
+  "goalsAvg": {
+    "home": 1.924,
+    "away": 1.638
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-20T22:10:07.128Z",
+  "updatedAt": "2026-11-20T22:10:07.128Z"
+}
