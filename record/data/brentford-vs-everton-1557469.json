@@ -1,0 +1,31 @@
+{
+  "slug": "brentford-vs-everton-1557469",
+  "fixtureId": 1557469,
+  "kickoff": "2026-11-23T20:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "away": {
+    "id": 45,
+    "en": "Everton"
+  },
+  "observedAt": "2026-11-13T00:43:37.650Z",
+  "probs": {
+    "home": 0.5323532353235323,
+    "draw": 0.23202320232023202,
+    "away": 0.23562356235623563
+  },
+  "goalsAvg": {
+    "home": 1.921,
+    "away": 1.22
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-21T22:10:06.057Z",
+  "updatedAt": "2026-11-21T22:10:06.057Z"
+}
