@@ -1,0 +1,31 @@
+{
+  "slug": "marseille-vs-le-mans-1552822",
+  "fixtureId": 1552822,
+  "kickoff": "2026-11-22T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "away": {
+    "id": 1298,
+    "en": "Le Mans"
+  },
+  "observedAt": "2026-11-12T01:07:06.191Z",
+  "probs": {
+    "home": 0.6534,
+    "draw": 0.1888,
+    "away": 0.1578
+  },
+  "goalsAvg": {
+    "home": 2.411,
+    "away": 1.126
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-21T10:10:06.572Z",
+  "updatedAt": "2026-11-21T10:10:06.572Z"
+}

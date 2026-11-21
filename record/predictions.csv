@@ -462,9 +462,9 @@ hoffenheim-vs-schalke-04-1575215,Bundesliga,2026-11-08T18:30:00.000Z,Hoffenheim,
 fiorentina-vs-juventus-1550189,Serie A,2026-11-08T19:45:00.000Z,Fiorentina,Juventus,0.2182,0.2239,0.5579,2026-11-08T10:10:06.952Z,settled,2,2,miss,2026-11-09T01:17:19.324Z
 lens-vs-marseille-1552818,Ligue 1,2026-11-08T19:45:00.000Z,Lens,Marseille,0.46905309469053086,0.22367763223677628,0.3072692730726927,2026-11-08T10:10:06.952Z,settled,1,2,miss,2026-11-09T01:17:19.324Z
 atletico-madrid-vs-barcelona-1570443,La Liga,2026-11-08T20:00:00.000Z,Atletico Madrid,Barcelona,0.2655,0.2132,0.5213,2026-11-08T10:10:06.952Z,settled,1,2,hit,2026-11-09T01:17:19.324Z
-bayern-munich-vs-1-fc-koln-1575221,Bundesliga,2026-11-20T19:30:00.000Z,Bayern Munich,1. FC Köln,0.8798120187981202,0.07949205079492051,0.040695930406959305,2026-11-18T22:10:06.673Z,upcoming,,,,
-troyes-vs-le-havre-1552827,Ligue 1,2026-11-20T19:45:00.000Z,Troyes,Le Havre,0.46585341465853414,0.24577542245775422,0.2883711628837116,2026-11-18T22:10:06.673Z,upcoming,,,,
-athletic-bilbao-vs-espanyol-1570454,La Liga,2026-11-20T20:00:00.000Z,Athletic Bilbao,Espanyol,0.6444,0.207,0.1486,2026-11-18T22:10:06.673Z,upcoming,,,,
+bayern-munich-vs-1-fc-koln-1575221,Bundesliga,2026-11-20T19:30:00.000Z,Bayern Munich,1. FC Köln,0.8798120187981202,0.07949205079492051,0.040695930406959305,2026-11-18T22:10:06.673Z,settled,1,1,miss,2026-11-21T10:10:06.572Z
+troyes-vs-le-havre-1552827,Ligue 1,2026-11-20T19:45:00.000Z,Troyes,Le Havre,0.46585341465853414,0.24577542245775422,0.2883711628837116,2026-11-18T22:10:06.673Z,settled,3,1,hit,2026-11-21T10:10:06.572Z
+athletic-bilbao-vs-espanyol-1570454,La Liga,2026-11-20T20:00:00.000Z,Athletic Bilbao,Espanyol,0.6444,0.207,0.1486,2026-11-18T22:10:06.673Z,settled,0,1,miss,2026-11-21T10:10:06.572Z
 manchester-city-vs-fulham-1557474,Premier League,2026-11-21T12:30:00.000Z,Manchester City,Fulham,0.647964796479648,0.1909190919091909,0.1611161116111611,2026-11-19T22:10:07.902Z,upcoming,,,,
 alaves-vs-deportivo-la-coruna-1570453,La Liga,2026-11-21T13:00:00.000Z,Alaves,Deportivo La Coruna,0.4613,0.263,0.2757,2026-11-19T22:10:07.902Z,upcoming,,,,
 como-vs-cagliari-1550200,Serie A,2026-11-21T14:00:00.000Z,Como,Cagliari,0.6942,0.1731,0.1327,2026-11-19T22:10:07.902Z,upcoming,,,,
@@ -501,3 +501,9 @@ augsburg-vs-mainz-05-1575224,Bundesliga,2026-11-22T14:30:00.000Z,Augsburg,Mainz 
 racing-santander-vs-real-sociedad-1570459,La Liga,2026-11-22T15:15:00.000Z,Racing Santander,Real Sociedad,0.31436856314368566,0.21877812218778123,0.46685331466853314,2026-11-20T22:10:07.128Z,upcoming,,,,
 lorient-vs-rennes-1552821,Ligue 1,2026-11-22T16:15:00.000Z,Lorient,Rennes,0.3322,0.2457,0.4221,2026-11-20T22:10:07.128Z,upcoming,,,,
 liverpool-vs-manchester-united-1557473,Premier League,2026-11-22T16:30:00.000Z,Liverpool,Manchester United,0.5215,0.2184,0.2601,2026-11-20T22:10:07.128Z,upcoming,,,,
+werder-bremen-vs-hamburger-sv-1575227,Bundesliga,2026-11-22T16:30:00.000Z,Werder Bremen,Hamburger SV,0.5527,0.2066,0.2407,2026-11-21T10:10:06.572Z,upcoming,,,,
+ac-milan-vs-frosinone-1550197,Serie A,2026-11-22T17:00:00.000Z,AC Milan,Frosinone,0.6173,0.1945,0.1882,2026-11-21T10:10:06.572Z,upcoming,,,,
+osasuna-vs-malaga-1570458,La Liga,2026-11-22T17:30:00.000Z,Osasuna,Malaga,0.5462,0.2517,0.2021,2026-11-21T10:10:06.572Z,upcoming,,,,
+atalanta-vs-inter-milan-1550198,Serie A,2026-11-22T19:45:00.000Z,Atalanta,Inter Milan,0.2147,0.1989,0.5864,2026-11-21T10:10:06.572Z,upcoming,,,,
+marseille-vs-le-mans-1552822,Ligue 1,2026-11-22T19:45:00.000Z,Marseille,Le Mans,0.6534,0.1888,0.1578,2026-11-21T10:10:06.572Z,upcoming,,,,
+getafe-vs-atletico-madrid-1570456,La Liga,2026-11-22T20:00:00.000Z,Getafe,Atletico Madrid,0.179,0.2347,0.5863,2026-11-21T10:10:06.572Z,upcoming,,,,

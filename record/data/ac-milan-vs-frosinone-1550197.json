@@ -1,0 +1,31 @@
+{
+  "slug": "ac-milan-vs-frosinone-1550197",
+  "fixtureId": 1550197,
+  "kickoff": "2026-11-22T17:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "away": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "observedAt": "2026-11-12T00:35:30.891Z",
+  "probs": {
+    "home": 0.6173,
+    "draw": 0.1945,
+    "away": 0.1882
+  },
+  "goalsAvg": {
+    "home": 2.405,
+    "away": 1.287
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-21T10:10:06.572Z",
+  "updatedAt": "2026-11-21T10:10:06.572Z"
+}

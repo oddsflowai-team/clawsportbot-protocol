@@ -1,0 +1,31 @@
+{
+  "slug": "werder-bremen-vs-hamburger-sv-1575227",
+  "fixtureId": 1575227,
+  "kickoff": "2026-11-22T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "away": {
+    "id": 175,
+    "en": "Hamburger SV"
+  },
+  "observedAt": "2026-11-12T00:55:15.500Z",
+  "probs": {
+    "home": 0.5527,
+    "draw": 0.2066,
+    "away": 0.2407
+  },
+  "goalsAvg": {
+    "home": 2.284,
+    "away": 1.48
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-21T10:10:06.572Z",
+  "updatedAt": "2026-11-21T10:10:06.572Z"
+}

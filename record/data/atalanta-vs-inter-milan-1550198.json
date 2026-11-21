@@ -1,0 +1,31 @@
+{
+  "slug": "atalanta-vs-inter-milan-1550198",
+  "fixtureId": 1550198,
+  "kickoff": "2026-11-22T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 499,
+    "en": "Atalanta"
+  },
+  "away": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "observedAt": "2026-11-12T01:05:30.189Z",
+  "probs": {
+    "home": 0.2147,
+    "draw": 0.1989,
+    "away": 0.5864
+  },
+  "goalsAvg": {
+    "home": 1.413,
+    "away": 2.383
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-21T10:10:06.572Z",
+  "updatedAt": "2026-11-21T10:10:06.572Z"
+}
