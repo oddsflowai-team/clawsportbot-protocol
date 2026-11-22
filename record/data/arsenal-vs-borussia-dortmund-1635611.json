@@ -1,0 +1,31 @@
+{
+  "slug": "arsenal-vs-borussia-dortmund-1635611",
+  "fixtureId": 1635611,
+  "kickoff": "2026-11-24T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "away": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "observedAt": "2026-11-14T00:06:32.997Z",
+  "probs": {
+    "home": 0.684,
+    "draw": 0.1861,
+    "away": 0.1299
+  },
+  "goalsAvg": {
+    "home": 2.348,
+    "away": 0.937
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}

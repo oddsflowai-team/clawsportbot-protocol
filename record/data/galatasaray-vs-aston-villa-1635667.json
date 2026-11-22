@@ -1,0 +1,31 @@
+{
+  "slug": "galatasaray-vs-aston-villa-1635667",
+  "fixtureId": 1635667,
+  "kickoff": "2026-11-24T17:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 645,
+    "en": "Galatasaray"
+  },
+  "away": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "observedAt": "2026-11-14T00:04:00.389Z",
+  "probs": {
+    "home": 0.3704,
+    "draw": 0.2263,
+    "away": 0.4033
+  },
+  "goalsAvg": {
+    "home": 1.782,
+    "away": 1.864
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}

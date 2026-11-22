@@ -1,0 +1,31 @@
+{
+  "slug": "slovan-bratislava-vs-real-betis-1635731",
+  "fixtureId": 1635731,
+  "kickoff": "2026-11-24T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 656,
+    "en": "Slovan Bratislava"
+  },
+  "away": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "observedAt": "2026-11-14T00:16:18.474Z",
+  "probs": {
+    "home": 0.099,
+    "draw": 0.1552,
+    "away": 0.7458
+  },
+  "goalsAvg": {
+    "home": 0.91,
+    "away": 2.686
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}

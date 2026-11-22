@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-psv-eindhoven-1635715",
+  "fixtureId": 1635715,
+  "kickoff": "2026-11-24T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 197,
+    "en": "PSV Eindhoven"
+  },
+  "observedAt": "2026-11-14T00:11:25.118Z",
+  "probs": {
+    "home": 0.8051194880511949,
+    "draw": 0.11278872112788721,
+    "away": 0.08209179082091791
+  },
+  "goalsAvg": {
+    "home": 3.537,
+    "away": 1.181
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}

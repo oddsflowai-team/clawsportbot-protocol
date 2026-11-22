@@ -1,0 +1,31 @@
+{
+  "slug": "rb-leipzig-vs-lens-1635713",
+  "fixtureId": 1635713,
+  "kickoff": "2026-11-24T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 173,
+    "en": "RB Leipzig"
+  },
+  "away": {
+    "id": 116,
+    "en": "Lens"
+  },
+  "observedAt": "2026-11-14T00:09:09.710Z",
+  "probs": {
+    "home": 0.6711,
+    "draw": 0.1702,
+    "away": 0.1587
+  },
+  "goalsAvg": {
+    "home": 2.753,
+    "away": 1.325
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}

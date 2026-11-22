@@ -1,0 +1,31 @@
+{
+  "slug": "bodo-glimt-vs-lask-1635641",
+  "fixtureId": 1635641,
+  "kickoff": "2026-11-24T17:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 327,
+    "en": "Bodo/Glimt"
+  },
+  "away": {
+    "id": 1026,
+    "en": "LASK"
+  },
+  "observedAt": "2026-11-14T00:03:58.213Z",
+  "probs": {
+    "home": 0.6283,
+    "draw": 0.1801,
+    "away": 0.1916
+  },
+  "goalsAvg": {
+    "home": 2.676,
+    "away": 1.472
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}

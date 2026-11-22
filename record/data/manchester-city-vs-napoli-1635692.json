@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-city-vs-napoli-1635692",
+  "fixtureId": 1635692,
+  "kickoff": "2026-11-24T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "away": {
+    "id": 492,
+    "en": "Napoli"
+  },
+  "observedAt": "2026-11-14T00:13:56.983Z",
+  "probs": {
+    "home": 0.7665000000000001,
+    "draw": 0.14540000000000003,
+    "away": 0.08810000000000001
+  },
+  "goalsAvg": {
+    "home": 2.782,
+    "away": 0.878
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-22T22:10:06.859Z",
+  "updatedAt": "2026-11-22T22:10:06.859Z"
+}
