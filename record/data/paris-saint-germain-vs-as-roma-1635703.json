@@ -1,0 +1,31 @@
+{
+  "slug": "paris-saint-germain-vs-as-roma-1635703",
+  "fixtureId": 1635703,
+  "kickoff": "2026-11-25T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "away": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "observedAt": "2026-11-15T00:29:33.226Z",
+  "probs": {
+    "home": 0.7221,
+    "draw": 0.1605,
+    "away": 0.1174
+  },
+  "goalsAvg": {
+    "home": 2.717,
+    "away": 1.046
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-23T22:10:06.787Z",
+  "updatedAt": "2026-11-23T22:10:06.787Z"
+}

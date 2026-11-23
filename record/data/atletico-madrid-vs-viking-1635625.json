@@ -1,0 +1,31 @@
+{
+  "slug": "atletico-madrid-vs-viking-1635625",
+  "fixtureId": 1635625,
+  "kickoff": "2026-11-25T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "away": {
+    "id": 759,
+    "en": "Viking"
+  },
+  "observedAt": "2026-11-15T00:21:59.338Z",
+  "probs": {
+    "home": 0.8648,
+    "draw": 0.0916,
+    "away": 0.0436
+  },
+  "goalsAvg": {
+    "home": 3.452,
+    "away": 0.754
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-23T22:10:06.787Z",
+  "updatedAt": "2026-11-23T22:10:06.787Z"
+}

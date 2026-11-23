@@ -1,0 +1,31 @@
+{
+  "slug": "shakhtar-donetsk-vs-fenerbahce-1635724",
+  "fixtureId": 1635724,
+  "kickoff": "2026-11-25T20:00:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 550,
+    "en": "Shakhtar Donetsk"
+  },
+  "away": {
+    "id": 611,
+    "en": "Fenerbahce"
+  },
+  "observedAt": "2026-11-15T00:24:30.158Z",
+  "probs": {
+    "home": 0.37443744374437443,
+    "draw": 0.24712471247124712,
+    "away": 0.37843784378437845
+  },
+  "goalsAvg": {
+    "home": 1.569,
+    "away": 1.578
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-23T22:10:06.787Z",
+  "updatedAt": "2026-11-23T22:10:06.787Z"
+}

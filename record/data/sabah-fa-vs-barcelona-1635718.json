@@ -1,0 +1,31 @@
+{
+  "slug": "sabah-fa-vs-barcelona-1635718",
+  "fixtureId": 1635718,
+  "kickoff": "2026-11-25T17:45:00.000Z",
+  "league": {
+    "id": 2,
+    "en": "UEFA Champions League"
+  },
+  "home": {
+    "id": 13976,
+    "en": "Sabah FA"
+  },
+  "away": {
+    "id": 529,
+    "en": "Barcelona"
+  },
+  "observedAt": "2026-11-15T00:19:23.903Z",
+  "probs": {
+    "home": 0.0473,
+    "draw": 0.0763,
+    "away": 0.8764
+  },
+  "goalsAvg": {
+    "home": 1.091,
+    "away": 4.176
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-23T22:10:06.787Z",
+  "updatedAt": "2026-11-23T22:10:06.787Z"
+}
