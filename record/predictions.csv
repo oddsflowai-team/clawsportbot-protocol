@@ -504,9 +504,9 @@ liverpool-vs-manchester-united-1557473,Premier League,2026-11-22T16:30:00.000Z,L
 werder-bremen-vs-hamburger-sv-1575227,Bundesliga,2026-11-22T16:30:00.000Z,Werder Bremen,Hamburger SV,0.5527,0.2066,0.2407,2026-11-21T10:10:06.572Z,settled,4,0,hit,2026-11-22T22:10:06.859Z
 ac-milan-vs-frosinone-1550197,Serie A,2026-11-22T17:00:00.000Z,AC Milan,Frosinone,0.6173,0.1945,0.1882,2026-11-21T10:10:06.572Z,settled,5,1,hit,2026-11-22T22:10:06.859Z
 osasuna-vs-malaga-1570458,La Liga,2026-11-22T17:30:00.000Z,Osasuna,Malaga,0.5462,0.2517,0.2021,2026-11-21T10:10:06.572Z,settled,1,0,hit,2026-11-22T22:10:06.859Z
-atalanta-vs-inter-milan-1550198,Serie A,2026-11-22T19:45:00.000Z,Atalanta,Inter Milan,0.2147,0.1989,0.5864,2026-11-21T10:10:06.572Z,upcoming,,,,
-marseille-vs-le-mans-1552822,Ligue 1,2026-11-22T19:45:00.000Z,Marseille,Le Mans,0.6534,0.1888,0.1578,2026-11-21T10:10:06.572Z,upcoming,,,,
-getafe-vs-atletico-madrid-1570456,La Liga,2026-11-22T20:00:00.000Z,Getafe,Atletico Madrid,0.179,0.2347,0.5863,2026-11-21T10:10:06.572Z,upcoming,,,,
+atalanta-vs-inter-milan-1550198,Serie A,2026-11-22T19:45:00.000Z,Atalanta,Inter Milan,0.2147,0.1989,0.5864,2026-11-21T10:10:06.572Z,settled,4,4,miss,2026-11-23T01:10:07.057Z
+marseille-vs-le-mans-1552822,Ligue 1,2026-11-22T19:45:00.000Z,Marseille,Le Mans,0.6534,0.1888,0.1578,2026-11-21T10:10:06.572Z,settled,2,3,miss,2026-11-23T01:10:07.057Z
+getafe-vs-atletico-madrid-1570456,La Liga,2026-11-22T20:00:00.000Z,Getafe,Atletico Madrid,0.179,0.2347,0.5863,2026-11-21T10:10:06.572Z,settled,0,3,hit,2026-11-23T01:10:07.057Z
 monza-vs-fiorentina-1550203,Serie A,2026-11-23T19:45:00.000Z,Monza,Fiorentina,0.2955,0.2233,0.4812,2026-11-21T22:10:06.057Z,upcoming,,,,
 brentford-vs-everton-1557469,Premier League,2026-11-23T20:00:00.000Z,Brentford,Everton,0.5323532353235323,0.23202320232023202,0.23562356235623563,2026-11-21T22:10:06.057Z,upcoming,,,,
 levante-vs-elche-1570457,La Liga,2026-11-23T20:00:00.000Z,Levante,Elche,0.4415,0.2389,0.3196,2026-11-21T22:10:06.057Z,upcoming,,,,
