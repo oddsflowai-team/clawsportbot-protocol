@@ -507,9 +507,9 @@ osasuna-vs-malaga-1570458,La Liga,2026-11-22T17:30:00.000Z,Osasuna,Malaga,0.5462
 atalanta-vs-inter-milan-1550198,Serie A,2026-11-22T19:45:00.000Z,Atalanta,Inter Milan,0.2147,0.1989,0.5864,2026-11-21T10:10:06.572Z,settled,4,4,miss,2026-11-23T01:10:07.057Z
 marseille-vs-le-mans-1552822,Ligue 1,2026-11-22T19:45:00.000Z,Marseille,Le Mans,0.6534,0.1888,0.1578,2026-11-21T10:10:06.572Z,settled,2,3,miss,2026-11-23T01:10:07.057Z
 getafe-vs-atletico-madrid-1570456,La Liga,2026-11-22T20:00:00.000Z,Getafe,Atletico Madrid,0.179,0.2347,0.5863,2026-11-21T10:10:06.572Z,settled,0,3,hit,2026-11-23T01:10:07.057Z
-monza-vs-fiorentina-1550203,Serie A,2026-11-23T19:45:00.000Z,Monza,Fiorentina,0.2955,0.2233,0.4812,2026-11-21T22:10:06.057Z,upcoming,,,,
-brentford-vs-everton-1557469,Premier League,2026-11-23T20:00:00.000Z,Brentford,Everton,0.5323532353235323,0.23202320232023202,0.23562356235623563,2026-11-21T22:10:06.057Z,upcoming,,,,
-levante-vs-elche-1570457,La Liga,2026-11-23T20:00:00.000Z,Levante,Elche,0.4415,0.2389,0.3196,2026-11-21T22:10:06.057Z,upcoming,,,,
+monza-vs-fiorentina-1550203,Serie A,2026-11-23T19:45:00.000Z,Monza,Fiorentina,0.2955,0.2233,0.4812,2026-11-21T22:10:06.057Z,settled,3,0,miss,2026-11-24T10:10:06.219Z
+brentford-vs-everton-1557469,Premier League,2026-11-23T20:00:00.000Z,Brentford,Everton,0.5323532353235323,0.23202320232023202,0.23562356235623563,2026-11-21T22:10:06.057Z,settled,4,0,hit,2026-11-24T10:10:06.219Z
+levante-vs-elche-1570457,La Liga,2026-11-23T20:00:00.000Z,Levante,Elche,0.4415,0.2389,0.3196,2026-11-21T22:10:06.057Z,settled,1,1,miss,2026-11-24T10:10:06.219Z
 bodo-glimt-vs-lask-1635641,UEFA Champions League,2026-11-24T17:45:00.000Z,Bodo/Glimt,LASK,0.6283,0.1801,0.1916,2026-11-22T22:10:06.859Z,upcoming,,,,
 galatasaray-vs-aston-villa-1635667,UEFA Champions League,2026-11-24T17:45:00.000Z,Galatasaray,Aston Villa,0.3704,0.2263,0.4033,2026-11-22T22:10:06.859Z,upcoming,,,,
 arsenal-vs-borussia-dortmund-1635611,UEFA Champions League,2026-11-24T20:00:00.000Z,Arsenal,Borussia Dortmund,0.684,0.1861,0.1299,2026-11-22T22:10:06.859Z,upcoming,,,,
