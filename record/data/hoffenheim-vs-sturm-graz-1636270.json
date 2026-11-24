@@ -1,0 +1,31 @@
+{
+  "slug": "hoffenheim-vs-sturm-graz-1636270",
+  "fixtureId": 1636270,
+  "kickoff": "2026-11-26T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "away": {
+    "id": 637,
+    "en": "Sturm Graz"
+  },
+  "observedAt": "2026-11-16T00:32:33.409Z",
+  "probs": {
+    "home": 0.7063293670632937,
+    "draw": 0.16478352164783522,
+    "away": 0.1288871112888711
+  },
+  "goalsAvg": {
+    "home": 2.705,
+    "away": 1.114
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

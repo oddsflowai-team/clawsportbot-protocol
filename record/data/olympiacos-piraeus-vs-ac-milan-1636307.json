@@ -1,0 +1,31 @@
+{
+  "slug": "olympiacos-piraeus-vs-ac-milan-1636307",
+  "fixtureId": 1636307,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 553,
+    "en": "Olympiacos Piraeus"
+  },
+  "away": {
+    "id": 489,
+    "en": "AC Milan"
+  },
+  "observedAt": "2026-11-16T00:22:31.953Z",
+  "probs": {
+    "home": 0.3968,
+    "draw": 0.2667,
+    "away": 0.3365
+  },
+  "goalsAvg": {
+    "home": 1.443,
+    "away": 1.31
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

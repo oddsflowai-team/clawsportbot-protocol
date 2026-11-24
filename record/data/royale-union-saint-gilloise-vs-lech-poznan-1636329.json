@@ -1,0 +1,31 @@
+{
+  "slug": "royale-union-saint-gilloise-vs-lech-poznan-1636329",
+  "fixtureId": 1636329,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 1393,
+    "en": "Royale Union Saint-Gilloise"
+  },
+  "away": {
+    "id": 347,
+    "en": "Lech Poznan"
+  },
+  "observedAt": "2026-11-16T00:27:32.548Z",
+  "probs": {
+    "home": 0.6786,
+    "draw": 0.1708,
+    "away": 0.1506
+  },
+  "goalsAvg": {
+    "home": 2.703,
+    "away": 1.247
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

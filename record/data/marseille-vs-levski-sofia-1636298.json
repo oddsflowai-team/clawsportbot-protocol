@@ -1,0 +1,31 @@
+{
+  "slug": "marseille-vs-levski-sofia-1636298",
+  "fixtureId": 1636298,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "away": {
+    "id": 646,
+    "en": "Levski Sofia"
+  },
+  "observedAt": "2026-11-16T00:24:59.957Z",
+  "probs": {
+    "home": 0.6548,
+    "draw": 0.1986,
+    "away": 0.1466
+  },
+  "goalsAvg": {
+    "home": 2.229,
+    "away": 0.968
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

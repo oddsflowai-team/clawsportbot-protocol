@@ -1,0 +1,31 @@
+{
+  "slug": "celta-vigo-vs-bournemouth-1636244",
+  "fixtureId": 1636244,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "away": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "observedAt": "2026-11-16T00:19:43.121Z",
+  "probs": {
+    "home": 0.25807419258074193,
+    "draw": 0.25007499250074994,
+    "away": 0.4918508149185082
+  },
+  "goalsAvg": {
+    "home": 1.18,
+    "away": 1.708
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

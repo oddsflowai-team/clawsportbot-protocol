@@ -1,0 +1,31 @@
+{
+  "slug": "crystal-palace-vs-real-sociedad-1636252",
+  "fixtureId": 1636252,
+  "kickoff": "2026-11-26T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "away": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "observedAt": "2026-11-16T00:40:11.086Z",
+  "probs": {
+    "home": 0.4741,
+    "draw": 0.229,
+    "away": 0.2969
+  },
+  "goalsAvg": {
+    "home": 1.939,
+    "away": 1.507
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

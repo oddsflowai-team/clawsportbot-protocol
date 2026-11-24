@@ -1,0 +1,31 @@
+{
+  "slug": "dinamo-zagreb-vs-bayer-leverkusen-1636255",
+  "fixtureId": 1636255,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 620,
+    "en": "Dinamo Zagreb"
+  },
+  "away": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "observedAt": "2026-11-16T00:19:55.584Z",
+  "probs": {
+    "home": 0.227,
+    "draw": 0.2078,
+    "away": 0.5652
+  },
+  "goalsAvg": {
+    "home": 1.392,
+    "away": 2.254
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

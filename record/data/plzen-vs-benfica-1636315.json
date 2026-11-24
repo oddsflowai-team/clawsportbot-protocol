@@ -1,0 +1,31 @@
+{
+  "slug": "plzen-vs-benfica-1636315",
+  "fixtureId": 1636315,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 567,
+    "en": "Plzen"
+  },
+  "away": {
+    "id": 211,
+    "en": "Benfica"
+  },
+  "observedAt": "2026-11-16T00:25:02.027Z",
+  "probs": {
+    "home": 0.16548345165483452,
+    "draw": 0.1867813218678132,
+    "away": 0.6477352264773523
+  },
+  "goalsAvg": {
+    "home": 1.202,
+    "away": 2.471
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

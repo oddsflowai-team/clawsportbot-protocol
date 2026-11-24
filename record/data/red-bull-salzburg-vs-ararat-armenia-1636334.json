@@ -1,0 +1,31 @@
+{
+  "slug": "red-bull-salzburg-vs-ararat-armenia-1636334",
+  "fixtureId": 1636334,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 571,
+    "en": "Red Bull Salzburg"
+  },
+  "away": {
+    "id": 3683,
+    "en": "Ararat-Armenia"
+  },
+  "observedAt": "2026-11-16T00:22:22.058Z",
+  "probs": {
+    "home": 0.8148814881488149,
+    "draw": 0.12181218121812182,
+    "away": 0.0633063306330633
+  },
+  "goalsAvg": {
+    "home": 3.002,
+    "away": 0.776
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

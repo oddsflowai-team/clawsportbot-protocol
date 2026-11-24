@@ -1,0 +1,31 @@
+{
+  "slug": "ferencvaros-vs-celje-1636261",
+  "fixtureId": 1636261,
+  "kickoff": "2026-11-26T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 651,
+    "en": "Ferencvaros"
+  },
+  "away": {
+    "id": 4360,
+    "en": "Celje"
+  },
+  "observedAt": "2026-11-16T00:33:01.618Z",
+  "probs": {
+    "home": 0.6918,
+    "draw": 0.1736,
+    "away": 0.1346
+  },
+  "goalsAvg": {
+    "home": 2.572,
+    "away": 1.079
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}

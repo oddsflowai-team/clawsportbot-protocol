@@ -1,0 +1,31 @@
+{
+  "slug": "besiktas-vs-hapoel-beer-sheva-1636231",
+  "fixtureId": 1636231,
+  "kickoff": "2026-11-26T17:45:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 549,
+    "en": "Besiktas"
+  },
+  "away": {
+    "id": 563,
+    "en": "Hapoel Beer Sheva"
+  },
+  "observedAt": "2026-11-16T00:27:51.082Z",
+  "probs": {
+    "home": 0.7872,
+    "draw": 0.136,
+    "away": 0.0768
+  },
+  "goalsAvg": {
+    "home": 2.859,
+    "away": 0.826
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-24T22:10:04.971Z",
+  "updatedAt": "2026-11-24T22:10:04.971Z"
+}
