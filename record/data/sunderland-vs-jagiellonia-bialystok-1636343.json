@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-jagiellonia-bialystok-1636343",
+  "fixtureId": 1636343,
+  "kickoff": "2026-11-26T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 336,
+    "en": "Jagiellonia Bialystok"
+  },
+  "observedAt": "2026-11-16T00:34:59.182Z",
+  "probs": {
+    "home": 0.7486,
+    "draw": 0.1592,
+    "away": 0.0922
+  },
+  "goalsAvg": {
+    "home": 2.564,
+    "away": 0.809
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T10:10:06.662Z",
+  "updatedAt": "2026-11-25T10:10:06.662Z"
+}

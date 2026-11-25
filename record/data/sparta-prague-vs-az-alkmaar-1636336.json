@@ -1,0 +1,31 @@
+{
+  "slug": "sparta-prague-vs-az-alkmaar-1636336",
+  "fixtureId": 1636336,
+  "kickoff": "2026-11-26T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 628,
+    "en": "Sparta Prague"
+  },
+  "away": {
+    "id": 201,
+    "en": "AZ Alkmaar"
+  },
+  "observedAt": "2026-11-16T00:40:08.731Z",
+  "probs": {
+    "home": 0.3583,
+    "draw": 0.2422,
+    "away": 0.3995
+  },
+  "goalsAvg": {
+    "home": 1.576,
+    "away": 1.673
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T10:10:06.662Z",
+  "updatedAt": "2026-11-25T10:10:06.662Z"
+}

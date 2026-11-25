@@ -1,0 +1,31 @@
+{
+  "slug": "lyon-vs-lillestrom-1636294",
+  "fixtureId": 1636294,
+  "kickoff": "2026-11-26T20:00:00.000Z",
+  "league": {
+    "id": 3,
+    "en": "UEFA Europa League"
+  },
+  "home": {
+    "id": 80,
+    "en": "Lyon"
+  },
+  "away": {
+    "id": 321,
+    "en": "Lillestrom"
+  },
+  "observedAt": "2026-11-16T00:37:34.963Z",
+  "probs": {
+    "home": 0.782978297829783,
+    "draw": 0.1349134913491349,
+    "away": 0.08210821082108212
+  },
+  "goalsAvg": {
+    "home": 2.942,
+    "away": 0.904
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T10:10:06.662Z",
+  "updatedAt": "2026-11-25T10:10:06.662Z"
+}
