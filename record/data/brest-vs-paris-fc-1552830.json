@@ -1,0 +1,31 @@
+{
+  "slug": "brest-vs-paris-fc-1552830",
+  "fixtureId": 1552830,
+  "kickoff": "2026-11-27T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 106,
+    "en": "Brest"
+  },
+  "away": {
+    "id": 114,
+    "en": "Paris FC"
+  },
+  "observedAt": "2026-11-17T00:21:41.157Z",
+  "probs": {
+    "home": 0.3232,
+    "draw": 0.2499,
+    "away": 0.4269
+  },
+  "goalsAvg": {
+    "home": 1.405,
+    "away": 1.643
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T22:10:06.813Z",
+  "updatedAt": "2026-11-25T22:10:06.813Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "nottingham-forest-vs-chelsea-1557485",
+  "fixtureId": 1557485,
+  "kickoff": "2026-11-27T20:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 65,
+    "en": "Nottingham Forest"
+  },
+  "away": {
+    "id": 49,
+    "en": "Chelsea"
+  },
+  "observedAt": "2026-11-17T00:24:38.343Z",
+  "probs": {
+    "home": 0.3612,
+    "draw": 0.247,
+    "away": 0.3918
+  },
+  "goalsAvg": {
+    "home": 1.538,
+    "away": 1.609
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T22:10:06.813Z",
+  "updatedAt": "2026-11-25T22:10:06.813Z"
+}

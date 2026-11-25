@@ -1,0 +1,31 @@
+{
+  "slug": "werder-bremen-vs-borussia-monchengladbach-1575237",
+  "fixtureId": 1575237,
+  "kickoff": "2026-11-27T19:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 162,
+    "en": "Werder Bremen"
+  },
+  "away": {
+    "id": 163,
+    "en": "Borussia Mönchengladbach"
+  },
+  "observedAt": "2026-11-17T00:19:14.385Z",
+  "probs": {
+    "home": 0.5456,
+    "draw": 0.2144,
+    "away": 0.24
+  },
+  "goalsAvg": {
+    "home": 2.162,
+    "away": 1.396
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T22:10:06.813Z",
+  "updatedAt": "2026-11-25T22:10:06.813Z"
+}

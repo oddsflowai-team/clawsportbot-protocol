@@ -1,0 +1,31 @@
+{
+  "slug": "venezia-vs-bologna-1550216",
+  "fixtureId": 1550216,
+  "kickoff": "2026-11-27T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 517,
+    "en": "Venezia"
+  },
+  "away": {
+    "id": 500,
+    "en": "Bologna"
+  },
+  "observedAt": "2026-11-17T00:21:58.737Z",
+  "probs": {
+    "home": 0.2802,
+    "draw": 0.2455,
+    "away": 0.4743
+  },
+  "goalsAvg": {
+    "home": 1.297,
+    "away": 1.744
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-25T22:10:06.813Z",
+  "updatedAt": "2026-11-25T22:10:06.813Z"
+}
