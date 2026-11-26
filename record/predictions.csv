@@ -521,13 +521,13 @@ real-madrid-vs-psv-eindhoven-1635715,UEFA Champions League,2026-11-24T20:00:00.0
 slovan-bratislava-vs-real-betis-1635731,UEFA Champions League,2026-11-24T20:00:00.000Z,Slovan Bratislava,Real Betis,0.099,0.1552,0.7458,2026-11-22T22:10:06.859Z,settled,0,2,hit,2026-11-25T10:10:06.662Z
 sabah-fa-vs-barcelona-1635718,UEFA Champions League,2026-11-25T17:45:00.000Z,Sabah FA,Barcelona,0.0473,0.0763,0.8764,2026-11-23T22:10:06.787Z,settled,1,4,hit,2026-11-25T22:10:06.813Z
 slavia-praha-vs-villarreal-1635728,UEFA Champions League,2026-11-25T17:45:00.000Z,Slavia Praha,Villarreal,0.33406659334066596,0.22127787221277873,0.4446555344465553,2026-11-23T22:10:06.787Z,settled,0,1,hit,2026-11-25T22:10:06.813Z
-atletico-madrid-vs-viking-1635625,UEFA Champions League,2026-11-25T20:00:00.000Z,Atletico Madrid,Viking,0.8648,0.0916,0.0436,2026-11-23T22:10:06.787Z,upcoming,,,,
-club-brugge-vs-liverpool-1635642,UEFA Champions League,2026-11-25T20:00:00.000Z,Club Brugge,Liverpool,0.2338,0.1947,0.5715,2026-11-23T22:10:06.787Z,upcoming,,,,
-inter-milan-vs-vfb-stuttgart-1635673,UEFA Champions League,2026-11-25T20:00:00.000Z,Inter Milan,VfB Stuttgart,0.6593,0.1636,0.1771,2026-11-23T22:10:06.787Z,upcoming,,,,
-lille-vs-bayern-munich-1635682,UEFA Champions League,2026-11-25T20:00:00.000Z,Lille,Bayern Munich,0.1088,0.1591,0.7321,2026-11-23T22:10:06.787Z,upcoming,,,,
-paris-saint-germain-vs-as-roma-1635703,UEFA Champions League,2026-11-25T20:00:00.000Z,Paris Saint-Germain,AS Roma,0.7221,0.1605,0.1174,2026-11-23T22:10:06.787Z,upcoming,,,,
-shakhtar-donetsk-vs-fenerbahce-1635724,UEFA Champions League,2026-11-25T20:00:00.000Z,Shakhtar Donetsk,Fenerbahce,0.37443744374437443,0.24712471247124712,0.37843784378437845,2026-11-23T22:10:06.787Z,upcoming,,,,
-sporting-cp-vs-manchester-united-1635735,UEFA Champions League,2026-11-25T20:00:00.000Z,Sporting CP,Manchester United,0.38793879387938796,0.22412241224122412,0.38793879387938796,2026-11-23T22:10:06.787Z,upcoming,,,,
+atletico-madrid-vs-viking-1635625,UEFA Champions League,2026-11-25T20:00:00.000Z,Atletico Madrid,Viking,0.8648,0.0916,0.0436,2026-11-23T22:10:06.787Z,settled,2,0,hit,2026-11-26T10:10:06.955Z
+club-brugge-vs-liverpool-1635642,UEFA Champions League,2026-11-25T20:00:00.000Z,Club Brugge,Liverpool,0.2338,0.1947,0.5715,2026-11-23T22:10:06.787Z,settled,0,3,hit,2026-11-26T10:10:06.955Z
+inter-milan-vs-vfb-stuttgart-1635673,UEFA Champions League,2026-11-25T20:00:00.000Z,Inter Milan,VfB Stuttgart,0.6593,0.1636,0.1771,2026-11-23T22:10:06.787Z,settled,2,0,hit,2026-11-26T10:10:06.955Z
+lille-vs-bayern-munich-1635682,UEFA Champions League,2026-11-25T20:00:00.000Z,Lille,Bayern Munich,0.1088,0.1591,0.7321,2026-11-23T22:10:06.787Z,settled,2,1,miss,2026-11-26T10:10:06.955Z
+paris-saint-germain-vs-as-roma-1635703,UEFA Champions League,2026-11-25T20:00:00.000Z,Paris Saint-Germain,AS Roma,0.7221,0.1605,0.1174,2026-11-23T22:10:06.787Z,settled,2,2,miss,2026-11-26T10:10:06.955Z
+shakhtar-donetsk-vs-fenerbahce-1635724,UEFA Champions League,2026-11-25T20:00:00.000Z,Shakhtar Donetsk,Fenerbahce,0.37443744374437443,0.24712471247124712,0.37843784378437845,2026-11-23T22:10:06.787Z,settled,0,1,hit,2026-11-26T10:10:06.955Z
+sporting-cp-vs-manchester-united-1635735,UEFA Champions League,2026-11-25T20:00:00.000Z,Sporting CP,Manchester United,0.38793879387938796,0.22412241224122412,0.38793879387938796,2026-11-23T22:10:06.787Z,settled,2,2,miss,2026-11-26T10:10:06.955Z
 besiktas-vs-hapoel-beer-sheva-1636231,UEFA Europa League,2026-11-26T17:45:00.000Z,Besiktas,Hapoel Beer Sheva,0.7872,0.136,0.0768,2026-11-24T22:10:04.971Z,upcoming,,,,
 celta-vigo-vs-bournemouth-1636244,UEFA Europa League,2026-11-26T17:45:00.000Z,Celta Vigo,Bournemouth,0.25807419258074193,0.25007499250074994,0.4918508149185082,2026-11-24T22:10:04.971Z,upcoming,,,,
 dinamo-zagreb-vs-bayer-leverkusen-1636255,UEFA Europa League,2026-11-26T17:45:00.000Z,Dinamo Zagreb,Bayer Leverkusen,0.227,0.2078,0.5652,2026-11-24T22:10:04.971Z,upcoming,,,,
