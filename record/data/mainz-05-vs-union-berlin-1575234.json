@@ -1,0 +1,31 @@
+{
+  "slug": "mainz-05-vs-union-berlin-1575234",
+  "fixtureId": 1575234,
+  "kickoff": "2026-11-28T14:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 164,
+    "en": "Mainz 05"
+  },
+  "away": {
+    "id": 182,
+    "en": "Union Berlin"
+  },
+  "observedAt": "2026-11-18T00:24:55.455Z",
+  "probs": {
+    "home": 0.6304630463046305,
+    "draw": 0.19021902190219023,
+    "away": 0.1793179317931793
+  },
+  "goalsAvg": {
+    "home": 2.455,
+    "away": 1.269
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}

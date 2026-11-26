@@ -1,0 +1,31 @@
+{
+  "slug": "ipswich-town-vs-aston-villa-1557482",
+  "fixtureId": 1557482,
+  "kickoff": "2026-11-28T17:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 57,
+    "en": "Ipswich Town"
+  },
+  "away": {
+    "id": 66,
+    "en": "Aston Villa"
+  },
+  "observedAt": "2026-11-18T00:46:41.519Z",
+  "probs": {
+    "home": 0.3028,
+    "draw": 0.2175,
+    "away": 0.4797
+  },
+  "goalsAvg": {
+    "home": 1.654,
+    "away": 2.103
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}

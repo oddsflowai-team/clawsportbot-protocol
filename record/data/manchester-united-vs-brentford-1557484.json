@@ -1,0 +1,31 @@
+{
+  "slug": "manchester-united-vs-brentford-1557484",
+  "fixtureId": 1557484,
+  "kickoff": "2026-11-28T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 33,
+    "en": "Manchester United"
+  },
+  "away": {
+    "id": 55,
+    "en": "Brentford"
+  },
+  "observedAt": "2026-11-18T00:27:15.213Z",
+  "probs": {
+    "home": 0.481,
+    "draw": 0.2193,
+    "away": 0.2997
+  },
+  "goalsAvg": {
+    "home": 2.077,
+    "away": 1.621
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}

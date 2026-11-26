@@ -1,0 +1,31 @@
+{
+  "slug": "frosinone-vs-parma-1550210",
+  "fixtureId": 1550210,
+  "kickoff": "2026-11-28T14:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 512,
+    "en": "Frosinone"
+  },
+  "away": {
+    "id": 523,
+    "en": "Parma"
+  },
+  "observedAt": "2026-11-18T00:19:02.788Z",
+  "probs": {
+    "home": 0.6369,
+    "draw": 0.1895,
+    "away": 0.1736
+  },
+  "goalsAvg": {
+    "home": 2.45,
+    "away": 1.235
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}

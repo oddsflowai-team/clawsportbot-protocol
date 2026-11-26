@@ -1,0 +1,31 @@
+{
+  "slug": "leeds-united-vs-coventry-city-1557483",
+  "fixtureId": 1557483,
+  "kickoff": "2026-11-28T15:00:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 63,
+    "en": "Leeds United"
+  },
+  "away": {
+    "id": 1346,
+    "en": "Coventry City"
+  },
+  "observedAt": "2026-11-18T00:29:48.873Z",
+  "probs": {
+    "home": 0.6092000000000001,
+    "draw": 0.21410000000000004,
+    "away": 0.17670000000000002
+  },
+  "goalsAvg": {
+    "home": 2.093,
+    "away": 1.047
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}

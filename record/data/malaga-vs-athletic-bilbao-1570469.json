@@ -1,0 +1,31 @@
+{
+  "slug": "malaga-vs-athletic-bilbao-1570469",
+  "fixtureId": 1570469,
+  "kickoff": "2026-11-28T15:15:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 535,
+    "en": "Malaga"
+  },
+  "away": {
+    "id": 531,
+    "en": "Athletic Bilbao"
+  },
+  "observedAt": "2026-11-18T00:34:53.436Z",
+  "probs": {
+    "home": 0.22512251225122512,
+    "draw": 0.23512351235123513,
+    "away": 0.5397539753975397
+  },
+  "goalsAvg": {
+    "home": 1.148,
+    "away": 1.881
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}

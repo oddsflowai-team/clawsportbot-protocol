@@ -1,0 +1,31 @@
+{
+  "slug": "real-betis-vs-rayo-vallecano-1570463",
+  "fixtureId": 1570463,
+  "kickoff": "2026-11-28T13:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 543,
+    "en": "Real Betis"
+  },
+  "away": {
+    "id": 728,
+    "en": "Rayo Vallecano"
+  },
+  "observedAt": "2026-11-18T00:16:26.009Z",
+  "probs": {
+    "home": 0.6243,
+    "draw": 0.1918,
+    "away": 0.1839
+  },
+  "goalsAvg": {
+    "home": 2.44,
+    "away": 1.285
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-26T22:10:07.001Z",
+  "updatedAt": "2026-11-26T22:10:07.001Z"
+}
