@@ -1,0 +1,31 @@
+{
+  "slug": "auxerre-vs-marseille-1552829",
+  "fixtureId": 1552829,
+  "kickoff": "2026-11-29T14:00:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 108,
+    "en": "Auxerre"
+  },
+  "away": {
+    "id": 81,
+    "en": "Marseille"
+  },
+  "observedAt": "2026-11-19T00:42:14.014Z",
+  "probs": {
+    "home": 0.2651,
+    "draw": 0.2173,
+    "away": 0.5176
+  },
+  "goalsAvg": {
+    "home": 1.49,
+    "away": 2.124
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T22:10:07.840Z",
+  "updatedAt": "2026-11-27T22:10:07.840Z"
+}

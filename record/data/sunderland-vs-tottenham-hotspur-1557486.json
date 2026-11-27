@@ -1,0 +1,31 @@
+{
+  "slug": "sunderland-vs-tottenham-hotspur-1557486",
+  "fixtureId": 1557486,
+  "kickoff": "2026-11-29T14:05:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 746,
+    "en": "Sunderland"
+  },
+  "away": {
+    "id": 47,
+    "en": "Tottenham Hotspur"
+  },
+  "observedAt": "2026-11-19T00:45:02.646Z",
+  "probs": {
+    "home": 0.2999,
+    "draw": 0.2715,
+    "away": 0.4286
+  },
+  "goalsAvg": {
+    "home": 1.177,
+    "away": 1.454
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T22:10:07.840Z",
+  "updatedAt": "2026-11-27T22:10:07.840Z"
+}

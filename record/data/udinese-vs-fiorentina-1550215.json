@@ -1,0 +1,31 @@
+{
+  "slug": "udinese-vs-fiorentina-1550215",
+  "fixtureId": 1550215,
+  "kickoff": "2026-11-29T11:30:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 494,
+    "en": "Udinese"
+  },
+  "away": {
+    "id": 502,
+    "en": "Fiorentina"
+  },
+  "observedAt": "2026-11-19T00:30:55.551Z",
+  "probs": {
+    "home": 0.2992,
+    "draw": 0.244,
+    "away": 0.4568
+  },
+  "goalsAvg": {
+    "home": 1.378,
+    "away": 1.744
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T22:10:07.840Z",
+  "updatedAt": "2026-11-27T22:10:07.840Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "brighton-vs-newcastle-united-1557478",
+  "fixtureId": 1557478,
+  "kickoff": "2026-11-29T14:05:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 51,
+    "en": "Brighton"
+  },
+  "away": {
+    "id": 34,
+    "en": "Newcastle United"
+  },
+  "observedAt": "2026-11-19T00:44:40.396Z",
+  "probs": {
+    "home": 0.6055,
+    "draw": 0.1954,
+    "away": 0.1991
+  },
+  "goalsAvg": {
+    "home": 2.414,
+    "away": 1.35
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T22:10:07.840Z",
+  "updatedAt": "2026-11-27T22:10:07.840Z"
+}

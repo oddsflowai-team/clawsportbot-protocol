@@ -1,0 +1,31 @@
+{
+  "slug": "crystal-palace-vs-hull-city-1557479",
+  "fixtureId": 1557479,
+  "kickoff": "2026-11-29T14:05:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 52,
+    "en": "Crystal Palace"
+  },
+  "away": {
+    "id": 64,
+    "en": "Hull City"
+  },
+  "observedAt": "2026-11-19T00:47:33.386Z",
+  "probs": {
+    "home": 0.5217521752175218,
+    "draw": 0.23272327232723272,
+    "away": 0.24552455245524551
+  },
+  "goalsAvg": {
+    "home": 1.913,
+    "away": 1.259
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T22:10:07.840Z",
+  "updatedAt": "2026-11-27T22:10:07.840Z"
+}

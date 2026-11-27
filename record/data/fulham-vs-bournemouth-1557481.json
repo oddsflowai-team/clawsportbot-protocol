@@ -1,0 +1,31 @@
+{
+  "slug": "fulham-vs-bournemouth-1557481",
+  "fixtureId": 1557481,
+  "kickoff": "2026-11-29T14:05:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 36,
+    "en": "Fulham"
+  },
+  "away": {
+    "id": 35,
+    "en": "Bournemouth"
+  },
+  "observedAt": "2026-11-19T00:47:28.976Z",
+  "probs": {
+    "home": 0.3734,
+    "draw": 0.2471,
+    "away": 0.3795
+  },
+  "goalsAvg": {
+    "home": 1.566,
+    "away": 1.581
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T22:10:07.840Z",
+  "updatedAt": "2026-11-27T22:10:07.840Z"
+}
