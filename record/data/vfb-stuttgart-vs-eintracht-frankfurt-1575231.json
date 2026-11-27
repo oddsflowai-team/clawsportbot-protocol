@@ -1,0 +1,31 @@
+{
+  "slug": "vfb-stuttgart-vs-eintracht-frankfurt-1575231",
+  "fixtureId": 1575231,
+  "kickoff": "2026-11-28T17:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 172,
+    "en": "VfB Stuttgart"
+  },
+  "away": {
+    "id": 169,
+    "en": "Eintracht Frankfurt"
+  },
+  "observedAt": "2026-11-18T00:46:34.307Z",
+  "probs": {
+    "home": 0.5707570757075707,
+    "draw": 0.19121912191219123,
+    "away": 0.23802380238023801
+  },
+  "goalsAvg": {
+    "home": 2.554,
+    "away": 1.649
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T10:10:06.638Z",
+  "updatedAt": "2026-11-27T10:10:06.638Z"
+}

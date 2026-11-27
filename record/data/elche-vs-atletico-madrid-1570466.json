@@ -1,0 +1,31 @@
+{
+  "slug": "elche-vs-atletico-madrid-1570466",
+  "fixtureId": 1570466,
+  "kickoff": "2026-11-28T17:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 797,
+    "en": "Elche"
+  },
+  "away": {
+    "id": 530,
+    "en": "Atletico Madrid"
+  },
+  "observedAt": "2026-11-18T00:49:11.395Z",
+  "probs": {
+    "home": 0.2039,
+    "draw": 0.1986,
+    "away": 0.5975
+  },
+  "goalsAvg": {
+    "home": 1.348,
+    "away": 2.37
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T10:10:06.638Z",
+  "updatedAt": "2026-11-27T10:10:06.638Z"
+}

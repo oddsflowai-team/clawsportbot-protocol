@@ -1,0 +1,31 @@
+{
+  "slug": "inter-milan-vs-genoa-1550211",
+  "fixtureId": 1550211,
+  "kickoff": "2026-11-28T19:45:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 505,
+    "en": "Inter Milan"
+  },
+  "away": {
+    "id": 495,
+    "en": "Genoa"
+  },
+  "observedAt": "2026-11-18T00:57:23.211Z",
+  "probs": {
+    "home": 0.7375,
+    "draw": 0.156,
+    "away": 0.1065
+  },
+  "goalsAvg": {
+    "home": 2.726,
+    "away": 0.979
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T10:10:06.638Z",
+  "updatedAt": "2026-11-27T10:10:06.638Z"
+}

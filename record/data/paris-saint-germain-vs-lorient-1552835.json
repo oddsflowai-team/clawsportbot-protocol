@@ -1,0 +1,31 @@
+{
+  "slug": "paris-saint-germain-vs-lorient-1552835",
+  "fixtureId": 1552835,
+  "kickoff": "2026-11-28T19:45:00.000Z",
+  "league": {
+    "id": 61,
+    "en": "Ligue 1"
+  },
+  "home": {
+    "id": 85,
+    "en": "Paris Saint-Germain"
+  },
+  "away": {
+    "id": 97,
+    "en": "Lorient"
+  },
+  "observedAt": "2026-11-18T01:00:17.701Z",
+  "probs": {
+    "home": 0.7774777477747775,
+    "draw": 0.1415141514151415,
+    "away": 0.08100810081008102
+  },
+  "goalsAvg": {
+    "home": 2.791,
+    "away": 0.83
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T10:10:06.638Z",
+  "updatedAt": "2026-11-27T10:10:06.638Z"
+}

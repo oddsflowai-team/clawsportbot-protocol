@@ -1,0 +1,31 @@
+{
+  "slug": "real-madrid-vs-alaves-1570470",
+  "fixtureId": 1570470,
+  "kickoff": "2026-11-28T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 541,
+    "en": "Real Madrid"
+  },
+  "away": {
+    "id": 542,
+    "en": "Alaves"
+  },
+  "observedAt": "2026-11-18T01:02:44.186Z",
+  "probs": {
+    "home": 0.8296,
+    "draw": 0.1154,
+    "away": 0.055
+  },
+  "goalsAvg": {
+    "home": 3.027,
+    "away": 0.712
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-27T10:10:06.638Z",
+  "updatedAt": "2026-11-27T10:10:06.638Z"
+}
