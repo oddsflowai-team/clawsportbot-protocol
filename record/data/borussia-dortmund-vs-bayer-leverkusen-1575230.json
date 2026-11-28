@@ -1,0 +1,31 @@
+{
+  "slug": "borussia-dortmund-vs-bayer-leverkusen-1575230",
+  "fixtureId": 1575230,
+  "kickoff": "2026-11-29T18:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 165,
+    "en": "Borussia Dortmund"
+  },
+  "away": {
+    "id": 168,
+    "en": "Bayer Leverkusen"
+  },
+  "observedAt": "2026-11-19T01:06:24.782Z",
+  "probs": {
+    "home": 0.4576,
+    "draw": 0.2261,
+    "away": 0.3163
+  },
+  "goalsAvg": {
+    "home": 1.96,
+    "away": 1.611
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-28T10:10:06.510Z",
+  "updatedAt": "2026-11-28T10:10:06.510Z"
+}

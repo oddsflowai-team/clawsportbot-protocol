@@ -1,0 +1,31 @@
+{
+  "slug": "as-roma-vs-monza-1550207",
+  "fixtureId": 1550207,
+  "kickoff": "2026-11-29T17:00:00.000Z",
+  "league": {
+    "id": 135,
+    "en": "Serie A"
+  },
+  "home": {
+    "id": 497,
+    "en": "AS Roma"
+  },
+  "away": {
+    "id": 1579,
+    "en": "Monza"
+  },
+  "observedAt": "2026-11-19T01:03:21.972Z",
+  "probs": {
+    "home": 0.7763,
+    "draw": 0.1432,
+    "away": 0.0805
+  },
+  "goalsAvg": {
+    "home": 2.752,
+    "away": 0.809
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-28T10:10:06.510Z",
+  "updatedAt": "2026-11-28T10:10:06.510Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "celta-vigo-vs-villarreal-1570464",
+  "fixtureId": 1570464,
+  "kickoff": "2026-11-29T17:30:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 538,
+    "en": "Celta Vigo"
+  },
+  "away": {
+    "id": 533,
+    "en": "Villarreal"
+  },
+  "observedAt": "2026-11-19T01:03:48.597Z",
+  "probs": {
+    "home": 0.3679,
+    "draw": 0.25,
+    "away": 0.3821
+  },
+  "goalsAvg": {
+    "home": 1.526,
+    "away": 1.558
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-28T10:10:06.510Z",
+  "updatedAt": "2026-11-28T10:10:06.510Z"
+}

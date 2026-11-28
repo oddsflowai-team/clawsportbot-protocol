@@ -1,0 +1,31 @@
+{
+  "slug": "hoffenheim-vs-augsburg-1575232",
+  "fixtureId": 1575232,
+  "kickoff": "2026-11-29T16:30:00.000Z",
+  "league": {
+    "id": 78,
+    "en": "Bundesliga"
+  },
+  "home": {
+    "id": 167,
+    "en": "Hoffenheim"
+  },
+  "away": {
+    "id": 170,
+    "en": "Augsburg"
+  },
+  "observedAt": "2026-11-19T00:58:29.903Z",
+  "probs": {
+    "home": 0.557,
+    "draw": 0.1977,
+    "away": 0.2453
+  },
+  "goalsAvg": {
+    "home": 2.44,
+    "away": 1.61
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-28T10:10:06.510Z",
+  "updatedAt": "2026-11-28T10:10:06.510Z"
+}

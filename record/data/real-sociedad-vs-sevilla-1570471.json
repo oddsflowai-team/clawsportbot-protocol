@@ -1,0 +1,31 @@
+{
+  "slug": "real-sociedad-vs-sevilla-1570471",
+  "fixtureId": 1570471,
+  "kickoff": "2026-11-29T20:00:00.000Z",
+  "league": {
+    "id": 140,
+    "en": "La Liga"
+  },
+  "home": {
+    "id": 548,
+    "en": "Real Sociedad"
+  },
+  "away": {
+    "id": 536,
+    "en": "Sevilla"
+  },
+  "observedAt": "2026-11-19T01:11:43.675Z",
+  "probs": {
+    "home": 0.43404340434043404,
+    "draw": 0.24972497249724973,
+    "away": 0.31623162316231623
+  },
+  "goalsAvg": {
+    "home": 1.656,
+    "away": 1.386
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-28T10:10:06.510Z",
+  "updatedAt": "2026-11-28T10:10:06.510Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "arsenal-vs-manchester-city-1557477",
+  "fixtureId": 1557477,
+  "kickoff": "2026-11-29T16:30:00.000Z",
+  "league": {
+    "id": 39,
+    "en": "Premier League"
+  },
+  "home": {
+    "id": 42,
+    "en": "Arsenal"
+  },
+  "away": {
+    "id": 50,
+    "en": "Manchester City"
+  },
+  "observedAt": "2026-11-19T01:00:53.921Z",
+  "probs": {
+    "home": 0.469,
+    "draw": 0.2429,
+    "away": 0.2881
+  },
+  "goalsAvg": {
+    "home": 1.769,
+    "away": 1.347
+  },
+  "status": "upcoming",
+  "type": "match",
+  "generatedAt": "2026-11-28T10:10:06.510Z",
+  "updatedAt": "2026-11-28T10:10:06.510Z"
+}
